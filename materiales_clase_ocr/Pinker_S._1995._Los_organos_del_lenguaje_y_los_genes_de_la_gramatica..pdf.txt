@@ -1,0 +1,1545 @@
+i
+e STEVEN PINKER
+
+= EL INSTINTO
+DEL LENGUAJE
+
+
+Capitulo 10
+LOS ORGANOS DEL LENGUAJE
+Y LOS GENES DE LA GRAMATICA
+
+«Investigadores atribuyen a los genes la capacidad para aprender la -gramatica».
+Este titular del afio 1992 no aparecié en ningun diario sensacion alista, sino en una
+cronica de la agencia Associated Press basada en el informe de la reunion anual de la
+principal sociedad cientifica de los Estados Unidos. En dicho informe se comentaban
+algunas pruebas de que el Trastorno Especifico del Lenguaje (SLI segun las siglas en
+inglés) aparece vinculado a linajes familiares, como el caso de la familia britanica
+citada en el capitulo 2 en la que se apreciaba un patron hereditario bastante claro. Los
+columnistas James J. Kilpatrick y Erma Bombeck no salfan de su asombro. Asi
+comenzaba la columna de Kilpatrick:
+
+MEJORE SU GRAMATICA A TRAVES DE LOS GENES
+
+Un grupo de investigadores hizo una asombrosa revelacion hace unos dias en
+la reunién de la American Association for the Advancement of Science.
+¢Estan preparados? Los bidlogos genéticos han localizado el gen de la
+gramatica.
+
+Ni mas ni menos. Segun informan diversas fuentes, Steven Pinker, del
+MIT, y Myrna Gopnik, de la McGill University, han resuelto un enigma que
+venia desconcertando a los profesores de inglés desde hace afios. Algunos
+alumnos dominan la gramatica con tan sdlo unas pocas muecas de protesta.
+En cambio, hay otros que, por mucho que se les intente ensefiar, insisten en
+decir que Susie la invitd a ella y a yo a la fiesta. Todo es cuestién de herencia.
+Hasta ahi, la cosa se puede digerir.
+
+Pero eso no es todo. Ademas, segtin opinan algunos bidlogos, hay un
+unico gen dominante que controla la capacidad de aprender la gramatica. Un
+nifio que dice «{Cual tornillo es la mio?» no tiene por qué ser tonto. No le
+falta ningtin tornillo. Sencillamente, anda un tanto escaso de cromosomas.
+
+Este descubrimiento es increible. Dentro de poco, no nos quepa duda, los
+bidlogos habraén aislado el gen para escribir sin faltas de ortografia...
+[contintia la crénica]... el gen para leer libros... el gen para bailar el
+«bakalao»... otro para apalancarse a la televisi6n... para comportarse con
+educacién... para hacer las faenas de la casa... 0 para las tareas de la escuela.
+
+www.lectulandia.com - Pagina 282
+
+Por su parte, Bombeck escribia lo siguiente;
+
+¢LE FALLA LA GRAMATICA? ES UNO PROBLEMA
+DE LAS GENES
+
+Para mi no fue una sorpresa leer que a los chavales que no pueden aprender la
+gramatica les falta un gen dominante... Mi marido ensefid inglés en un
+instituto de ensefianza media durante una temporada. Lleg6 a tener hasta 37
+alumnos con deficiencias genético-gramaticales en una misma clase. ¢Se
+imaginan cual es la probabilidad de que eso ocurra? Los pobres no tenian ni
+idea de lo que les pasaba. Para ellos, una coma era como un jeroglifico
+egipcio, un complemento circunstancial era algo que te pones en el peinado
+para que no se te deshaga mientras buscas un espejo y un participio presente
+es alguien que te esta vigilando constantemente...
+
+Se preguntaran dénde han ido a parar esas personas. Seguramente seran
+famosos deportistas, estrellas de la television y artistas de prestigio que ganan
+dinero a manos llenas diciendo cosas como «evidentemente», «yo entiendo de
+que» o «me se ha olvidado» pensando que se trata de frases completas.
+
+Estas croénicas de prensa, noticias de tercera mano, editoriales de revistas de
+divulgaci6n y comentarios radiofénicos me han hecho comprender hasta qué punto
+los periodistas presionados por la urgencia informativa desvirttian la informacién
+sobre los hallazgos cientificos. Pongamos las cosas en su sitio; el descubrimiento de
+la familia con el trastorno del lenguaje hereditario se debid a Gopnik; el generoso
+reportero que me atribuy6 el honor de compartir ese hallazgo no advirtid que yo era
+simplemente quien presidia la mesa y quién se encarg6 de presentar a la Sra. Gopnik
+al publico. Nadie habia localizado el gen de la gramatica, sino sdlo inferido la
+existencia de un gen defectuoso a partir de la distribucidn del trastorno en una
+familia. Del hecho de que se suponga que hay un gen que interfiere en el desarrollo
+de la gramatica no se sigue que haya un gen que controla la gramatica. (Cuando se le
+quita a un motor el cable del distribuidor, el coche no arranca, lo cual no significa que
+ese cable sea lo que controla el funcionamiento del coche). Y naturalmente, lo que se
+ve afectado en tales casos es la capacidad para conversar normalmente y no la de
+aprender el dialecto escrito que se ensefia en la escuela.
+
+Sin embargo, incluso muchos de los que conocen las cosas tal y como son
+muestran la misma incredulidad que los periodistas. g;Cémo es posible que haya un
+gen asociado a algo tan especifico como la gramatica? Semejante idea constituye una
+amenaza a la asentada creencia de qué el cerebro es una maquina de proposito
+general, amorfa y desprovista de contenido antes de recibir su experiencia de la
+cultura circundante. Y aun suponiendo que haya unos genes de la gramatica, ¢qué es
+
+www.lectulandia.com - Pagina 283
+
+lo que hacen esos genes? Seguramente se encargan de construir él 6rgano de la
+gramatica, segtin la metafora recibida de Chomsky que a muchos les suena
+igualmente descabellada.
+
+No obstante, si realmente existe un instinto del lenguaje, debe de estar radicado
+en alguna parte del cerebro, y los circuitos en los que se asienta han tenido que recibir
+sus capacidades de los genes, responsables de su existencia. ¢Qué clase de pruebas
+habria que aducir para demostrar la existencia de unos genes responsables de que
+haya regiones del cerebro que controlan la gramatica? Los medios habituales de
+investigacién genética y neurobiolégica no suelen servir de mucho. A la gente no le
+suele gustar que le implanten unos electrodos en el cerebro, que le inyecten
+sustancias quimicas, que le abran el crdneo para operarle el cerebro o que le corten el
+cerebro en rodajitas para teflirlas y mirarlas por el microscopio. (Como dijo Woody
+Alien, «el cerebro es mi segundo érgano favorito»). Por eso; la biologia del lenguaje
+todavia se conoce muy poco. Sin embargo, los accidentes de la naturaleza y ciertas
+técnicas indirectas sumamente ingeniosas han permitido a los neurolingiiistas
+averiguar muchas cosas. Vamos a seguirle los pasos al hipotético gen de la gramatica,
+comenzando con un examen del cerebro a vista de pajaro para luego ir descendiendo
+poco a poco hacia sus componentes mas pequefios.
+
+ae ge ee a te ES,
+
+La busqueda podria reducirse de entrada prescindiendo de la mitad del cerebro.
+En 1861, el médico francés Paul Broca extirp6 el cerebro al cadaver de un paciente
+afadsico conocido entre los trabajadores del hospital como «Tan», ya que esa era la
+unica silaba que podia articular. Broca descubrid un enorme quiste que habia
+originado una lesién en el hemisferio izquierdo de Tan. Los siguientes ocho casos de
+afasia que examin6o también presentaban lesiones en el hemisferio izquierdo, lo que
+hacia dificil atribuirselo al azar. Broca llegé a la conclusién de que «la facultad del
+lenguaje articulado» reside en el hemisferio izquierdo.
+
+En los ciento treinta afios transcurridos desde entonces, la conclusidn de Broca se
+ha confirmado con pruebas de muy diversa indole. Algunas de ellas proceden de la
+observacion de que la mitad derecha del cuerpo y, del espacio perceptivo esta
+controlada por el hemisferio izquierdo del cerebro, y viceversa. Muchos pacientes
+afasicos sufren también debilidad o hemipardlisis en el lado derecho, incluidos Tan y
+el afasico recuperado que vimos en el capitulo 2, que se despert6 creyendo que habia
+dormido apoyado sobre su brazo derecho. Los siguientes versos de los Salmos
+137:5-6 ilustran muy bien esta sintomatologia:
+
+Si yo te olvido, oh Jerusalén,
+olvidese de mi mi diestra.
+Péguese mi lengua al paladar,
+
+www.lectulandia.com - Pagina 284
+
+sino me acordare de ti.
+
+Las personas normales reconocen palabras con mas precisidn cuando éstas se
+muestran brevemente al hemicampo visual derecho que cuando se muestran al
+hemicampo visual izquierdo, incluso en una lengua como el hebreo, que se escribe de
+derecha a izquierda. Cuando distintas palabras se presentan simultaneamente a los
+dos oidos, las personas reconocen mejor las que reciben por el oido derecho. En casos
+de epilepsia incurable, el cirujano desconecta los dos hemisferios del cerebro
+seccionando el haz de fibras que los une. Tras esta intervencion, los pacientes pueden
+llevar una vida completamente normal, salvo un pequefio detalle que no le pasé
+inadvertido al neuropsicélogo Michael Gazzaniga: cuando se mantiene inmovil al
+paciente, éste puede describir los sucesos que se le presentan al hemicampo visual
+derecho y nombrar objetos que palpa con la mano derecha, pero no puede describir
+esos sucesos si se le presentan al hemicampo visual izquierdo ni nombrar los objetos
+si los palpa con la mano izquierda (aun cuando el hemisferio derecho dé muestras de
+reconocerlos mediante gestos no verbales). La mitad izquierda de su mundo ha sido
+separada de los centros del lenguaje.
+
+Al examinar directamente el cerebro por medio de diversas técnicas, los
+neurocientificos pueden contemplar literalmente el lenguaje en accién en el
+hemisferio izquierdo. La anatomia de un cerebro normal, con sus surcos y sus
+protuberancias, es ligeramente asimétrica. En algunas de las regiones asociadas con el
+lenguaje, las diferencias son tan potables que pueden descubrirse a simple vista. La
+Tomografia Axial Computarizada (0 TAC) y la Resonancia Magnética Nuclear
+(RMN) emplean algoritmos computacionales para reconstruir la fotografia de una
+seccién transversal del cerebro en funcionamiento. Los cerebros de los pacientes
+afasicos casi siempre muestran lesiones en el hemisferio izquierdo. Por otra parte, los
+neurdlogos, pueden paralizar temporalmente un hemisferio inyectando amital sddico
+en la arteria cardtida. Los pacientes cuyo hemisferio derecho es anestesiado por este
+procedimiento pueden hablar, mientras que aquellos a quienes se les anestesia el
+izquierdo no pueden. Asimismo, los pacientes sometidos a intervenciones quirtirgicas
+en el cerebro pueden mantenerse conscientes bajo anestesia local, ya que el cerebro
+no tiene receptores del dolor. El neurocirujano William Penfield descubrié que al
+suministrar pequefias descargas eléctricas a ciertas partes del hemisferio izquierdo,
+podia interrumpirse al paciente a la mitad de una frase. (Los neurocirujanos no hacen
+estas cosas por mera curiosidad, sino para asegurarse de que al extirpar los tejidos
+enfermos no dafian partes vitales del cerebro). En una técnica empleada en la
+investigacién con sujetos normales, se instalan electrodos por toda la superficie del
+cuero cabelludo para registrar el electroencefalograma (EEG) del sujeto mientras éste
+lee o escucha palabras. En este registro se pueden apreciar cambios en la sefial
+eléctrica perfectamente sincronizados con cada palabra, siendo mas pronunciados
+estos cambios en los electrodos conectados a la mitad izquierda de la cabeza que en
+
+www.lectulandia.com - Pagina 285
+
+los de la mitad derecha. No obstante, este hallazgo no esta exento de problemas de
+interpretacién, habida cuenta de que una sefial eléctrica que se genera en la
+profundidad de una regién del cerebro puede irradiarse hacia la superficie de otra
+region.
+
+La nueva técnica denominada Tomografia por Emisidn de Positrones (PET)
+consiste en inyectar a un voluntario una soluci6on ligeramente radiactiva de glucosa o
+agua, o en hacerle inhalar un gas radiactivo en una dosis comparable a la de los rayos
+X, e introducir su cabeza en un anillo de detectores de rayos gamma. Las regiones del
+cerebro que se hallan mas activas consumen mas glucosa y en ellas la sangre circula
+mas oxigenada. Mediante algoritmos de ordenador se puede determinar qué partes del
+cerebro estan implicadas en una determinada tarea a base de observar el patrén de
+radiacidn que emana de la cabeza del sujeto. De este modo, se puede obtener una
+imagen generada por ordenador de la actividad metabdlica que tiene lugar en una
+finisima seccion del cerebro, en la cual las areas mds activas aparecen tefidas de
+amarillo 0 rojo intenso y las que se hallan en reposo se muestran de color affil. Si se
+compara la imagen de un cerebro mientras contempla estimulos o escucha sonidos sin
+significado con la imagen del mismo cerebro mientras comprende palabras o frases,
+podra observarse qué regiones del cerebro «se encienden» durante el procesamiento
+del lenguaje. Segtin cabia esperar, los puntos calientes se encuentran en el hemisferio
+izquierdo.
+
+éQué es exactamente lo que mantiene ocupado al hemisferio izquierdo? No son
+simplemente sonidos parecidos al habla, formas que se asemejan a palabras o
+movimientos bucales, sino lenguaje abstracto. La mayoria de los afasicos (como el
+Sr. Ford del capitulo 2) pueden soplar velas y beber de una pajita, pero su escritura se
+ve tan afectada como su lenguaje hablado, lo que viene a indicar que lo que se
+encuentra dafiado no es el control de los musculos de la boca, sino el control del
+lenguaje. Algunos afasicos cantan muy bien y no pocos sueltan palabrotas como
+nadie. En el terreno de la percepcidn, se sabe con certeza que los tonos se discriminan
+mejor cuando se presentan al oido izquierdo, que se halla mas profusamente
+conectado con el hemisferio derecho. Sin embargo, esto sdlo sucede si los tonos se
+perciben como sonidos musicales; cuando quien los oye es chino o tailandés y los
+interpreta como rasgos o fonemas del habla, se observa una ventaja del oido derecho
+y del hemisferio izquierdo que recibe las sefiales.
+
+Si se le pide a una persona que repita en voz alta y sobre la marcha las frases que
+esta oyendo pronunciar a otra (una técnica conocida como «seguimiento»), y al
+mismo tiempo que dé golpecitos con un dedo de la mano derecha o izquierda, la
+persona tendra mas dificultad en el golpeteo con la mano derecha, toda vez que esa
+mano tiene que competir con el lenguaje por el uso de los mismos recursos del
+hemisferio izquierdo. Este mismo efecto ha sido constatado por la psicéloga Ursula
+Bellugi y sus colaboradores en sujetos sordos que hacian seguimiento de signos
+ejecutados con una sola mano en el Lenguaje de Signos Americano, resultandoles
+
+www.lectulandia.com - Pagina 286
+
+mas dificil realizar el golpeteo con un dedo de la mano derecha que con uno de la
+mano izquierda. La interpretacidn de los gestos debe implicar en mayor medida al
+hemisferio izquierdo, aunque no por el hecho de ser gestos, sino por tratarse de gestos
+lingiiisticos. En cambio, cuando una persona, sea mediante gestos o hablando, tiene
+que efectuar el seguimiento de gestos no lingitisticos como el de decir adids, la sefial
+de la victoria o cualquier otro gesto no significativo, la interferencia afecta por igual a
+los dedos de ambas manos.
+
+El estudio de la afasia en sordos ha arrojado conclusiones parecidas. Los
+signadores sordos con lesiones en el hemisferio izquierdo presentan sintomas de
+afasia de signos practicamente idénticas a los de las afasias de oyentes con lesiones
+similares. Por ejemplo, hay afasicos signadores que ejecutan correctamente aquellas
+tareas no lingitisticas que plantean demandas similares a las tareas lingiiisticas en el
+uso de los ojos y las manos, tales como la realizacién e interpretacién de gestos no
+verbales, la pantomima, el reconocimiento de rostros y la copia de disefios. Las
+lesiones del hemisferio derecho en sordos signadores muestran el patron inverso de
+sintomas. Estos pacientes conservan sus capacidades de lenguaje signado mientras
+que presentan déficits en tareas visoespaciales, al igual que los pacientes oyentes con
+dafios en el hemisferio derecho. Este descubrimiento es, sin duda, fascinante. Puesto
+que el hemisferio derecho esta especializado en capacidades visoespaciales, cabria
+esperar que el lenguaje de signos, dependiente dé estas capacidades, tuviera su
+asiento en este hemisferio. Sin embargo, los hallazgos de Bellugi muestran que el
+lenguaje, tanto en su modalidad audiovocal como en la visomanual, es controlado por
+el hemisferio izquierdo. Por ello, es de suponer que el hemisferio izquierdo se ocupa
+de las reglas y estructuras abstractas que subyacen al lenguaje, de la gramatica, el
+diccionario y la anatomia de las palabras, y no simplemente de los sonidos y los
+movimientos articulatorios que afloran a la superficie.
+
+ae ge ee a te ES,
+
+éPor qué se halla lateralizado el lenguaje? O por decir mejor, ¢por qué el resto de
+las funciones son tan simétricas? La simetria es una forma bastante improbable de
+organizaci6n de la materia. Si hubiera que rellenar los cuadrados de un tablero de
+ajedrez al azar, la probabilidad de que resultara una distribucién bilateralmente
+simétrica seria de una entre un bill6n. Las moléculas de la vida son asimétricas, lo
+mismo que la mayoria de las plantas y muchos animales. Hacer un organismo
+bilateralmente simétrico es costoso y dificil. La simetria es tan exigente para los
+organismos que la poseen, que cualquier enfermedad o debilidad puede dar al traste
+con ella. Por eso mismo, la simetria resulta atractiva a muchos organismos, desde la
+mosca-escorpién y fe golondrina hasta el hombre, pues suele indicar la presencia de
+un compafiero sexual sano. En cambio, la asimetria se percibe como signo de
+deformidad. Asi pues, tiene que haber un rasgo esencial en el estilo de vida de un
+
+www.lectulandia.com - Pagina 287
+
+animal que compense el elevado precio que hay que pagar por tener un disefio
+simétrico. Este rasgo es la movilidad. Las especies que poseen un disefio corporal
+bilateralmente simétrico son las nicas capacitadas para desplazarse en linea recta, y
+ello por razones evidentes. Una criatura con un organismo asimétrico avanzaria
+describiendo circulos, y una con 6rganos sensoriales asimétricos sdlo podria controlar
+una parte de su cuerpo, perdiéndose todo lo que ocurriera en la otra parte. Los
+organismos capacitados para la locomoci6n presentan una simetria longitudinal
+(izquierda-derecha), pero no transversal (delante-detrds). Asimismo, aplican mas
+fuerza en un solo sentido, por lo que les resulta mas facil desplazarse en ese sentido
+(hacia delante) y darse la vuelta que moverse indistintamente en ambos sentidos (o
+desplazarse en cualquier direcci6n, como un platillo volante). Por otra parte, como es
+natural, estos organismos no poseen simetria horizontal (arriba-abajo), ya que la
+fuerza de la gravedad les empuja hacia abajo.
+
+La simetria de los 6rganos sensoriales y motores se halla reflejada en el cerebro,
+la mayor parte del cual, al menos en los organismos no humanos, se dedica a procesar
+sensaciones y a planificar acciones. El cerebro esta dividido en mapas de los espacios
+visual, auditivo y motor que reproducen con gran fidelidad la estructura del espacio
+real: si nos desplazamos de un punto de la corteza cerebral a otro vecino, hallaremos
+neuronas sensibles a una regi6én préxima en el espacio a la regidn anterior. Asi pues,
+los organismos simétricos que disponen de un mundo perceptivo simétrico tienen
+también cerebros casi perfectamente simétricos.
+
+Ningtin bidlogo ha explicado todavia por qué el hemisferio izquierdo controla el
+espacio derecho, y viceversa. Fue un psicolingiiista, Marcel Kinsboume, quien
+aventuré una hipotesis con ciertos visos de verosimilitud. En todos los invertebrados
+bilateralmente simétricos (gusanos, insectos y demas), la parte izquierda del sistema
+nervioso controla la parte izquierda del cuerpo y la derecha controla la parte derecha
+del cuerpo. Lo mas probable es que el antecesor invertebrado mas préximo a los
+cordados (esto es, los animales que poseen una columna vertebral en tomo a la
+médula espinal, y entre los que figuran los peces, los anfibios, las aves, los reptiles y
+los mamiferos) también tuviera esta misma estructura. Sin embargo, los cordados ya
+presentan un control «contralateral», es decir, el hemisferio derecho controla la parte
+izquierda del cuerpo, y el izquierdo la parte derecha. ¢Qué pudo originar esta
+reestructuracién? He aqui la idea de Kinsboume, Imaginemos una criatura con un
+control de izquierda a izquierda. Supongamos que gira la cabeza 180 grados, igual
+que un btho, para mirar detras de él (sin pasarse de ahi, como hacia la nifia de El
+Exorcista). Ahora supongamos que la cabeza se le queda atascada en esa posicion.
+Las fibras nerviosas han experimentado la mitad de un giro, de tal manera que en esta
+posicién, la mitad izquierda del cerebro controla la parte derecha del cuerpo, y
+viceversa.
+
+No es que Kinsboume afirme que hubo un primer organismo contorsionista que
+se quedd con la cabeza atascada del revés, sino que ciertos cambios en las
+
+www.lectulandia.com - Pagina 288
+
+instrucciones genéticas destinadas a construir ‘el organismo’ derivaron en ese medio
+giro del sistema nervioso en el transcurso del desarrollo embrionario. (Una torsién
+similar se produce durante el desarrollo de los caracoles y de algunas especies de
+moscas). Esto tal vez parezca un modo bastante perverso de construir un organismo,
+pero lo cierto es que la evolucion lo hace constantemente, pues no elabora sus disefios
+a partir de cero, sino que tiene que arreglarselas con los materiales que tiene a mano
+en cada momento. Por poner algunos ejemplos, nuestra columna vertebral tan
+sadicamente disefiada en forma de «S» es producto de sucesivos doblamientos y
+estiramientos del espinazo arqueado de nuestros antepasados cuadrupedos. El aspecto
+picassiano del rostro del rodaballo es resultado de la deformaci6n de la cabeza de un
+pez que vivia aferrado al fondo, marino, a consecuencia de lo cual el ojo que miraba
+inutilmente hacia abajo se fue desplazando hacia la cara opuesta. Dado que la
+hipotética criatura que postula Kinsboume no dejé fdsiles y se extinguid hace
+millones de afios, nadie sabe por qué se produjo esa rotacion. (Tal vez uno de sus
+antepasados tuvo que cambiar la postura, igual que el rodaballo, y luego tuvo que
+enderezarse. Como la evolucién no es previsora, puede que al volver a alinear la
+cabeza con el cuerpo efectuara un cuarto de giro en la misma direccién, en lugar de
+seguir el procedimiento mas razonable de invertir el giro original). De todos modos,
+la causa Ultima no es tan importante; lo Unico que Kinsboume propone es que hubo
+tal rotacién, sin conjeturar de qué modo tuvo lugar. (Los cientificos parecen estar
+mejor informados del caso del caracol, en el que la rotacid6n va acompafiada de un
+ligero doblamiento, como ocurre con los cuernos de un croissant. Mi viejo libro de
+biologia dice al respecto lo siguiente: «Mientras la cabeza y el pie permanecen fijos,
+la masa visceral experimenta un giro de 180 grados, de tal modo que el ano... se
+desplaza hacia arriba y termina ocupando una posici6on [por encima de] la cabeza...
+Las ventajas de esta disposicidn son evidentes para un organismo que. vive encerrado
+en un Caparazon con una sola abertura).
+
+Kinsboume aduce en apoyo de su teoria el hecho de que en tos invertebrados, las
+principales Fibras neurales se extienden a lo largo del vientre y el corazon se situa a
+la espalda, mientras que los cordados-tienen las fibras neurales a lo largo de la
+espalda y el corazon en el pecho. Esto es justamente lo que cabria esperar si en la
+transicién de un grupo al otro se hubiera producido un giro de 180 grados de la
+cabeza en relacién con el cuerpo, Por ende, Kinsboume no ha hallado evidencia de
+animales que presentaran solo uno o dos de los tres cambios que, segtin su teoria,
+llevaria aparejados un giro de la cabeza de ISO grados. Los cambios importantes en
+la arquitectura de cuerpo afectan a todo el disefio de un animal y resultan
+extremadamente dificiles de deshacer. Por consiguiente, es legitimo suponer que
+descendemos de una criatura retorcida y que a consecuencia de ello, miles de
+millones de afios después, si se produce un infarto en el hemisferio izquierdo
+sentimos un hormigueo en el brazo derecho,
+
+Las ventajas del esquema corporal simétrico estan relacionadas con las funciones
+
+www.lectulandia.com - Pagina 289
+
+de sensibilidad y motricidad en un entorno bilateralmente indistinto. De ahi que los
+organos corporales que no interacttian directamente con el entorno no tengan por qué
+atenerse a esta distribucién simétrica. Buena muestra de ello son los érganos internos,
+como el corazon, el higado y el est6mago, todos ellos asimétricos, que no se hallan en
+contacto directo con la configuracién del mundo exterior. Lo mismo ocurre, aunque a
+escala mucho mas pequefia, en los circuitos microscépicos del cerebro.
+
+Pensemos en lo que ocurre cuando manipulamos deliberadamente un objeto
+inerte. El manipulador coloca el objeto donde quiere, sin tener que sincronizar sus
+acciones con el entorno. Nuestras extremidades anteriores y los centros cerebrales
+que controlan sus movimientos no tienen que actuar simétricamente para responder a
+los sucesos impredecibles que pueden acontecer a un lado u otro de nuestro entorno
+inmediato, sino que han de estar adaptados a la configuraci6n que sea mas eficaz para
+llevar a cabo la accién correspondiente. La manipulacién dé un objeto es mas
+eficiente cuando existe una divisién del trabajo entre las dos extremidades: una lo
+sostiene mientras la otra acttia sobre él. El resultado lo tenemos en las pinzas
+asimétricas de las langostas y en los cerebros asimétricos que controlan las patas y las
+manos de muchas especies distintas. Los seres humanos son, con mucho, los mas
+diestros manipuladores del reino animal y la especie en la que mas claramente se
+manifiesta la preferencia por una dejas dos extremidades. El noventa por ciento de las
+personas de todas las épocas y sociedades son y han sido diestros, y se cree que la
+mayor parte de ellos poseen una o dos copias de un gen dominante que impone este
+sesgo hacia la «destria» (y el consiguiente control del hemisferio. izquierdo). Quienes
+poseen dos copias de la versién recesiva de este gen se desarrollan sin esta
+preferencia, y constituyen la restante poblacién de sujetos diestros, mas los zurdos y
+los ambidextros.
+
+Otra funcién en la que la simetria no desempefia ningtin papel relevante es el
+procesamiento de informacién que se despliega en el tiempo, y no en el espacio.
+Cuando se dispone de la suficiente cantidad de tejido neural para realizar esa funci6n,
+parece mas sensato que todo ese tejido se acumule en una misma regi6n con
+interconexiones cortas, en lugar de estar repartido entre dos regiones mutuamente
+alejadas que se comunican a través de largas conexiones por las que la informacién
+transita con lentitud y se expone a multiples interferencias. Eso explica que el control
+del canto se halle fuertemente lateralizado en el hemisferio izquierdo de muchas
+especies de aves y la produccion y el reconocimiento de los gritos y Ilamadas también
+esté relativamente lateralizado en los primates, los delfines y los ratones.
+
+El hecho de que el lenguaje humano se halle concentrado en un solo hemisferio
+obedece también a que se trata de informacion coordinada en el tiempo y no en
+espacio: las palabras se organizan en secuencias, pero no se difunden en una
+determinada direccidn. Cabe pensar que el hemisferio que ya disponia de los
+microcircuitos encargados de controlar la manipulacion fina, deliberada y secuencial
+de objetos inertes fuera el lugar natural para acoger el lenguaje, que también requiere
+
+www.lectulandia.com - Pagina 290
+
+un control secuencial. Y en el linaje evolutivo que conduce hasta nuestra especie, este
+hemisferio era el izquierdo. Para muchos psicdélogos cognitivos, la mayoria de los
+procesos mentales que requieren una coordinaci6n secuencial y que entrafian una
+determinada disposiciédn de elementos co-residen en el hemisferio izquierdo, como
+por ejemplo el reconocimiento y la elaboracién de objetos que constan de multiples
+piezas o la realizaci6n de inferencias en el razonamiento légico. Al examinar por
+separado los dos hemisferios de un paciente con el cerebro dividido, Gazzaniga
+descubrié que el hemisferio izquierdo aislado tenia el mismo CI (cociente intelectual)
+que el cerebro del paciente con los dos hemisferios conectados antes de la
+intervenci6n quirtrgica.
+
+En términos lingitisticos, la mayor parte de las personas zurdas no presentan una
+lateralidad invertida con respecto a la de los diestros. Si bien en la practica totalidad
+de los diestros (97%) el hemisferio izquierdo controla el lenguaje! tan sdlo en una
+minoria de zurdos (el 19% aproximadamente) recae esta capacidad en el hemisferio
+derecho. Los demas zurdos tienen el lenguaje bien en el hemisferio izquierdo (65%)
+o bien representado de forma redundante en ambos hemisferios. En estos tiltimos el
+lenguaje se halla distribuido de manera mas equilibrada entre los dos hemisferios que
+en los diestros, y consiguientemente tienen menor riesgo de padecer una afasia al
+sufrir dafios en uno de los hemisferios. Con todo, hay pruebas de que los zurdos son
+mas susceptibles de padecer alteraciones del lenguaje, dislexias y disfemias
+(tartamudez), aunque aventajan a los diestros en capacidades matematicas, espaciales
+y.artisticas. Esta influencia de la zurdera sobre el lenguaje se manifiesta también en
+los diestros con parientes zurdos (que seguramente sdlo tienen una copia del gen
+dominante que.determina la destria), quienes al parecer muestran cierta inclinacién a
+analizar la sintaxis de las oraciones de un modo sutilmente diferente a los diestros
+puros.
+
+ae ge ee a te ES,
+
+Naturalmente, el lenguaje no agota toda la mitad izquierda del cerebro. Broca
+observ6 que el cerebro de Tan estaba reblandecido y deformado en las regiones
+inmediatamente por encima de la cisura de Silvio, un profundo surco que separa el
+lébulo temporal, que sdlo existe en el cerebro humano, del resto del cerebro. El area
+en la que se localizaba la lesi6n de Tan se conoce como area de Broca, y hay otras
+regiones anat6micas situadas a ambos lados de la cisura de Silvio que afectan al
+lenguaje cuando resultan dafiadas. Las mas importantes aparecen sefialadas en color
+gris en el dibujo de la pagina 337. En el 98 por ciento de los casos en que una lesi6n
+cerebral produce alteraciones de lenguaje; dicha lesidn se halla en alguna region de
+los margenes de la cisura de Silvio del hemisferio izquierdo. Penfield observé que la
+mayoria de los puntos que interferian el lenguaje al ser estimulados se encuentran en
+ese hemisferio. Aun cuando en apariencia las areas del lenguaje se hallen bastante
+
+www.lectulandia.com - Pagina 291
+
+separadas unas de otras, en realidad no lo estan tanto. El cértex cerebral (la materia
+gris) es una extensa y finisima capa de tejido adosada al cerebro que encaja
+perfectamente en un craneo esférico, Al igual que las fotografias de un periddico
+parecen entremezclarse con el texto al arrugar las hojas, asi también el aspecto
+superficial del cértex ofrece una imagen engafiosa de la disposicién de las regiones
+que lo conforman. Utilizando la técnica de resonancia magnética nuclear para
+fotografiar secciones transversales del cerebro, Gazzaniga y su equipo de
+neuropsicélogos han logrado reconstruir una imagen extendida del cértex. En ella se
+observa que todas las areas implicadas en el lenguaje se encuentran adyacentes
+formando un territorio continuo. Esta regidn del cerebro, conocida como «regién
+perisilviana izquierda», se puede considerar, pues, el 6rgano del lenguaje.
+
+Examinemos con mas detalle esta regién. Tan y el Sr. Ford tenian lesiones en el
+area de Broca y padecian un sindrome caracterizado por un habla lenta, esforzada y
+agramatical denominado afasia de Broca. Veamos ahora otro ejemplo de este
+sindrome en un paciente llamado Peter Hogan. En el primer pasaje, el Sr. Hogan
+cuenta por qué fue ingresado en el hospital, y en el segundo describe su antiguo
+trabajo en una industria papelera:
+
+Si... eh... lunes... eh... padre y Peter Hogan, y padre... ah... hospital... y ah... miércoles... miércoles nueve
+y eh jueves... diez eh médicos... dos... dos... y médicos y... eh... dientes... si... Y un médico y nifia... y
+encias, y yo.
+
+Lower Falls... Maine... papel. jCuatrocientas toneladas diarias! Y eh... maquinas sulfurosas, y ah...
+madera... Dos semanas y ocho horas. jOcho horas... no! ;Doce horas, quince horas trabajando...
+trabajando... trabajando! Si, y eh... sulfuro. Sulfuro y... Ah madera. Ah... trabaja... Y ah enfermo, hace
+cuatro afios.
+
+E] area de Broca esta situada junto a la parte de la corteza motora que controla el
+movimiento de la mandibula, los labios y la lengua, por lo que en un principio se
+crefa que el area de Broca participaba en la produccion del lenguaje (no sdlo el
+lenguaje hablado, dado que la escritura y la ejecuci6n de signos también se ven
+afectadas). Sin embargo, parece que este area interviene en el procesamiento de la
+gramatica en general.
+
+www.lectulandia.com - Pagina 292
+
+LOBULO
+PARIETAL
+
+LOBULO
+FRONTAL
+
+Area motora
+
+Cortex
+visual
+
+Area auditiva Area de
+Wernicke
+
+CISURA DE
+
+aiVAG LOBULO
+
+LOBULO OCCIPITAL
+TEMPORAL
+
+Los defectos gramaticales se hacen mas patentes en la produccién, toda vez que
+cualquier error de este tipo origina una oracién defectuosa. En cambio, en la
+comprensién se puede aprovechar la redundancia e lenguaje para realizar una
+interpretaci6n conecta de la oracién sin necesidad de efectuar un andlisis completo de
+su sintaxis. Por ejemplo, se pueden entender oraciones como El perro mordi6 al
+hombre o La manzana que el nifio esta comiendo es roja con sélo saber que los
+perros son los que suelen morder a los hombres, que los nifios comen manzanas y que
+las manzanas pueden ser rojas. También se puede adivinar el significado de una
+oracién como El coche empuja al camion teniendo en cuenta que normalmente las
+causas se mencionan antes que las consecuencias. Durante un siglo, los pacientes con
+afasia de Broca han engafiado a los neurdlogos utilizando este tipo de estrategias. Sin
+embargo, estos trucos fueron finalmente desvelados cuando a los psicolingitistas se
+les ocurrid pedir a pacientes con este sindrome que representaran oraciones cuyo
+significado sélo podia interpretarse a partir de la sintaxis, como por ejemplo El coche
+es empujado por el camion o La nifia a quien empuja e nifio es alta. En estos casos,
+los pacientes .sdlo dan la interpretaci6n correcta la mitad de las veces, y la
+interpretacién contraria la otra mi a que indica que responden al azar.
+
+Hay otras razones para pensar que la parte anterior del cortex perisilviano, donde
+se encuentra el drea de Broca, interviene en el procesamiento gramatical. Si a un
+sujeto se le colocan electrodos en el cuero cabelludo y se le hace leer una oracién
+gramaticalmente incorrecta, los electrodos situados en la parte anterior del hemisferio
+izquierdo reflejan un cambio en el patrén de actividad eléctrica en el momento en que
+la oracién se revela como incorrecta. Estos mismos electrodos reflejan cambios en la
+parte de la oraci6n en la que el lector ha de activar en su memoria la representaci6n
+de un sintagma que ha dejado una huella a raiz de una operacion de. movimiento,
+como por ejemplo la oracién ¢Qué le dijiste (huella) a Juan? En estudios realizados
+con Tomografia por Emisién de Positrones y otras técnicas disefiadas para medir el
+flujo sanguineo, se ha observado que la region anterofrontal del hemisferio izquierdo
+se ilumina cuando los sujetos escuchan una lengua conocida, cuentan historias o
+
+www.lectulandia.com - Pagina 293
+
+comprenden oraciones complejas. Gracias al empleo de tareas de control y de otros
+métodos de calculo, se ha podido constatar que lo que se procesa en esta region es la
+estructura de las oraciones, y no su contenido. En un reciente estudio llevado a cabo
+por Karin Stromswold con los neurdlogos David Caplan y Nat Alpert, se llegé
+incluso a circunscribir con precisién la zona especifica del area de Broca que se
+iluminaba.
+
+¢Podemos concluir, entonces, que el area de Broca es el 6rgano de la gramatica?
+No del todo. Una lesi6n que afecte exclusivamente al area de Broca no suele
+desencadenar una afasia grave y permanente; para ello han de estar dafiadas también
+las zonas circundantes y la materia blanca subyacente (que conecta el area de Broca
+con otras regiones del cerebro). En ocasiones, se pueden producir sintomas de la
+afasia de Broca a raiz de un infarto o de una enfermedad degenerativa, como la de
+Parkinson, que afecten a los ganglios basales, que son unos centros neurales
+complejos que se encuentran bajo los lébulos frontales y que normalmente se
+emplean en la ejecucién de movimientos coordinados, El habla esforzada
+caracteristica de los afasicos de Broca debe, pues, distinguirse del déficit gramatical
+propio de su lenguaje, y es posible que esta Ultima condicién no dependa en exclusiva
+del area de Broca, sino de otras zonas ocultas del cértex préximas a ella que resulten
+afectadas por la misma lesidn. Por otra parte, también es cierto que hay capacidades
+gramaticales que permanecen intactas en la afasia de Broca. Asi, algunos pacientes de
+Broca son capaces de detectar transgresiones muy sutiles a las reglas de la gramatica
+cuando se les pide que distingan entre oraciones correctas e incorrectas, como sucede,
+por ejemplo, en los siguientes pares de oraciones:
+
+Juan fue finalmente besado Luisa.
+Juan fue finalmente besado por Luisa.
+
+Quiero que irds a la tienda ahora.
+Quiero que vayas a la tienda ahora.
+
+¢Disfrut6é el viejo del paisaje?
+¢Disfrutando el viejo del paisaje?
+
+Con todo, ni los afasicos llegan a detectar todas las oraciones incorrectas ni todos
+los afasicos son capaces de detectarlas. Por consiguiente, el papel del area de Broca
+en el procesamiento del lenguaje sigue sin aclararse. Cabe la posibilidad de que esta
+area se ocupe del componente del procesamiento gramatical que convierte mensajes
+en cédigo mentalés a estructuras gramaticales, y viceversa, comunicandose en parte a
+través de tos ganglios basales con los ldbulos prefrontales, que como se sabe estan
+relacionados con el razonamiento abstracto y el pensamiento.
+
+El area de Broca también se halla conectada mediante haces de fibras nerviosas
+
+www.lectulandia.com - Pagina 294
+
+con otro érgano del lenguaje denominado area de Wernicke. Una lesion en el area de.
+Wernicke produce un sindrome afasico bastante diferente. Howard Gardner describié
+en el siguiente pasaje su encuentro con un afdsico de Wernicke conocido como Sr.
+Gorgan:
+
+«éPor qué le ingresaron el hospital?», pregunté a este carnicero retirado de
+72 .afios de edad cuatro semanas después de su ingreso.
+
+«Madre mia. cémo sudo, estoy nerviosisimo, sabe, de vez en cuando me
+cogen, no puedo hablar del tarripoi, hace un mes, un poquito, ya voy mucho
+mejor, me impongo mucho, pero, por otro lado, ya sabe lo que quiero decir,
+tengo que darme la vuelta, me paro a pensar, dirimino y todas esas cosas.»
+
+Intenté meter baza varias veces, pero no habia forma de detener esta
+cascada incontenible y veloz de palabras. Por ultimo, levanté la mano, se la
+puse a Gorgan en el hombro y asi pude lograr que hiciera una breve pausa.
+
+«Gracias, Sr. Gorgan. Ahora quisiera preguntarle...»
+
+«Naturalmente, no faltaba mas, cualquier cansa que usted quiera. Si
+pudiera lo haria. Bueno, no estoy diciendo las cosas bien, todos los barberos
+de por aqui le cogen a uno y otra vez lo mismo, ya sabe lo que quiero decir, le
+atan a uno para repucer, repucerarlo, ya sabe, uno hace lo que buenamente
+puede mientras que antes era lo mismo con las camas por alla pasaba lo
+mismo...»
+
+La afasia de Wernicke es, en cierto modo, complementaria de la de Broca. Los
+pacientes que la sufren producen cadenas fluidas de oraciones mas 0 menos correctas,
+aunque su lenguaje carece de sentido y esta repleto de neologismos y sustituciones de
+palabras. A diferencia de muchos pacientes de Broca, los Wernicke experimentan
+grandes dificultades para nombrar objetos; con frecuencia sustituyen los nombres por
+otros relacionados o distorsionan los sonidos de la palabra correcta. Por ejemplo:
+
+mesa: «silla»
+
+codo: «rodilla»
+
+clip: «plic»
+
+cama: «maca»
+
+techo: «cheto»
+
+tobillo: «tulillo, no tobiillo, no tolillo»
+
+peine: «paino, lo veo, lo sé, corta, el peno, el pino»
+
+papel: «pedazo de pafiuelo, paupel, papino de mano, pedazo de papel pafielo»
+tenedor: «tendro, tenedo, tonga, funga»
+
+Un sintoma muy llamativo de la afasia de Wernicke es que los pacientes dan
+
+www.lectulandia.com - Pagina 295
+
+pocas muestras de comprender el lenguaje que se habla a su alrededor. Hay una
+tercera variedad de afasia que se caracteriza por una lesidén en las fibras que unen las
+areas de Broca y de Wernicke, y que se manifiesta en la incapacidad de repetir
+oraciones. En un cuarto tipo de afasia, las areas de Broca y Wemicke y las
+conexiones entre ellas se hallan intactas, pero estan aisladas del resto del cértex. Los
+pacientes que sufren este trastorno repiten alegremente todo lo que escuchan sin
+entender una palabra y rara vez hablan espontaneamente. Por todo ello, y teniendo en
+cuenta que el area de Wemicke se encuentra junto a la regién del cértex responsable
+de procesar el sonido, se pensaba que esta area se ocupa de la comprension del
+lenguaje. Sin embargo, eso no explica el lenguaje tan inconexo de estos pacientes.
+Hoy se piensa que el area de Wernicke tiene el cometido de inspeccionar las palabras
+y enviarlas a otras areas, en especial la de Broca, que se encargan de agruparlas o
+analizar sus combinaciones sintacticas. La afasia de Wernicke es quiza el resultado de
+un funcionamiento descontrolado del area de Broca sin recibir los significados y las
+palabras apropiados al mensaje que el hablante pretende transmitir que el area de
+Wemicke suministra en condiciones normales. Pero para ser sinceros, nadie sabe con
+certeza para qué sirven las areas de Broca y Wernicke.
+
+El area de Wernicke, junto con las dos areas sombreadas que aparecen a su lado
+en el dibujo, y que corresponden a las circunvoluciones angular y supramarginal, se
+asientan en la confluencia de tres ]6bulos del cerebro, por lo que se les considera
+zonas especialmente indicadas para integrar informacién de formas visuales, sonidos,
+sensaciones corporales (procedentes de la franja «somatosensorial») y relaciones
+espaciales (procedentes del l6bulo parietal). ,Esta zona es un lugar apropiado para
+representar las relaciones entre los sonidos de las palabras y el aspecto y la geometria
+de sus referentes. De ahi que una lesion en alguna parte de
+
+esta region origine el sindrome denominado anomia, cuya etimologia significa
+«ausencia de nombres». La neuropsicédloga Kathleen Baynes ha descrito el caso/del
+paciente HW, un ejecutivo que sufri6é un infarto en esta region del cerebro. HW era un
+hombre inteligente, buen conversador y con una notable fluidez verbal a quien, sin
+embargo, le resultaba practicamente imposible recuperar nombres de su diccionario
+mental, aun cuando pudiera entenderlos. A continuacién transcribimos la respuesta de
+HW ala petici6n de Baynes dé describir un dibujo que mostraba a un nifio cayéndose
+de una banqueta mientras se encaramaba a un estante ' para alcanzarle a su hermana
+una galleta de una caja:
+
+“En primer lugar, esto se esta cayendo, mds 0 menos, y se va caer al suelo y
+los dos estan buscando algo para comer... pero el problema es que esto se va
+a venir abajo y los dos se van a caer... No lo veo bien, pero que o ella o
+cogera algo de comida que no te sienta bien y ella va a coger algo para
+comérselo también... y que lo tienes ahi para que ellos no se suban y lo cojan
+a menos que les digas que pueden cogerlo. Asi que esto se esta cayendo y
+
+www.lectulandia.com - Pagina 296
+
+seguramente hay una que se van a comer y, y esto no les ha salido bien, el, eh,
+la cosa que es, eh, buena para, no es buena para ti, pero te encanta, mm, emm
+[gesto de impaciencia]... y eso, asi que ellos han... a ver eso, no veo bien si
+hay algo o no... Creo que ella esta diciendo, quiero dos o tres, quiero una,
+creo, creo que si, y entonces, entonces ella va a coger esta, seguro que se va a
+caer 0 algo asi, va a cogerla y, y ahi, él va a coger una o mas, todo depende de
+esto cuando se caigan... y cuando se caigan no hay problema, lo unico que
+tienen que hacer es arreglarlo y volver a subir para coger mas,
+
+HW utiliza correctamente los sintagmas, pero no puede recuperar los nombres
+para insertarlos en ellos: emplea pronombres, gerundios como cayendo, y unos pocos
+nombres genéricos como comida o cosa, refiriéndose a objetos particulares por medio
+de circunloquios. Los verbos no les plantean tantos problemas a los anémicos, siendo
+en cambio mucho mas dificiles para los afasicos de Broca, posiblemente por estar
+mas estrechamente relacionados con la sintaxis...
+
+Hay otras pruebas que indican que las zonas posteriores de La region peristiviana
+intervienen en la representacién y la recuperacién de palabras. Cuando un sujeto
+normal lee una oracién gramaticalmente correcta y se encuentra con una palabra
+carente de sentido en ese contexto, como por ejemplo Los chicos oyeron la naranja
+de Juan acerca de Africa, los electrodos ubicados en la zona posterior de su cabeza
+registran un cambio en el EEG (aunque como ya dije antes, no se tiene la certeza de
+que las sefiales eléctricas procedan de la zona del cerebro que queda bajo los
+electrodos). Asimismo, cuando se realiza una Tomografia por Emisién de Positrones,
+la parte posterior del hemisferio izquierdo se ilumina en el momento en que el sujeto
+escucha palabras (y también pseudo-palabras como ruelo), e incluso cuando, tiene
+que decidir si dos palabras presentadas en una pantalla riman, tarea que requiere
+imaginar los sonidos de las palabras,
+
+ae ge ee a te ES,
+
+La distribucién anatémica global de los sub-6rganos del lenguaje que se hallan en
+la regién perisilviana se puede describir en los siguientes términos: la parte anterior
+de la regién perisilviana. incluida el area de Broca, se encarga del procesamiento
+gramatical; la parte posterior de esta regi6n, que comprende el area de Wernicke y la
+juncién de los lébulos temporal, parietal y occipital, se ocupa de procesar los sonidos
+de las palabras, sobre todo los nombres, y algunos aspectos de su significado. ¢Se
+pueden precisar mas estas correspondencias y localizar areas mas pequefias que
+lleven a cabo tareas lingiiisticas mas especificas? La respuesta es si y no. Por una
+parte, no parece que haya pedazos mas pequefios de cerebro que podamos delimitar y
+etiquetar como médulos lingiiisticos, al menos por el momento. Pero por otra parte, si
+parece haber porciones atin desconocidas del cértex que realizan tareas mds
+
+www.lectulandia.com - Pagina 297
+
+concretas, seglin se desprende de la _ existencia de déficits lingitisticos
+extremadamente especificos que se hallan asociados a lesiones cerebrales. Nos
+hallamos, pues, ante una intrigante paradoja.
+
+Veamos algunos ejemplos. Aunque las alteraciones de lo que he venido
+denominando nuestro sexto sentido, o sea, la percepcién del habla, surgen como
+consecuencia de una lesidén en la mayor parte de las areas de la region perisilviana
+izquierda (y la percepcion del habla produce una iluminaci6n de estas mismas areas
+en las pruebas de Tomografia por Emisién de Positrones), hay un sindrome que se
+conoce como «sordera pura de palabras» que se define exactamente como dice su
+nombre. Los pacientes leen y hablan sin dificultad y pueden reconocer diferentes
+estimulos sonoros como la musica, los portazos y los gritos de animales, pero no
+reconocen palabras habladas. Para ellos tas palabras que oyen tienen tan poco
+significado como si fueran de una lengua desconocida. Entre los pacientes que
+presentan problemas gramaticales, hay unos que no exhiben el habla entrecortada
+caracteristica de la afasia de Broca, sino que producen un habla fluida pero
+agramatical. Algunos de estos pacientes omiten verbos, flexiones y palabras
+funcionales; otros las confunden. Algunos no pueden entender frases complejas con
+huellas (por ejemplo, El hombre que la mujer bes6 (huella) abrazo al nifio), aunque si
+comprenden frases complejas con pronombres reflexivos (como La nifia dijo que la
+mujer se lavd). A otros pacientes les sucede lo contrario. En varios estudios se ha
+informado de un grupo de pacientes italianos que mezclaban los sufijos flexivos de su
+lengua (como por ejemplo -ndo, -s 0 -aba), mientras que utilizaban correctamente los
+derivativos (por ejemplo,-able, -dad 0 -ero).
+
+En ocasiones, hay partes enteras del tesauro mental que se hacen pedazos,
+dejando, sin embargo, unas fronteras nitidamente marcadas. Entre los pacientes
+anémicos,'por ejemplo, cuyo problema fundamental reside en el uso de los nombres,
+los hay que tienen problemas con diversas clases dé nombres. Asi, unos pueden usar
+nombres concretos pero no abstractos, otros usan nombres abstractos pero tienen
+problemas con los concretos. Otros utilizan correctamente los nombres de objetos
+inanimados, mientras que fracasan con los de objetos animados, y también otros
+emplean bien los nombres de objetos animados y mal los de objetos inanimados.
+Algunos pacientes pueden nombrar animales y vegetales, pero no alimentos, partes
+del cuerpo, articulos de vestir, vehiculos o muebles. Hay pacientes que sdlo tienen
+problemas con los nombres de animales, otros que no pueden nombrar tinicamente las
+partes del cuerpo, otros que tienen dificultades con los nombres de articulos
+domésticos, otros que no pueden nombrar colores e incluso hay pacientes
+incapaces.de utilizar los nombres propios. Habia un paciente que no podia nombrar
+frutas o verduras: no tenia problemas con palabras como abaco o esfinge, pero en
+cambio era incapaz de nombrar una manzana o un melocotén. El psicdlogo Edgar
+Zurif ironizaba sobre la obsesién de los neurédlogos de poner nombres ex6ticos a
+todos los sindromes cuando propuso que al trastorno de este paciente se te podia
+
+www.lectulandia.com - Pagina 298
+
+llamar anomia de platanos o «banananomia».
+
+éSignifica esto que hay centros cerebrales para cada una de estas categorias de
+objetos? Hasta ahora nadie los ha descubierto, como tampoco hay centros
+especializados en tas flexiones, las huellas, la fonologia y todo lo demas. La
+identificacién de todas y cada una de las partes del cerebro con funciones mentales
+tan especificas es una tarea llamada al fracaso. Es muy frecuente encontrar pacientes
+con una lesién en la misma zona que, sin embargo, presentan una sintomatologia
+distinta, como también lo es encontrar pacientes con la misma clase de trastorno y
+lesiones localizadas en diferentes areas, Algunas veces wna_alteracién
+extremadamente concreta, como la incapacidad para nombrar animales, puede venir
+inducida por lesiones masivas, por una degeneracion global del cerebro o un simple
+traumatismo. Ademas, en un diez por ciento de los casos, los pacientes con lesiones
+en la zona proxima al area de Wernicke pueden presentar una afasia con sintomas de
+Broca y los pacientes con lesiones en la regi6n de Broca presentar sintomas tipicos de
+una afasia de Wernicke.
+
+éPor qué ha resultado tan dificil dibujar un atlas del cerebro con areas para las
+diferentes partes del lenguaje? Hay quien opina que esto se debe a que no hay areas
+bien diferenciadas. El cerebro es un totum revolutum. A excepcion de las sensaciones
+y el movimiento, los procesos mentales son patrones de actividad neuronal que se
+hallan muy distribuidos por , todo el cerebro, al estilo de los hologramas. Sin
+embargo, esta teoria no es facil de reconciliar con los déficits tan increiblemente
+precisos que presentan muchos pacientes con lesiones en el cerebro, por lo que cada
+vez cuenta con menos apoyos en esta «década del cerebro». Utilizando herramientas
+que se hacen mas sofisticadas de dia en dia, los neurobidlogos estan descubriendo la
+topografia de muchos territorios del cerebro que en los viejos libros de texto Ilevaban
+la poco informativa etiqueta de «cdrtex de asociacién», y estan delimitando docenas
+de nuevas regiones con su propia funcién o estilo de procesamiento, como es el caso
+de las areas visuales especializadas en la forma de los objetos, su distribuci6n
+espacial, el color, la visi6n estereoscépica en tres dimensiones, el movimiento simple
+y el movimiento complejo.
+
+Por lo que se sabe hoy dia, el cerebro puede tener regiones dedicadas a procesar
+informaci6n tan especifica como los sintagmas nominales o las estructuras métricas.
+El problema es que con métodos, tan primitivos de estudio del cerebro humano como
+los que hay en la actualidad, es muy dificil que sé puedan descubrir. Puede que estas
+regiones se hallen repartidas en pequefiisimas franjas 0 puntos diseminados en torno a
+las areas del lenguaje, o también puede que sean garabatos de forma tan irregular y
+arbitraria como los distritos electorales. Asimismo, es posible que en cada individuo
+estas regiones se adapten a diferentes protuberancias y pliegues del cerebro. Todas
+estas caracteristicas son tipicas de otros sistemas del cerebro de los que se sabe
+mucho mas, como por ejemplo el sistema visual. De ser asi, los enormes crateres de
+obtis que llamamos lesiones cerebrales y las borrosas fotografias de las técnicas de
+
+www.lectulandia.com - Pagina 299
+
+tomografia nos dirian muy poco acerca del paradero de esas regiones.
+
+Sin embargo, hay indicios de que el cerebro lingiiistico podria estar organizado de
+este modo tan tortuoso. El neurocirujano George Ojemann, seguidor de los métodos
+de Penfield, estimul6 eléctricamente diversos puntos del cerebro con el craneo abierto
+en sujetos despiertos y conscientes. Observ6 que al estimular una zona de unos pocos
+milimetros de extension, se alteraba una Unica funcidn, como por ejemplo repetir o
+completar una oraci6n, nombrar un objeto o leer una palabra. Sin embargo, estas
+zonas se hallaban diseminadas por todo el cerebro (concentrandose en su mayoria,
+aunque no de forma exclusiva, en las regiones perisilvianas) y se localizaban en
+diferentes lugares en cada individuo.
+
+Teniendo en cuenta los cometidos que el cerebro esta destinado a cumplir, no
+deberia sorprendemos que los subcentros del lenguaje se hallaran entremezclados o
+diseminados de forma idiosincratica por el cértex. El cerebro es un 6rgano muy
+especial, nuestro 6rgano de cémputo, y a diferencia de los érganos encargados de
+acarrear materia de un lado a . otro, como la cadera o el coraz6n, el cerebro no
+precisa que sus componentes funcionales tengan un acabado externo moldeado y
+elegante. Mientras se mantenga la conectividad de los microcircuitos neurales, las
+piezas podran estar en diferentes sitios y seguir funcionando exactamente igual, lo
+mismo que los cables que conectan una serie de componentes eléctricos pueden estar
+apifiados en un registro o la direcci6n de una empresa puede tener su cuartel general
+en cualquier parte, siempre y cuando disponga de un buen sistema de comunicaciones
+con sus fabricas y almacenes. Estas consideraciones son especialmente apropiadas
+para el caso de las palabras: los problemas léxicos se pueden producir mediante
+lesiones o con estimulacién eléctrica localizadas en muy diversas areas del cerebro.
+Cada palabra es un compendio de informacién de muchos tipos. Una palabra se
+podria representar como un eje que puede estar colocado en cualquier region del
+cerebro, siempre y cuando sus radios se extiendan > hacia las zonas del cerebro
+donde estan representados sus sonidos, su-sintaxis, su l6gica y el aspecto de los
+objetos que representa.
+
+En el curso de su desarrollo, el cerebro aprovecha el caracter inmaterial de la
+computaci6n para dar una mayor flexibilidad al emplazamiento de los circuitos
+responsables del lenguaje. Supongamos que inicialmente diversas areas del cerebro
+tienen la capacidad de desarrollar los circuitos que servirdn de soporte fisico a los
+componentes del lenguaje. Cabe suponer que en primera instancia existe un sesgo que
+hace que los circuitos tiendan a ocupar las areas habituales, con lo cual las demas
+areas quedaran inactivas para estas funciones. No obstante, si dentro de los margenes
+de un determinado periodo critico esas areas sufren algtin dafio, los circuitos podran
+desarrollarse en otros lugares. Muchos*neurdlogos opinan que esta es la razon por la
+que en una exigua minoria de casos los centros del lenguaje aparecen localizados en
+zonas infrecuentes. El nacimiento es una experiencia traumatica, y no solo por las
+razones psicolégicas que ya conocemos. El canal pelviano por el que los nifios vienen
+
+www.lectulandia.com - Pagina 300
+
+al mundo estruja la cabeza del bebé como si fuera un limén, siendo muy frecuente
+que los neonatos sufran pequefios infartos y otros dafios cerebrales de escasa
+importancia, Es posible que los adultos que tienen las areas del lenguaje fuera de su
+emplazamiento habitual sean victimas ya recuperadas de estos accidentes tempranos.
+Ahora que se ha extendido el uso de las técnicas de resonancia nuclear en muchos
+centros de investigaci6n neuroldgica, es frecuente que a los visitantes e invitados se
+les obsequie con una fotografia de su propio cerebro. En ocasiones, estas fotografias
+muestran una pequefia abolladura del tamafio de una nuez, aunque normalmente, y
+aparte de las consabidas bromas de amigos y parientes («ya habia notado yo algo
+raro»), no hay motivo para inquietarse por ello.
+
+Hay otras razones que explican por qué nos resulta tan dificil conocer a fondo el
+cerebro. Algunas clases de conocimiento lingiiistico pueden estar representadas en
+varias copias, unas de mayor calidad que otras, repartidas por diversos lugares.
+Asimismo, cuando las victimas de un accidente cerebral estan en condiciones de ser
+examinadas sistematicamente, muchas veces ya han recuperado algunas habilidades
+lingitisticas ayudandose, en parte, de sus capacidades generales de razonamiento.
+Ademas, hemos de tener en cuenta que los neurdélogos no pueden actuar como los
+técnicos en electrénica, que manipulan a capricho las entradas y las salidas de los
+aparatos para comprobar el funcionamiento de sus componentes aislados. Los
+neurdlogos no tienen mas remedio que examinar al paciente en su totalidad a través
+de sus 6rganos periféricos, presentandole estimulos a los ojos o a los oidos y
+registrando las respuestas que emite con la boca o con las manos, y entre el estimulo
+y la respuesta puede haber procesos internos de cOmputo que nos sean desconocidos.
+Por ejemplo, la tarea de nombrar un objeto comprende varios procesos, entre ellos el
+de reconocer el objeto, localizar su entrada en el diccionario mental, acceder a su
+pronunciacién, articular la pronunciacién y posiblemente inspeccionar el producto
+final por si contiene errores. Un fallo en cualquiera de estos procesos puede originar
+un déficit en la tarea.
+
+No obstante, el descubrimiento de técnicas cada vez mas sofisticadas' de registro
+de imagenes del cerebro hace pensar que estos procesos mentales internos se iran
+localizando cada vez con mas precisién. Una de estas técnicas, conocida como
+Resonancia Magnética Nuclear Funcional, permite medir con mas precisién que la
+Tomografia por Emision de Positrones la magnitud de la carga, computacional de las
+diferentes partes del cerebro durante la ejecucién de diversas clases de actividades
+mentales. Otra de estas técnicas, similar a la electro-encefalografia, es la denominada
+«magneto-encéfalografia», que permite localizar con toda exactitud las regiones del
+cerebro que emiten sefiales electromagnéticas.
+
+ND Oy ono
+Nunca Ilegaremos a tener un conocimiento pleno de los 6rganos del lenguaje y los
+
+www.lectulandia.com - Pagina 301
+
+genes de la gramatica mientras nos limitemos a examinar pedazos de cerebro del
+tamafio de un sello de correos. Los procesos de cémputo que conforman la vida
+mental se apoyan en el cableado de intrincadas redes constituidas por millones de
+neuronas que forman el cértex cerebral, en las que cada neurona se halla conectada
+con miles de otras neuronas a las que transmite informacidn en millonésimas de
+segundo. ¢Qué descubririamos si observaramos al microscopio la microestructura de
+los circuitos neuronales de las areas del lenguaje? Aunque nadie lo sepa a ciencia
+cierta, intentaré exponer una hipotesis plausible. Paraddjicamente, este es el aspecto a
+la vez mas desconocido y mas importante del instinto del lenguaje, ya que en él
+residen las causas inmediatas de su comprension y producci6n. A continuaci6én, voy a
+hacer una dramatizacién de lo que podria ser el procesamiento de la informacion
+gramatical a escala neuronal. Lo que voy a exponer no debe tomarse ni mucho menos
+al pie de la letra; se trata simplemente de un intento de demostrar que la hipétesis del
+instinto del lenguaje es compatible, en principio, con las leyes de causalidad que
+rigen en. el universo fisico, y no un simple misticismo revestido de una metafora
+biolégica...
+
+El modelado de redes neuronales se basa en una nocién simplificada de neurona.
+Una neurona puede hacer muy pocas cosas. Puede hallarse activa o inactiva. Cuando
+se halla activa, envia una sefial a lo largo de su axon (el cable de salida) a las células
+con las que esta conectada, A estas conexiones se las denomina «sinapsis». Las
+sinapsis pueden ser excitatorias o inhibitorias y pueden tener diversos «pesos» o
+grados de fuerza. La neurona que recibe sefiales de otras va sumando las sefiales
+procedentes de las sinapsis excitatorias y restando las procedentes de las sinapsis
+inhibitorias, y si el sumatorio final sobrepasa un determinado umbral, la neurona
+receptora se activa.
+
+Una red suficientemente amplia de neuronas se comporta como un ordenador
+capaz de computar la soluci6n de cualquier problema que esté definido con suficiente
+precisién, de manera andloga a como la maquina de Turing que se describié en el
+capitulo 3 deducia que Sécrates es mortal. Esto se debe a que las neuronas de nuestro
+modelo se pueden conectar unas con otras de tal manera que funcionen como
+«circuitos l6gicos», esto es, dispositivos que computan relaciones légicas basadas en
+operadores como «y», «oO» 0 «no», que son los que se emplean en los procedimientos
+de deduccién. El significado de la relacién l6gica expresada por el operador «y» es
+que el enunciado «A y B» es verdadero si A es verdadero y B es verdadero. Un
+circuito l6gico que compute la relacidn Y seria aquel que se activa cada vez que todas
+sus entradas se hallen activadas a la vez. Si fijamos el umbral de activacién de una
+neurona de este tipo en 0,5, un conjunto de sinapsis de entrada cada uno de cuyos
+pesos sea menor a 0,5 pero cuyo sumatorio sobrepase ese valor, por ejemplo dos
+sinapsis de 0,4 y 0,4, producira la activacion del circuito Y, tal y como se representa
+en el dibujo de la izquierda:
+
+www.lectulandia.com - Pagina 302
+
+Ov_04 05 0,6 0,5 0,1 0
+oO— seni o— O-O—
+
+ommny, comm
+
+,6
+Y 12) NO
+
+La relacién légica «o» significa que el enunciado «A 0 B» es verdadero si A es
+verdadero o B es verdadero. Asi pues, el circuito O se activara siempre que una de
+sus entradas esté activada. Para implementar esta operacidn, el peso de cada sinapsis
+debe ser superior al umbral de la neurona, por ejemplo, 0,6, tal y como muestra el
+circuito dibujado en el centro. Por ultimo, la relacién «no» significa qué el enunciado
+«No A» es verdadero si A es falso, y viceversa. Por consiguiente, el circuito no
+desactivara su salida si recibe una entrada activada, y viceversa. Esta operacién se
+implementa mediante una sinapsis inhibitoria, como la que aparece en el dibujo de la
+derecha, cuyo peso negativo sea suficiente para desactivar la salida de una neurona
+que en caso contrario siempre se encontraria-activada.
+
+Veamos ahora cOmo computaria una red de neuronas una regla gramatical
+moderadamente compleja. La flexién -s de segunda persona del singular del presente
+de indicativo de los verbos en castellano (lavas, comes, vienes) es un sufijo que debe
+utilizarse cuando se cumplan las siguientes condiciones: que el sujeto del verbo esté
+en segunda persona Y en singular y la acci6n sea presente y se ejecute de forma
+habitual (este rasgo corresponde a lo que los lingiiistas llaman el «aspecto»), pero NO
+si el verbo es irregular, como por ejemplo ser o ir (no se dice ses e is, sino eres y
+vas). Una red de neuronas disefiada para implementar estas relaciones ldgicas podria
+tener la siguiente estructura:
+
+DICCIONARIO
+
+So AS
+
+(@) BASE
+
+RASGOS \
+
+oO) FLEXIONES On
+
+En primer lugar, hay un grupo de neuronas que representan rasgos flexivos del
+
+www.lectulandia.com - Pagina 303
+
+verbo, que son las que aparecen en la columna de la izquierda. Las neuronas
+seleccionadas se conectan mediante un circuito Y con una neurona que representa la
+combinacién «segunda persona, numero singular, tiempo presente y aspecto habitual»
+(que aparece bajo la etiqueta «combinacién 2* sph»), Esta neurona, por su parte,
+excita otra neurona que corresponde a la flexidn -s, que a su vez excita a la
+correspondiente al fonema s del grupo de neuronas que representan la pronunciacién
+de los sufijos. Si se trata de un verbo regular, estas son todas las operaciones
+necesarias para afiadir el sufijo flexivo del verbo. La pronunciacién de la base del
+verbo (raiz + vocal tematica) se copia segun aparece listada en el diccionario mental
+en las neuronas correspondientes a la base por medio de conexiones que no aparecen
+en el diagrama. (Por ejemplo, la forma comes resulta de come + s; la forma inventada
+rumes resultaria de rume + s, y asi sucesivamente). En el caso de los verbos
+irregulares, como el verbo ser este proceso se bloquea, pues de lo contrario la red
+neuronal produciria la forma incorrecta ses. Por consiguiente, la neurona que
+corresponde a la combinacién 2* sph envia también una sefial a una neurona que
+representa la forma irregular completa eres. Si la persona cuyo cerebro estamos
+modelando pretende utilizar el verbo ser, la neurona que corresponde a este verbo
+estara activada y, por tanto, enviara activaci6n a la neurona que representa la forma
+eres. Dado que las dos entradas que recibe eres estan conectadas por un circuito y,
+ambas tendraén que estar activadas para que eres resulte también activada. En otras
+palabras, la neurona eres resultara activada si y sdlo si la persona esta pensando al
+mismo tiempo en el verbo ser y en la forma «segunda persona del singular del
+presente habitual». La neurona eres inhibe la flexidn -s mediante un circuito NO que
+resulta de una sinapsis inhibitoria que previene la activacion de las formas incorrectas
+ses 0 eses, pero activa la vocal e y las consonantes r y s del grupo de neuronas
+correspondientes a la base del verbo. (Como es natural, en este ejemplo se han
+omitido muchas neuronas y muchas conexiones con el resto del cerebro).
+
+Esta pequefia red neuronal inventada contiene conexiones especificas para una
+parte de la conjugacion de los verbos del castellano. Por consiguiente, si perteneciera
+a un cerebro auténtico, tendria que ser aprendida. Siguiendo con esta fantasia de redes
+neuronales, imaginemos el aspecto que tendria esta red en particular en el cerebro de
+un bebé. Vamos a suponer por un momento que los conjuntos de neuronas estan
+presentes desde el nacimiento, mientras que en lugar de las conexiones individuales
+que muestra el diagrama entre una neurona de un conjunto y una neurona de otro,
+tenemos conexiones entre todas las neuronas de cada conjunto y todas las neuronas
+de los demas conjuntos. Esta descripcién equivaldria al supuesto de que al nacer, el
+bebé «sabe» que puede haber sufijos de persona, ntimero, tiempo y aspecto, asi como
+posibles formas irregulares para todas esas combinaciones, sin conocer aun las
+combinaciones particulares de la lengua que ha de aprender. Aprender la lengua
+equivaldria a fortalecer las sinapsis representadas por flechas (tal y como aparecen en
+el diagrama) y abandonar las demas. Este proceso podria funcionar de la siguiente
+
+www.lectulandia.com - Pagina 304
+
+manera. Supongamos que cada vez que el bebé oye una palabra que contiene un
+sufijo s, la correspondiente neurona de sufijo s situada en la esquina inferior derecha
+del diagrama se activa, y que cuando el bebé piensa en la segunda persona del
+singular del presente habitual (al hacerse una representaci6n de una determinada
+situaciOn), las cuatro neuronas que corresponden a esos rasgos, y que se hallan
+situadas en la columna de la izquierda del diagrama, también se activan. Si la
+activaci6n se propaga tanto hacia delante como hacia atras, y si cada sinapsis se
+fortalece cada, vez que se activa al mismo tiempo que se activa su correspondiente
+neurona de salida, todas las.neuronas que describan la trayectoria marcada por los
+rasgos «segunda persona», «singular», «presente» y «habitual», en un extremo, y «s»,
+en el otro, resultaran fortalecidas. Si la experiencia se repite suficientes veces, la red
+neuronal parcialmente definida del neonato habra quedado sintonizada con la red
+neuronal del adulto representada en el diagrama.
+
+Vamos a afinar todavia mas nuestro andlisis. ;Qué primitivo soldador puso en el
+cerebro los conjuntos de neuronas y las potenciales conexiones que hay entre ellas?
+Esta pregunta ha suscitado uno dé los debates mas polémicos de la neurociencia
+contemporanea, y hoy se empieza ya a vislumbrar cémo se produce el cableado
+basico del cerebro del embri6n. Naturalmente. nada se sabe atin de las areas del
+lenguaje en los humanos, pero si de los globos oculares de la mosca de la fruta, del
+talamo del hurén o del cértex visual de los gatos y los monos. Las neuronas
+destinadas a ocupar areas corticales particulares surgen en zonas muy especificas
+situadas a lo largo de las paredes de los ventriculos, las cavidades llenas de liquido
+cefalorraquideo que se encuentran en el interior de los hemisferios cerebrales. Estas
+neuronas van desplazandose progresivamente hada el exterior, aproximandose al
+craneo, hasta ocupar finalmente su lugar en el cdértex, disponiéndose lo largo de los
+tensos cables formados por las glias (unas células de soporte que, junto con las
+neuronas, forman la masa encefdlica). Las conexiones entre neuronas situadas en
+diferentes regiones del cértex se establecen cuando la zona que ha de acogerlas libera
+ciertas sustancias quimicas y los axones que crecen en todas direcciones desde otras
+areas «olfatean» dichas sustancias y se proyectan hacia el lugar en que aumenta su
+concentraci6n, como si fueran raices de arboles en pos de zonas himedas y fértiles
+del subsuelo. Los axones detectan también la presencia de ciertas moléculas ubicadas
+en la superficie de las glias que les sirven de soporte, lo que les permite orientarse de
+la misma manera que Hansel y Gretel seguian un rastro de miguitas de pan. Una vez
+que los axones llegan a las proximidades de su destino, se pueden formar conexiones
+sindpticas mas precisas gracias a que estos axones, y las neuronas hacia las que se
+proyectan, transportan en sus superficies ciertas moléculas que se acoplan entre si
+como una llave con su cerradura, haciendo que las neuronas se fijen. No obstante,
+estas primeras conexiones son atin muy burdas, y es muy frecuente que las neuronas
+que intervienen en ellas manden sus axones en direcciones inapropiadas. Estas
+conexiones inapropiadas terminan por perderse, bien porque las neuronas receptoras
+
+www.lectulandia.com - Pagina 305
+
+no aportan las sustancias quimicas necesarias para su mantenimiento o bien porque
+las conexiones que se forman no son utilizadas una vez que el cerebro de embridn se
+pone en funcionamiento.
+
+El lector que me haya seguido en este periplo mitolégico neuronal esta a punto de
+descubrir los misteriosos «genes de la gramatica». Las moléculas que guian, conectan
+y preservan las neuronas son proteinas. Cada proteina viene especificada por un gen,
+y un gen es una secuencia de bases en la cadena de ADN (acido desoxirribonucleico)
+de cada cromosoma. Cada gen es activado por «factores de transcripcién» y otras
+moléculas reguladoras, artilugios que se Adhieren a una secuencia de bases de una
+molécula de ADN y liberan otra secuencia pr6xima, lo que a su vez permite que el
+gen en cuestion sea transcrito a ARN (acido ribonucleico) y transformado después en
+una proteina. Por lo general, estos factores reguladores son también proteinas, por lo
+que el proceso de formacién de un organismo se puede entender como una compleja
+cascada de proteinas que fabrican ADN, algunas de las cuales interactian con el
+ADN para fabricar mas proteinas, y asi sucesivamente. Diferencias muy pequefias en
+la sincronizacién o en la cantidad de una determinada proteina pueden producir
+efectos de gran alcance en el organismo que se esta formando.
+
+Por consiguiente, es extremadamente raro que un unico gen especifique una
+caracteristica visible de un organismo. Lo mas frecuente es que cada gen determine la
+liberacién de una determinada proteina en momentos concretos del desarrollo, lo que
+supone tan sdlo uno de los numerosos ingredientes de una receta extraordinariamente
+complicada. Cada gen por si solo ejerce un efecto limitado en la configuracién
+general del organismo, que se ve afectado por la acciédn conjunta de muchos otros
+genes. El cableado del cerebro, en particular, tiene una relacién compleja con los
+genes responsables de la formacién de este érgano. Una molécula que actta en la
+superficie de una neurona puede intervenir no sélo en un Unico circuito, sino en
+muchos de ellos, cada uno guiado por una combinaci6n especifica de proteinas. Por
+ejemplo, si las proteinas X, Y y Z acttan sobre la superficie de una membrana
+neuronal, es posible que un ax6n se conecte a una superficie que presenta las
+proteinas X e Y, pero no la Z, y que otro se conecte a una superficie que tenga las
+proteinas Y y Z, pero no la X, Los especialistas en neurociencia estiman que en la
+formacion del cerebro y del sistema nervioso intervienen unos treinta mil genes, es
+decir, la mayor parte del genoma humano.
+
+Todo este proceso comienza con una sola célula, el 6vulo fecundado. Esta célula
+contiene dos copias de cada cromosoma, uno de la madre y otro del padre. Cada
+cromosoma parental fue ensamblado originalmente en las génadas de los
+progenitores acoplando al azar partes de los cromosomas de los padres de los
+progenitores.
+
+Asi llegamos a un punto en el que se puede definir lo que serian los genes de la
+gramatica. Los genes de la gramatica podrian definirse como secuencias de ADN que
+codifican proteinas, o desencadenan la transcripcién de proteinas, en determinados
+
+www.lectulandia.com - Pagina 306
+
+momentos y lugares del cerebro. Estas proteinas guian, fijan o atraen neuronas hacia
+aquéllos circuitos que, una vez producido el ajuste sindptico que tiene lugar con el
+aprendizaje, intervienen en la solucién de problemas gramaticales, como por ejemplo
+el de seleccionar un afijo o una palabra.
+
+ae ge ee a te ES,
+
+¢Existen entonces los genes de la gramatica, o se trata simplemente de una
+fantasia? ¢Ocurrira alguna vez lo que Brian Duffy caricaturizaba en el siguiente
+chiste? Un cerdo puesto en pie le pregunta a un granjero: «Qué hay de cena? Ojala
+no sea yo». El granjero le dice a la persona que le acompafia: «Mira, ese es el que
+recibié un trasplante de genes humanos».
+
+No hay modo de verificar directamente la existencia de genes gramaticales en los
+seres humanos. Como ocurre con tantos otros fendmenos biolégicos, los genes que se
+pueden identificar con mas facilidad son aquéllos que correlacionan con alguna
+diferencia entre individuos, diferencias que a menudo se reflejan en patologias.
+
+Se sabe con certeza que hay algo en el esperma y en el 6vulo que afee- ; ta a las
+capacidades lingiifsticas del nifio que nace de su unidn. La tartamudez, la dislexia
+(una alteracion de la lectura relacionada con la incapacidad de organizar mentalmente
+los fonemas en silabas) y el trastorno especifico del lenguaje (SLI) se dan en familias,
+aunque esto no demuestra que sean defectos genéticos (los apellidos y las fortunas
+también se dan en familias). Con todo, es probable que estas tres alteraciones tengan
+un origen genético. En ninguna de ellas se ha descubierto un agente ambiental que
+afecte negativamente a ciertos miembros de la familia dejando a salvo a los demas.
+Ademas, hay una mayor probabilidad de que estos sindromes afecten a los dos
+miembros de una pareja de gemelos idénticos (los llamados homocigéticos o
+univitelinos), que no sdlo comparten él mismo ambiente, sino también el mismo
+ADN, que a dos gemelos fraternos (heterocigéticos o bivitelinos), que comparten el
+mismo ambiente pero sdlo la mitad de su ADN. Por poner un caso, los gemelos
+idénticos de cuatro anos de edad tienden a cometer errores de pronunciacién en las
+mismas palabras con mayor frecuencia que los gemelos fraternos de la misma edad.
+Asimismo, si un nifio padece un trastorno especifico del lenguaje, la probabilidad de
+que su hermano gemelo idéntico también lo sufra es de un ochenta por ciento, cifra
+que se reduce hasta un treinta y cinco en el caso de los gemelos fraternos. En este
+sentido, seria interesante comprobar si los nifios adoptados se asemejan a sus
+parientes bioldgicos, que comparten con ellos el mismo ADN y difieren en el
+ambiente. No tengo noticia de ningtn estudio con nifios adoptados en el que. hayan
+examinado casos de SLI o de dislexia, aunque hay un estudio que puso de manifiesto
+que la medida de las capacidades lingiiisticas en el primer afio (que incluye pruebas
+de vocabulario, imitaci6n vocal, combinaciones de palabras, balbuceo y comprensién
+de palabras) correlaciona con las capacidades generales cognitivas y de memoria de
+
+www.lectulandia.com - Pagina 307
+
+la madre bioldgica y no de los padres adoptivos.
+
+La familia K, que comprende tres generaciones de individuos afectados por el
+SLI, con problemas lingiifsticos tanto de comprensi6n (por. ejemplo, en la formacién
+de plurales) como de producci6n (por ejemplo, en la conjugacién de las formas
+auxiliares de los verbos); constituye uno de los casos mas ilustrativos de que los
+déficits en habilidades gramaticales pueden ser hereditarios. La hipétesis de que
+puede haber un tinico gen autosdmico dominante responsable del trastorno se basa en
+un razonamiento mendeliano. La sospecha de que nos hallamos ante un sindrome
+genético reside en la ausencia de factores ambientales que afecten exclusivamente a
+algunos miembros de la familia y respete a otros miembros de la misma edad (habia
+un caso de gemelos fraternos en el que sdlo uno de ellos padecia el sindrome) y en el
+hecho de que el sindrome lleg6 a afectar al cincuenta y cinco por ciento de los
+miembros de esta familia, mientras que su incidencia en la poblacién normal apenas
+alcanza el tres por ciento, (Naturalmente, siempre cabe la posibilidad de que esta
+familia hubiera tenido mala suerte; al fin y al cabo, no fue seleccionada
+aleatoriamente entre la poblacién, sino que llam6 la atenci6n de los genetistas debido
+a la elevada concentracién del sindrome. Aun asi, seria demasiada coincidencia). La
+creencia de que el problema se debe a un tinico gen obedece a que si hubiera varios
+genes implicados, contribuyendo cada uno parcialmente al déficit lingiiistico,
+deberian observarse varios grados de discapacidad entre los miembros de la familia,
+en funci6én del ntimero de genes defectuosos que cada miembro hubiera heredado. Sin
+embargo, el sindrome se manifiesta integramente en todos los miembros que lo
+padecen: tanto los responsables de la escuela como la propia familia distinguen
+perfectamente quién tiene la alteracidn y quién no la tiene, y en casi todas las pruebas
+realizadas por Gopnik, los miembros afectados se aglutinan en el extremo mas bajo
+de las puntuaciones de la escala y los no afectados se agrupan en el extremo mas alto,
+sin que haya ningtin solapamiento entre unos y otros. Por otra parte, la idea de que se
+trata de un gen autosdmico (que no pertenece al cromosoma X) y dominante se
+desprende de que el sindrome afecta por igual a hombres y a mujeres, y en todos los
+casos la pareja de un progenitor afectado, fuera hombre o mujer, era normal. Si el gen
+fuera autosémico y recesivo, para heredar el sindrome seria necesario que los dos
+progenitores lo padecieran. Y si fuera recesivo y estuviera en el cromosoma X, sdélo
+lo tendrian los varones, y las mujeres serian portadoras, Por ultimo, si fuera
+dominante y estuviera en el cromosoma X, un padre afectado transmitiria el sindrome
+a todas sus hijas y a ninguno de sus hijos varones, ya que los hijos varones reciben su
+cromosoma X de la madre y las hijas reciben uno de cada progenitor. Sin embargo, se
+dio un caso de una mujer no afectada cuyo padre tenia el sindrome.
+
+Al contrario de lo que afirmaban los columnistas Kilpatrick y Bombeck en las
+cronicas de Associated Press, en modo alguno se puede decir que haya un nico gen
+responsable de todos los circuitos neuronales subyacentes a la gramatica. Eso no
+significa, empero, que un solo componente defectuoso no pueda paralizar una
+
+www.lectulandia.com - Pagina 308
+
+maquina extremadamente compleja, aun cuando se precisen muchas piezas para que
+la maquina funcione a pleno rendimiento. Por ello, es posible que la versidn normal
+del gen no baste para construir lps circuitos de la gramatica. Tal vez la versién
+defectuosa fabrique una proteina que obstaculiza un proceso quimico imprescindible
+para montar los circuitos del lenguaje. O quiza el gen defectuoso haga que un area
+cerebral adyacente a la del lenguaje se extienda e invada los territorios destinados a
+acoger las areas del lenguaje.
+
+Pero no por ello deja de tener interés este descubrimiento. La mayor parte de los
+miembros de la familia que sufrian alteraciones lingiiisticas tenian una inteligencia
+normal, e incluso en otras familias se dan casos de individuos que tienen una
+inteligencia superior a la media; uno de los nifios examinados por Gopnik estaba
+entre los alumnos mas avanzados de su clase en matematicas. Asi pues, este sindrome
+pone de manifiesto que tiene que haber un patrén de sucesos genéticamente
+determinados en el desarrollo del cerebro (a saber, los sucesos que resultan alterados
+en este sindrome) que se especializan en tender los circuitos en los que descansan los
+procesos de cémputo lingiiistico. Por ende, estos circuitos parecen estar disefiados
+para procesar la gramatica del lenguaje, y no se limitan a la articulacién de los
+sonidos del habla en el tracto vocal 0 a la percepci6n auditiva de estos sonidos. Pese a
+que los individuos afectados por el sindrome presentaban problemas articulatorios en
+su infancia y adquirieron el lenguaje tardiamente, en la mayoria de los casos los
+problemas de articulacidn fueron remitiendo mientras que los trastornos gramaticales
+perduraron. Como muestra de ello, la omisién de sufijos verbales o de plural tan
+tipica de este sindrome no obedece a una incapacidad para percibir o pronunciar los
+correspondientes sonidos. En otras palabras, los mismos sonidos se procesan de
+diferente manera cuando forman parte integrante de una palabra y cuando se afiaden a
+una palabra mediante una regla gramatical.
+
+No menos interesante es el hecho de que esta alteracién no borra por completo
+ninguna parte de la gramatica ni tampoco afecta a todos sus elementos por igual.
+Aunque los sujetos que padecian el sindrome tenian problemas para modificar los
+tiempos verbales o para aplicar sufijos a las palabras en su lenguaje espontaneo, eran
+capaces de expresarse verbalmente. Sin embargo, su lenguaje era bastante menos
+preciso que el de sus parientes normales. Los déficits probabilisticos que presentaban
+se centraban sobre todo en la morfologia de las palabras y en los rasgos sintacticos
+que dependen de ella, como por ejemplo, el tiempo, la persona y el numero de las
+formas verbales. Otros aspectos de la gramatica estaban mejor conservados. Asi, por
+ejemplo, estos sujetos pueden detectar errores en la estructura sintagmatica de las
+frases, como en La chica guapa da o La nifia come una galleta al nifio, y también
+pueden ejecutar 6rdenes verbales complejas. A tenor de lo comentado en los parrafos
+anteriores y sabiendo cémo funcionan los genes, lo que cabria esperar es
+precisamente esta falta de correspondencia exacta entre un gen y una determinada
+funci6én.
+
+www.lectulandia.com - Pagina 309
+
+En resumen, la evidencia de que disponemos viene a indicar que en efecto existen
+los genes de la gramatica, entendiendo como tales unos genes cuyos efectos son
+exclusivos del desarrollo de circuitos neuronales que subyacen a componentes
+especificos de la gramatica. La ubicacién de estos supuestos genes en el cromosoma
+se desconoce por completo, lo mismo que sus efectos sobre la estructura del cerebro,
+aunque ya se estan efectuando pruebas genéticas basadas en andalisis de sangre a la
+familia que padece el sindrome. Por otra parte, el estudio de la topografia cerebral de
+otros pacientes con SLI, a partir de pruebas de resonancia magnética nuclear, parece
+indicar que las personas con este sindrome no presentan la asimetria tipica de los
+cerebros normales en las areas perisilvianas. Muchos investigadores de los trastornos
+del lenguaje, algunos animados por los hallazgos de Gopnik y otros mas escépticos,
+han comenzado a someter a sus pacientes a pruebas muy minuciosas de capacidades
+gramaticales y estan elaborando detalladas historias familiares, con el propdsito de
+esclarecer la frecuencia con la que el trastorno especifico del lenguaje se hereda y de
+averiguar cuales son las variedades en las que puede presentarse esta alteracién. Es de
+suponer que en los préximos afios seremos testigos de algunos interesantes
+descubrimientos sobre la neurologia y la genética del lenguaje.
+
+ae ge ee a te ES,
+
+En biologia moderna resulta dificil discutir sobre los genes sin hacer referencia a
+la variacién genética. Aparte de los gemelos idénticos, no hay dos personas, o para
+ser mas exactos, no hay dos organismos que se reproduzcan sexualmente, que sean
+genéticamente idénticos. Si no fuera asi, la evoluci6on, tal y como la conocemos, no
+podria haber ocurrido. Entonces, si realmente hay unos genes del lenguaje, spor qué
+las personas normales no han de diferir unas de otras en sus capacidades lingiiisticas
+innatas? ¢O acaso difieren? ;Hasta qué punto estoy obligado a matizar todo lo que he
+venido diciendo acerca del lenguaje y su desarrollo por el hecho de que no haya dos
+personas con el mismo instinto lingtiistico?
+
+Es facil dejarse llevar por el descubrimiento genético de que muchos de nuestros
+genes son tan distintivos como las huellas dactilares. Sin embargo, no es menos cierto
+que al abrir una pagina cualquiera de un manual de Genética esperamos encontrar una
+descripcion de los érganos y sus partes que sea generalizable a cualquier ser humandé
+normal. (Todos tenemos un coraz6n con dos auriculas y dos ventriculos, un higado,
+etc.). El bioantropdlogo John Tooby y la psicédloga cognitiva Leda Cosmides han
+resuelto esta aparente paradoja.
+
+Tooby y Cosmides han sefialado que las diferencias individuales se refieren a
+variaciones cuantitativas menores y no a disefios cualitativamente distintos. La razon
+de ello reside en el sexo. Supongamos que dos personas pudieran estar hechas con
+disefios radicalmente distintos, ya sean disefios fisicos, como la estructura de los
+pulmones, o disefios necroldégicos, como los circuitos que subyacen a un proceso
+
+www.lectulandia.com - Pagina 310
+
+cognitivo cualquiera. Las maquinas complejas requieren muchos componentes
+acoplados con extrema precision, lo que a su vez exige que haya muchos genes para
+formar estos componentes. Sin embargo, los cromosomas se recortan, escinden y
+combinan de forma aleatoria durante la formacién de las células sexuales, y luego se
+emparejan con otras formas quiméricas durante la fertilizacién. Si dos personas
+tuviesen disefios diferentes, sus descendientes heredarian una mezcolanza de
+fragmentos del disefio genético de cada una de ellas, como si se cortaran con unas
+tijeras los pianos de dos vehiculos distintos y luego se pegaran las piezas al azar sin
+preocuparse de la procedencia de cada recorte. Si estos dos coches tuvieran disefios
+diferentes, como un Ferrari y un Jeep, el producto resultante no llegaria muy lejos,
+suponiendo que pudiera construirse un artefacto asi. El pastiche sdlo podria funcionar
+si los dos disefios originales fueran muy parecidos.
+
+Por eso la variacién de la que hablan los genéticos es una variaci6n microscépica,
+esto es, se refiere a diferencias en la secuencia exacta de las moléculas de las
+proteinas, cuya forma y funcidén generales son basicamente las mismas y qué la
+seleccién natural mantiene dentro de unos estrechos limites de variacién. La
+variaci6n obedece a un proposito: al recombinar los genes en cada nueva generaci6n,
+los linajes de organismos pueden mantenerse a salvo de los parasitos transmisores de
+enfermedades que con gran rapidez evolucionan y se infiltran en el medio quimico de
+sus organismos anfitriones. Sin embargo, por encima de esta escala microbioldgica,
+en el nivel macroscépico de funcionamiento de los sistemas bioldgicos visible para el
+ojo del anatomista o del psicélogo, la variacién de unos individuos a otros debe ser
+pequefia y cuantitativa. Gracias a la seleccién natural, todas las personas normales
+han de ser cualitativamente idénticas.
+
+Sin embargo, esto no significa que las diferencias individuales sean irrelevantes.
+La variacién genética nos hace caer en la cuenta de la complejidad y la estructuracién
+que los genes confieren de ordinario a la mente humana. Si los genes se limitaran a
+suministrarnos unos pocos mecanismos generales de procesamiento de informacion,
+como por ejemplo una memoria a corto plazo y un detector de regularidades, algunas
+personas serian mejores que otras en su capacidad de retener cosas en la memoria o
+en el aprendizaje de contingencias, y no habria mas que hablar, Pero si los genes
+estuvieran disefiados para fabricar una mente compuesta de piezas muy elaboradas
+para ejecutar tareas especificas, la especificidad genética que atesora cada individuo
+conduciria a un esquema de rasgos cognitivos innatos sin precedentes.
+
+La cita que se reproduce a continuacién, tomada de la revista Science, ilustra muy
+bien esta idea:
+
+Cuando Oskar Stiihr y Jack Yufe llegaron a Minnesota para participar en un
+estudio dirigido por el psicdlogo Thomas J. Bouchard Jr. sobre gemelos idénticos
+criados por separado, ambos llevaban un chandal muy parecido, tenian bigote y
+usaban gafas de montura metalica. Estos dos gemelos idénticos, cuya edad
+
+www.lectulandia.com - Pagina 311
+
+rondaba tos cincuenta, habian sido separados al nacer y solo se habian visto una
+vez hacia unos viente afios. Sin embargo, Oskar, educado en Alemania en una
+familia catélica, y Jack, que habia vivido con su padre judio en Trinidad,
+demostraron tener muchas caracteristicas comunes en materia de gustos y de
+personalidad; ambos, por ejemplo, eran impulsivos y tenian un sentido del humor
+muy peculiar (a los dos les divertia asustar a la gente estornudando en los
+ascensores).
+
+Y los dos acostumbraban a tirar de la cadena antes y después de ir al bafio,
+llevaban gomas eldsticas en la mufieca y mojaban tostadas con; mantequilla en el
+café.
+
+Muchas personas se muestran escépticas ante anécdotas romo estas.
+
+Es posible que estas semejanzas sean una coincidencia mas de las muchas que
+puede haber entre dos biografias cualesquiera que se examinen con suficiente detalle.
+Sin embargo, este no es el caso. Bouchard y los bidlogos genéticos D. Lykken,
+M. McGue y A. Tellegen que trabajan con él no dejan de sorprenderle con las
+increibles semejanzas de los gemelos idénticos separados al nacer que han estudiado,
+semejanzas que jamas se encuentran en gemelos fraternos criados por separado. Otra
+pareja de gemelos idénticos que se conocieron con motivo de este estudio
+descubrieron que ambos usaban pasta dentifrica Vademécum, locién de afeitado
+Canoe, tonico capilar Vitalis, y fumaban cigarrillos Lucky Strike. Tras su encuentro,
+los dos se enviaron idénticos regalos de cumpleafios que se cruzaron en el correo.
+Una pareja de gemelas idénticas solian llevar ambas siete anillos. Otros dos
+advirtieron con acierto que hacia falta cambiar un rodamiento del coche de Bouchard.
+La investigacién cuantitativa ha corroborado todas estas anécdotas. No sdlo se
+heredan en parte rasgos generales como el CI, la extraversion y el neuroticismo, sino
+también otros muy especificos como el sentimiento religioso, los intereses
+vocacionales y las opiniones sobre la pena de muerte, el desarme y la musica por
+ordenador.
+
+éEs posible que haya un gen que nos haga, estornudar en los ascensores?
+Seguramente no, aunque tampoco tendria por qué haberlo. Los gemelos idénticos
+comparten todos los genes, no solo uno o dos, de modo que puede haber cincuenta
+mil genes, relacionados con la tendencia a estornudar en los ascensores, y estos
+mismos cincuenta mil genes pueden ser responsables del gusto por llevar chandal, por
+usar el tonico capilar Vitalis, por llevar siete anillos y todo lo demas. La razén de ello
+es que la relacién entre los genes y los rasgos psicolégicos es doblemente indirecta.
+En primer lugar, con un gen no basta para formar un médulo del cerebro; el cerebro
+es como un pastel hecho de finas capas de caramelo en el que la contribuci6n de cada
+gen es un ingrediente que produce un efecto complejo en las propiedades de muchos
+circuitos. En segundo lugar, cada rasgo de comportamiento no depende en exclusiva
+de un solo médulo del cerebro. La mayor parte de los rasgos que nos llaman la
+
+www.lectulandia.com - Pagina 312
+
+atenci6n resultan de la peculiar combinaci6n de pequefios elementos de muchos
+mddulos distintos. Pongamos una analogia. Para convertirse en una estrella del
+baloncesto hacen falta muchas cualidades fisicas, como por ejemplo una buena
+estatura, unas manos grandes, una excelente punteria, una buena vision periférica,
+grandes cantidades de tejido muscular de movimiento rapido, capacidad pulmonar y
+unos tendones muy eldsticos. Aunque todos estos rasgos son en buena medida
+genéticos, no es necesario que haya un gen del baloncesto. Aquellas personas que
+hicieron bingo en la maquina de genes juegan en la NBA, mientras que los muchos
+patosos que miden mas de dos metros y los numerosos bajitos que son magnificos
+lanzadores se dedican a otros menesteres. Otro tanto podria decirse de cualquier otro
+rasgo de comportamiento interesante 0 no, como por ejemplo el de estornudar en los
+ascensores (que no no es ni mas ni menos extrafio que la habilidad de colar una pelota
+por un agujero con los\ojos vendados). Es posible que el gen destornudar en los
+ascensores provenga de una peculiar combinaci6n de umbrales y conexiones neurales
+entre los mdédulos responsables del sentido del humor, las reacciones a los espacios
+cerrados, la sensibilidad a ciertos estados mentales de los demas como la ansiedad y
+el aburrimiento y el reflejo del estornudo.
+
+Nadie se ha dedicado a estudiar las variaciones hereditarias en materia de
+lenguaje, aunque tengo alguna sospecha de como puede funcionar. En mi opinion, el
+disefio basico del lenguaje, desde la sintaxis de la X-con-barra hasta las reglas
+fonoldgicas y la estructura del vocabulario, es uniforme en toda nuestra especie. SI
+no, ¢cdmo podrian aprender a hablar los nifios y entenderse los adultos? No obstante,
+la complejidad de los circuitos del lenguaje deja bastante margen para que las
+variaciones cuantitativas se combinen formando unos perfiles lingiiisticos peculiares.
+Tal vez algun mddulo pueda estar mas o menos atrofiado o hipertrofiado, 0 quiza
+ciertas representaciones de sonidos, de significados o de la gramatica que
+normalmente permanecen inconscientes se hagan mas accesibles al resto del cerebro.
+Asimismo, cabe la posibilidad de que las conexiones entre los circuitos del lenguaje y
+la inteligencia o las emociones funcionen con mayor rapidez o lentitud.
+
+En consecuencia, se puede plantear la hipétesis de que detras de un gracioso, de
+un piquito de oro, de un poeta accidental, de un embaucador, de una lengua viperina,
+de un pelmazo, de un charlatdn, de un Reverendo Spooner, de una Sra. Malaprop!"!,
+de un Alexander Haig, de la mujer (y su hijo adolescente) que sabian hablar hacia
+atras y del tipico estudiante que sostiene que la frase ¢A quién crees el rumor de que
+Juan vio? no suena mal, hay combinaciones idiosincrasicas de genes (detectables en
+Los gemelos idénticos criados por separado). Entre los afios 1988 y 1992, mucha
+gente pensaba que el maximo mandatario de los Estados Unidos y su segundo de a
+bordo jugaban con una baraja lingiiistica incompleta. Veamos en qué se basaba
+semejante sospecha:
+
+Estoy menos interesado en lo que la definicién es. Se puede argumentar
+
+www.lectulandia.com - Pagina 313
+
+técnicamente que si estamos o no en una recesi6n. Pero cuando se ve que hay
+tanta desidia y tan poco interés... al diablo con las definiciones.
+
+Apoyo plenamente a Lawrence Welk, Lawrence Welk es un hombre
+maravilloso. Solia ser, 0 era, 0... sea lo que sea ahora, Dios le bendiga.
+—George Bush
+
+Hawai ha jugado siempre un papel fundamental en el Pacifico. Esta EN el
+Pacifico. Es una parte de los Estados Unidos que es una isla y que esta justo
+alli.
+
+[En un discurso pronunciado en el United Negro College Fund, cuyo «slogan»
+
+es «No hay cosa mas grave que echar a perder una mente»]: Debe ser una
+
+cosa terrible tener una mente enferma, o no tener mente. Qué gran verdad.
+—Dan Quayle
+
+Y quién sabe qué irrepetible amalgama de genes es responsable de genialidades
+lingitisticas como las que se transcriben a continuacion:
+
+Si la gente no quiere ir al estadio, no habra nada que les detenga.
+Se puede observar mucho con sélo mirar.
+Ya nadie va por alli porque ese sitio esta siempre atestado de gente.
+No terminaré hasta que no haya acabado.
+Se hace tarde muy temprano en esta época del afio.
+—E] Oso Yogi
+
+Lolita, luz de mi vida, fuego de mis lomos. Mi pecado, mi alma. Lo-ii-ta: la punta
+de la lengua da dos volteretas por el paladar y a la de tres chasquea contra los dientes.
+Lo. Li. Ta,
+
+—Vladimir Nabokov
+
+He sofiado que un dia esta nacion se alzara y vivira el verdadero sentido
+de su credo: «Mantenemos como verdad indiscutible que todos los hombres
+fueron creados iguales».
+
+He sofiado que algtin dia, sobre las rojas colinas de Georgia, los hijos de
+los antiguos esclavos y los hijos de los antiguos sefiores se sentardn juntos en
+la mesa de la hermandad.
+
+He sofiado que un dia, incluso el estado de Mississippi, un estado
+sofocado por la injusticia y la opresi6n, sera transformado en un oasis de
+justicia y libertad.
+
+www.lectulandia.com - Pagina 314
+
+He sofiado que mis cuatro pequefios vivirdn un dia en una nacion en la que
+no se les juzgara por el color de su piel, sino por su caracter.
+—Martin Luther King, Jr,
+
+Esta excelente fabrica, la tierra, me parece un promontorio estéril; ese dosel
+magnifico de los cielos, ese hermoso firmamento que veis colgado sobre
+vosotros, esa majestuosa techumbre llovida de doradas luces, a fe, no otra
+cosa me parece que una vil y pestifera multitud de vapores. j|Qué obra maestra
+es el hombre! jCuan noble su razén! ;Qué infinitas sus facultades! ;Qué
+expresivo y admirable en su forma y sus movimientos! jQué semejante a un
+angel en sus acciones! Y en su espiritu, jcuaén semejante a un dios! El es lo
+mas hermoso de la tierra, el mas perfecto de todos los animales. Y, sin
+embargo, ¢a mi, qué esta quinta esencia de polvo?
+—wWilliam Shakespeare
+{Hamlet, acto II, escena II]
+
+www.lectulandia.com - Pagina 315
+

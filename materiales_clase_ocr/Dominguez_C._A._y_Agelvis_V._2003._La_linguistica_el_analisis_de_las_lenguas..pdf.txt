@@ -1,0 +1,417 @@
+3. La lingiiistica: el analisis de la lengua
+
+A lo largo de esta presentacién de la lingtiistica hemos recurrido a varias
+nociones que, en su momento, nos han servido para comprender las bases de la
+existencia del lenguaje y sus propiedades. En esta tercera parte retomaremos esas
+nociones para relacionarlas con el estudio de lenguaje ya que, en realidad, de alli
+provienen.
+
+Empezaremos entonces definiendo la lingtistica. La mas general y conocida
+de estas definiciones es la que sefiala que la lingiiistica es el estudio cientifico del
+lenguaje.
+
+John Lyons (en Introduccién en la lingtiistica tedrica. Barcelona, Teide. 1973)
+nos da su definicion de la lingtiistica en estos mismos términos:
+
+La lingtiistica puede ser definida como el estudio cientifico del lenguaje. (...) por
+
+estudio cientifico del lenguaje se entiende su investigacién a través de observaciones
+
+controladas y empiricamente verificables y con referencia a alguna teoria general
+sobre la estructura del lenguaje. (op. cit.:1)
+
+Lyons nos aclara lo que significa el calificativo de "cientifico" en esta
+definicion: el estudio del lenguaje se realiza siguiendo una rigurosa metodologia para
+obtener los datos que deberan sistematizarse de acuerdo con una teoria general del
+lenguaje. En otras palabras, el estudio del lenguaje no puede limitarse a la simple
+recolecci6n y presentacion de datos dispersos, estos deben servir para demostrar o
+comprobar hipdtesis y teorias que nos permitan, a su vez, comprender mejor la
+naturaleza del lenguaje.
+
+Por todo esto, la lingtistica puede definirse como una ciencia tedrica y
+practica a la vez, pues no puede conformarse con presentar teorias: debe
+demostrarlas y, al mismo tiempo, tampoco puede contentarse simplemente con la
+observacion y descripcién de los hechos: debe verificarlos y utilizarlos para
+confirmar sus teorias.
+
+Ahora bien, ¢donde obtiene la lingtistica sus datos? Obviamente esta
+pregunta se responde diciendo: en el lenguaje. Sin embargo, tal como hemos dicho
+anteriormente, "el lenguaje en si mismo reune una multiplicidad de elementos que
+son idénticos en su base pero diferentes en la superficie, es decir, que estan
+constituidos de idéntica manera pero cuyos elementos varian de una comunidad a
+otra: las lenguas". En otras palabras, el lenguaje en si mismo es una entidad
+abstracta, que podemos definir solamente a partir de lo que observamos en sus
+realizaciones concretas: las lenguas. Asi, la capacidad humana para crear lenguajes
+se manifiesta siempre a través de una de ellas.
+
+De esta manera, la definicion puede completarse en estos términos: la
+lingiiistica se ocupa de la descripci6n y explicacién de los procesos que se dan
+en las distintas lenguas del mundo: sus relaciones internas y sus funciones en
+la sociedad. En el estudio cientifico de las diferentes lenguas, la lingtistica
+encuentra los datos necesarios para demostrar lo que es comun a un grupo de esas
+lenguas o a todas ellas (propiedades definitorias) y, a partir de esos datos, formula
+las teorias que permiten describir y explicar la capacidad general: el lenguaje.
+
+26
+
+Los niveles de analisis lingtiistico
+
+El lenguaje y, especificamente, nuestra lengua materna nos resulta tan
+familiar y tan cotidiana que pocas veces nos detenemos a pensar en sus
+caracteristicas y en la cantidad de funciones que cumple en nuestra vida diaria.
+Cuando hemos llegado a este punto de nuestra explicacién estamos seguros de que
+usted ya ha empezado a prestar mas atenciOn a su lengua y a interesarse por
+conocer mas sobre su naturaleza y los procesos implicados en su adquisicién y
+desarrollo (al menos asi lo esperamos). También estamos seguros de que usted ya ha
+notado que esa capacidad de comunicarnos mediante una lengua no es tan simple
+como parece. Pues bien, la lingUistica también se ha dado cuenta de ello, por esto, el
+estudio cientifico del lenguaje se divide hoy en dia en varios niveles de analisis que
+se ocupan de un aspecto particular de la totalidad compleja que es el lenguaje. Estos
+niveles son los siguientes:
+
+a) el nivel fonético y fonoldgico;
+
+b) el nivel morfolégico y sintactico;
+c) el nivel léxico y semantico; y
+
+d) la pragmatica.
+
+El nivel fonético y fonolégico
+
+La fonética es el estudio de los sonidos de una lengua.
+
+Al hablar regulamos la salida del aire por la nariz o por la boca y, ademas, la
+modificamos pues las cuerdas vocales, la campanilla, la lengua y los dientes, entre
+otros Organos, se ocupan de obstaculizar de varias maneras la salida del aire y asi,
+cuando éste por fin sale, produce diferentes sonidos.
+
+Haga usted mismo el experimento: deje salir el aire naturalmente por la boca,
+como en un suspiro, producira un sonido parecido a una A, pero si ahora hace lo
+mismo y "cierra" la salida del aire juntando los dientes entonces producira una §;
+ahora ponga la punta de la lengua contra los dientes de arriba: el sonido sera
+parecido al de una L... pero si luego hace vibrar la punta de la lengua (en esa misma
+posicidn) estara produciendo una R. Este es el trabajo de la fonética: estudiar lo que
+hacemos para producir los diferentes sonidos del habla, también se ocupa de
+estudiar como viajan en el aire estos diferentes sonidos y cémo los oye finalmente el
+receptor. Para este trabajo existen hoy en dia sofisticadisimos instrumentos de
+medicio6n y control de los datos. Asi, podemos retomar lo dicho hasta aqui diciendo
+que: la fonética es una parte de la lingtiistica que se ocupa de estudiar los sonidos
+del habla y se ha especializado, a su vez, en el estudio del modo como se produce
+(fonética articulatoria), se transporta (fonética actstica) y se recibe el sonido (fonética
+auditiva).
+
+Por su parte, la fonologia se encarga de formalizar los datos sobre los
+diferentes tipos de sonidos que hay en la lengua para poder establecer cuales son los
+que, verdaderamente, tienen una funcidn diferenciadora en la lengua es decir, los
+que sirven para diferenciar palabras. Esto se vera mas claramente si recordamos el
+
+Dominguez y Agelvis (2003) Lingiiistica: Una introduccion generalisima 27
+
+resultado del "juego" que presentamos en la segunda parte para explicar en qué
+consistia la segunda articulacion del lenguaje:
+
+COMO Pomo poCo Loco Coco coPo copA coMa_ cola
+
+>
+pocA
+Boca
+
+Loca
+
+Recordemos que este consistia en cambiar uno solo de los elementos
+constituyentes de la palabra para convertirla en otra palabra. En total, para formar
+las palabras resultantes utilizamos siete elementos: C, M, P, L, B (consonantes) O y
+A (vocales). Ahora ya podemos darle a esos elementos sus nombres verdaderos, se
+llaman fonemas. Un fonema es una unidad de segunda articulaci6n, una unidad
+linglistica diferenciadora de significado.
+
+Establecemos que dos elementos de la lengua son fonemas siguiendo el
+mismo procedimiento con el cual "jugamos" antes: si comparamos dos palabras casi
+idénticas, como tio / mio y encontramos que cambiando solo uno de sus
+constituyentes cambia el significado entonces podemos establecer que, en espajfiol,
+distinguimos los fonemas /t/ y /m/, y si comparamos luego con rio entonces
+encontraremos una tercera distincion: /r/. En nuestro "juego" anterior establecimos
+siete mas. Asi trabaja la fonologia y con este procedimiento determina cuales son los
+fonemas que existen en la lengua.
+
+El nivel morfolégico y sintactico
+
+La morfologia es el estudio de la forma de las palabras. Por ejemplo, si
+comparamos las palabras: como / comes / come / comemos / coméis / comen.
+Notaremos enseguida que en esta lista hay un elemento que se repite y otro que
+varia, asi:
+
+(e)
+
+es
+
+e
+emos
+éis
+en
+
+COM
+
+Lo mismo sucede en:
+
+HOMBRE |cito
+
+sote
+
+super
+
+En el primer ejemplo tenemos una raiz que se une con la flexién que
+significa "presente del indicativo" (en espafiol, obviamente). En el segundo ejemplo,
+tenemos una palabra a la cual se unen una serie de sufijos (elementos pospuestos a
+
+28
+
+la palabra de base) o prefijos (elementos antepuestos). En ambos casos lo que
+hemos determinado es el modo como esta constituida la palabra resultante:
+comemos 0 superhombresote. Este es el trabajo de la morfologia.
+
+Por su parte, la sintaxis se ocupa de estudiar el modo como se ordenan y
+jerarquizan los elementos en la linea del mensaje. La unidad tradicional del andlisis
+sintactico es la oraci6n y en este nivel se estudia la conformacion de las oraciones en
+la lengua.
+
+Sobre este punto no abundaremos mucho puesto que el estudio de la sintaxis
+nos resulta familiar desde la escuela. Sdlo agregaremos aqui que en el nivel
+morfologico y sintactico, asi como en el que veremos a continuaci6on (el léxico y
+semantico), la lingttistica se ocupa de las unidades de la primera articulacion.
+
+El nivel léxico y semantico
+
+El léxico de una lengua es el inventario de las unidades que conforman esa
+lengua. Cuando hablamos del "vocabulario" de una lengua nos estamos refiriendo al
+conjunto total de palabras que hay en esa lengua, a su léxico.
+
+El léxico de una lengua, evidentemente, es un conjunto abierto, pues esta
+constantemente enriqueciéndose con nuevas palabras, bien sea porque los
+hablantes de esa lengua las inventamos, bien sea porque las tomamos prestadas de
+otras lenguas. Y gpor qué necesitamos nuevas palabras? La respuesta es evidente:
+para referirnos a nuevas cosas. La palabra alunizar, por ejemplo, existe desde hace
+muy poco tiempo en el léxico de nuestra lengua (y de cualquier otra lengua), es una
+palabra derivada de luna siguiendo el mismo procedimiento que utilizamos para
+derivar aterrizar de tierra. En ambos casos, tuvimos que inventar una palabra para
+denominar una nueva realidad, algo que solo es posible desde que existen los
+aviones 0 los viajes a la luna lo cual, como usted sabe, es muy reciente. En estos dos
+casos derivamos una palabra de otra, por lo tanto las palabras como alunizar y
+aterrizar pueden estudiarse desde el punto de vista de la lexicologia tanto como
+desde el punto de vista de la morfologia, tal y como vimos antes.
+
+La lexicologia es el estudio del léxico de una lengua y de la manera como
+éste se conforma, es también el estudio de los recursos de los cuales disponemos
+para enriquecer el léxico.
+
+Antes de pasar a la semantica, notemos lo siguiente: usamos también la
+palabra "vocabulario" para referirnos al conjunto de palabras que una persona
+conoce. El léxico es el conjunto de las palabras de la lengua y cuando decimos que
+una persona tiene un vocabulario "rico" o "pobre" estamos relacionando el total
+parcial de palabras que esa persona conoce con el total general del léxico, estamos
+comparando, implicitamente, las dos cantidades.
+
+Nos interesa llamar la atenci6n sobre el hecho de que esta comparacion que
+podemos hacer entre dos personas no la podemos hacer entre dos lenguas pues
+cada una de esas lenguas tendra un léxico diferente pero, en ningun caso, mas
+"rico" o mas "pobre" que la otra.
+
+Por ultimo, la semantica se ocupa del estudio del significado lingtistico.
+
+Dominguez y Agelvis (2003) Lingiiistica: Una introduccion generalisima 29
+
+Como vimos antes, el significado es el elemento que se _ relaciona
+necesariamente con el significante para que podamos hablar de un simbolo o de un
+signo. En el caso de los signos lingtiisticos, la semantica se ocupa de establecer
+cuales son los procesos de significacién en la lengua. Algunos de estos procesos son
+conocidos seguramente por usted: los sindnimos y los ant6nimos, por ejemplo, o
+bien la metafora, son relaciones que se establecen entre las palabras de acuerdo con
+su significado. La semantica se ocupa de estos procesos y, ademas, trata de
+formalizar los elementos que "componen" el significado de cada palabra, la
+constitucién interna de este significado.
+
+Ese instrumento de uso cotidiano: el diccionario, es el resultado del trabajo
+que realizan los lingUistas que se dedican al analisis en este nivel.
+
+la pragmatica
+
+La pragmatica estudia todos los aspectos relacionados con el uso de la
+lengua. Partamos de un ejemplo preciso, el que Escandell recoge de Voltaire:*
+
+Cuando un diplomatico dice si, quiere decir ‘quiza’;
+Cuando dice quizd, quiere decir ‘no’;
+Y cuando dice no, no es diplomatico.
+
+En este ejemplo se toma en cuenta al emisor para determinar el significado
+de lo que dice y esto implica entonces que el signo no es suficiente para
+determinar el significado completo sino que debemos que apelar al contexto para
+entender cabalmente el significado. Como hablantes, tenemos que vérnoslas con
+el significado todos los dias y sabemos que lo que oimos lo dice alguien concreto
+en una situaci6n concreta y, también, que para que la comunicacion sea eficaz,
+nosotros, como oyentes, debemos entender que el lenguaje no es un simple
+sistema de codigos, como pudo ser pensado por cierta lingtiistica ingenua. No hay
+equivalencia uno a uno entre el signo y su significado.
+
+Para la lingtiistica estos son problemas nuevos, no siempre se entendid
+este aspecto de la comunicacion. No se poseian herramientas para describir
+aquellos aspectos que tenian que ver con los actos de habla, con los hablantes en
+situacion y ha sido la pragmatica la que los ha venido proporcionando.
+Tradicionalmente se consideraron los niveles de andalisis fonético-fonoldgico,
+morfoldgico-sintactico y semantico. Ahora la lingttistica ha incorporado un cuarto
+nivel para poder dar cuenta de aquellos aspectos que muestran el caracter
+complejo y manipulador de la comunicacién humana.
+
+La pragmatica se ha convertido en un componente mas en la comprensi6n
+de la naturaleza del lenguaje en los Ultimos treinta anos. Pero, qué hacia que la
+lingtiistica no se ocupara de estos problemas que hoy parecen tan evidentes.
+
+La lingtiistica habia tomado un camino que la alejaba de la descripcion de
+
+Escandell-Vidal, Maria Victoria. 1993. Introduccién a la pragmatica. Barcelona: Anthropos-
+Universidad Nacional de Educaci6n a Distancia.
+
+30
+
+los actos de habla. Se propuso construir una teoria que diera cuenta del sistema
+lingtiistico, del conjunto de invariables, de constantes, de universales. La
+exclusion de los actos de habla del estudio de la lingtiistica se decret6 cuando
+Saussure opto por la lingtiistica de la lengua. (cf. Curso..., cap. IV). En un
+principio, desde Saussure, se procedio a conocer el lenguaje como una estructura.
+Esa fue la opcion: la lengua en si y para si, constituida por una serie de
+oposiciones. Estas oposiciones mantienen una relacién de interdependencia,
+conformando un _ sistema. Esta manera de conocer el lenguaje, llamada
+estructuralismo, priv6 en la primera mitad del siglo XX. Su programa de
+conocimiento constituy6 una herramienta importante ya que colocaba a la
+lingtiistica en un terreno distinto al que habia sido confinada hasta el siglo XIX,
+la GramAatica historica comparada (cf. Curso..., cap. I). Uno de los presupuestos
+tedricos del estructuralismo consisti6, tal como esta formulado en el Curso de
+lingtiistica general de Saussure, en la disyuntiva que se planted: conocer la lengua
+o conocer el habla. Se opto por la lengua, y esta opcidn relego la realizacion, el
+plano del habla, el plano de la comunicacién. Se puso el acento en la significacién
+en la manera como el hombre produce la significacién, en abstracto y esa decisi6n
+colocé la lingttistica europea a desarrollarse en esa direccidn: sin acto de habla,
+de lengua sin acto y sin actores.
+
+La pragmatica, entonces, como lo expresa Reyes “estudia, los principios
+que regulan los comportamientos lingtisticos y las formas de producir significado
+que no entran en principio en el dominio de la semantica: el subsistema
+estudiado por la pragmatica no esta siempre inserto en las estructuras de la
+lengua” (1994:28).
+
+Relaciones de la lingiiistica con otras ciencias
+
+La linglistica es, en si misma, una ciencia aut6noma, independiente, que
+cumple con el requisito inicial de toda ciencia: tener un objeto de estudio propio y
+dedicarse a su andalisis siguiendo el método cientifico, tal y como lo expusimos antes.
+Sin embargo, la realidad del lenguaje es sumamente compleja y, por ello, la
+lingtiistica tiene que relacionarse con otras ciencias para poder asi conceptualizar y
+explicar mejor la realidad del lenguaje. En estos casos, la lingtiistica da lugar a una
+serie de terrenos de estudio interdisciplinario y se sirve de los conocimientos que
+éstas producen al mismo tiempo que aporta sus conocimientos para poder, como
+acabamos de decir, comprender mejor el lenguaje y, con ello, a su creador: el ser
+humano.
+
+Michael A. K. Halliday nos presenta un cuadro en el cual se resume
+graficamente el vasto campo de estudio que ofrece el lenguaje asi como las multiples
+relaciones interdisciplinarias que son posibles a partir de la lingtiistica (tomado de
+M.A.K. Halliday. 1982. El lenguaje como semidtica social. México, Fondo de Cultura
+Economica. Pag. 21 [ver pagina siguiente}).
+
+Este cuadro resulta sumamente interesante pues presenta, en el centro, al
+lenguaje tal y como lo hemos presentado hasta aqui: un sistema de signos que se
+analiza en varios niveles de acuerdo con el aspecto que nos _ interese
+fundamentalmente. Ademas, nos muestra las relaciones del lenguaje como medio de
+
+Dominguez y Agelvis (2003) Lingiiistica: Una introduccion generalisima 31
+
+"distanciamiento" y abstraccion de la realidad por una parte (conceptual: la lengua
+como conocimiento) y, por la otra, las relaciones con la situacioén concreta en la cual
+se emite un mensaje y las multiples funciones que ya senalamos (situacional: la
+lengua como comportamiento). La linea punteada que circunda el grafico delimita el
+
+terreno del estudio lingtiistico y todas las flechas que salen de alli sehalan una
+relacion posible con alguna otra ciencia.
+
+En la proxima parte consideraremos mas las relaciones que la lingtiistica
+establece con la medicina, la sociologia y la psicologia, dando lugar a
+
+"interdisciplinas" como la neurolingtistica, la sociolingtistica y la psicolingtistica,
+respectivamente.
+
+estudios
+
+literarios
+
+arqueologia y
+prehistoria
+
+historia de
+
+la lengua roica y
+familias de matematicas
+‘am
+lenguas <
+cambio, \ ingenieria de las
+lingiiistico
+
+comunicaciones
+
+geografia
+
+/
+/
+t
+
+idiolecto fonética:
+acisstica
+articulatoria
+perceptiva
+
+; fisica
+fonica/
+
+erafica
+forma: gramatica y
+vocabulario
+semantica:
+
+variedades lingiisticas:
+dialecto
+registro (diatipico),
+
+fisiologia
+
+—_ =
+situacional conceptual
+
+lengua
+patologia
+afasia, etc.
+
+interiorizacion:}
+produccion y
+comprension
+
+socializacion: 7*
+
+funcion
+
+e interaccion
+\
+
+univerales
+lingilisticos
+
+A ‘ (psicolin-
+% a Bulstica)
+N
+ua en
+sociologia Sw ck 5A psicologia
+antropologia -pf-—-———
+social -
+cultura biologia
+humana
+FIGuRA |
+
+32
+

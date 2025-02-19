@@ -1,0 +1,1006 @@
+Traduccién a cargo de Maria Florencia Silva para uso exclusivo de las materias "Lingilistica" (ISPEE) e "Introduccion a la lingiiistica" (UNPAZ).
+
+ARCHIVO 1.2
+
+3Qué conoces cuando conoces una lengua?
+
+1.2.1 La competencia y la actuacioén lingiiistica
+
+Como hablante de espafiol (o de cualquier otra lengua que hables), sabes mucho
+sobre tu lengua. Sin embargo, supongamos que alguien te pidiera que plasmaras
+todo ese conocimiento en un libro de texto que se utilizara para ensefiar espafiol a
+otras personas. Pronto te darias cuenta de que, aunque sabes perfectamente cdmo
+hablar espafiol, no eres plenamente consciente de la mayor parte de
+ese conocimiento.
+
+Si lo piensas, realmente somos inconscientes de muchas de las cosas que
+hacemos a diario. Por ejemplo, la mayoria de las personas saben cémo caminar y lo
+hacen sin pensarlo. La mayoria también podemos describir el acto de caminar:
+levantamos un pie y lo colocamos frente al otro. Sin embargo, hay muchos matices y
+
+tareas motoras individuales involucradas en caminar que nunca consideramos y que
+solo un pequefio grupo de personas (como los kinesidlogos) comprende:
+exactamente cémo cambias tu equilibrio entre pasos, cdmo la velocidad afecta tu
+
+zancada, y asi sucesivamente. Modulas estas cosas constantemente mientras
+caminas sin pensar en ellas, y muy pocas personas saben exactamente cémo lo
+hacen. Lo mismo ocurre con nuestro conocimiento del lenguaje: en su mayor parte,
+esta oculto. Los lingiiistas estan interesados en este conocimiento "oculto", al que
+llaman competencia lingiiistica.
+
+Sin embargo, no todo tu conocimiento sobre la lengua esta oculto. Las
+personas revelan parte de su conocimiento a través de su actuacion lingiiistica: la
+forma en que producen y comprenden el lenguaje. Puedes pensar en la competencia
+lingiiistica como el potencial no visible de una persona para hablar una lengua,
+mientras que la actuacion lingiistica es la realizaciédn observable de ese potencial:
+nuestra actuacién es lo que hacemos con nuestra competencia lingitistica. Dicho de
+otra manera, tu competencia lingtiistica se almacena en tu mente, y tu actuacién
+lingiiistica se revela en tu discurso (aunque hay que tener en cuenta que revelarlo no
+significa que seamos conscientes de como funciona).
+
+Traducido del original ‘Language Files. Materials for an Introduction to Language and Linguistics'. Department of Linguistics. The Ohio State University.
+
+Traduccién a cargo de Maria Florencia Silva para uso exclusivo de las materias "Lingilistica" (ISPEE) e "Introduccion a la lingiiistica" (UNPAZ).
+
+Consideremos nuevamente el caso de caminar. Si puedes caminar, tienes la
+capacidad de hacerlo incluso cuando estas sentado (y no estas utilizando esa
+capacidad activamente). Esa capacidad es tu competencia para caminar. Cuando te
+levantas y cruzas la habitacién caminando, esa es la actuacién al caminar. Ahora,
+supongamos que tropiezas o te tambaleas en alguna ocasién. Eso no significa que no
+seas un caminante competente: sigues teniendo tu competencia para caminar, pero
+tu actuacion se vio afectada. Tal vez simplemente no estabas prestando atencién a
+donde ibas, el suelo estaba irregular, estaba oscuro y no podias ver claramente, o
+quizas no habia nada inusual, pero por alguna razo6n simplemente perdiste el
+equilibrio. De la misma manera, puedes cometer errores de actuaci6n al usar una
+lengua, como no poder recordar una palabra, pronunciar algo incorrectamente o
+mezclar palabras en una oracién. A veces, hay una razon aparente: podrias estar
+cansado o distraido, o intentando producir un enunciado particularmente dificil.
+Otras veces, sin embargo, no hay una razon aparente: simplemente cometes un
+error. A pesar de esto, sigues teniendo tu competencia lingtiistica.
+
+Dado que la competencia no puede ser observada directamente, los lingiiistas
+deben utilizar la actuacion lingiiistica como base para formular hipotesis y sacar
+conclusiones sobre como debe ser la competencia lingiiistica. Sin embargo, en la
+mayoria de los casos intentan ignorar las imperfecciones en la actuacién (los
+inevitables errores de habla, enunciados incompletos, etc.) y se enfocan en patrones
+consistentes en su estudio de la competencia lingitistica.
+
+1.2.2 El circuito de la comunicacién
+
+Cuando usas el lenguaje, lo haces para comunicar una idea desde tu mente hacia la
+mente de otra persona. Por supuesto, el lenguaje no es la unica forma de hacerlo;
+existen muchos sistemas de comunicacién, como tocar la bocina de un automévil,
+dibujar una imagen, gritar a todo pulmon o usar banderas de sefiales. Los elementos
+clave en cualquier sistema de comunicacion (segun lo descrito por Claude Shannon
+y Warren Weaver en 1949) son una fuente de informacion, un transmisor, una
+sefial, un receptor y un destino.
+
+Cuando usamos el lenguaje como sistema de comunicacién, una persona actta
+como la fuente de informacion y el transmisor, enviando una sefial a otra persona
+que acta como receptor y destino. Para desempefiar el rol de fuente y transmisor 0
+de receptor y destino, debes saber mucho sobre tu lengua. El diagrama en (1)
+describe el circuito de la comunicacién en relacién con el lenguaje.
+
+Traducido del original ‘Language Files. Materials for an Introduction to Language and Linguistics'. Department of Linguistics. The Ohio State University.
+
+Traduccion a cargo de Maria Florencia Silva para uso exclusivo de las materias "LingUistica" (ISPEE) e "Introduccién a la lingiistica" (UNPAZ).
+
+(1) El circuito de la comunicacién
+
+fo fo em,
+7 PLATYPUS NN a NK
+( BE IN THE (, THERE IS A
+A \ PLAT YPys IN THE
+BATHTUB \ BATHTUB
+THERE a
+
+Think of what you Pick out words to
+want to communicate express the idea
+
+eS
+Put these words
+together in a certain
+order following rules.
+3
+
+a
+a —
+\ /deszaplaerapus
+\ indrbzOtab/
+
+NY
+
+(es
+
+Sik
+
+Lm
+Speak: Send those :
+Send the sounds pronunciations to | Figure out how to
+through the air your vocal anatomy pronounce these
+words
+c ©
+ra ™
+Ss; 2 cs a »
+~~ nw
+x) | \ ;
+Perceive: Listener Decode: Listener ; Connect:
+hears the sounds interprets sounds as Listener receives
+language communicated idea
+9)
+
+@
+
+© 2015 by Julia Porter Papke
+
+Esta ilustracién muestra los numerosos pasos que deben realizarse para que
+una idea sea comunicada de una persona a otra. Primero, es necesario concebir una
+idea que se desee comunicar; esto no es necesariamente una funcién del lenguaje en
+si, pero ciertamente es el primer paso para comunicar cualquier idea. Una vez que
+tienes la idea, debes plasmarla en palabras que contengan el significado que quieres
+transmitir y que estén expresadas de una manera particular. Estos pasos forman la
+base de gran parte de la investigacion lingitistica tradicional. Cabe destacar que estos
+primeros cuatro pasos representan la "fuente de informacién" en el sistema de
+comunicacion.
+
+Traducido del original ‘Language Files. Materials for an Introduction to Language and Linguistics'. Department of Linguistics. The Ohio State University.
+
+Traduccién a cargo de Maria Florencia Silva para uso exclusivo de las materias "Lingilistica" (ISPEE) e "Introduccion a la lingiiistica" (UNPAZ).
+
+El paso 5 es el transmisor; en este paso, el hablante da expresion fisica a la idea del
+mensaje que se quiere transmitir. El paso 6 es la sefial propiamente dicha. Aqui, los
+sonidos generados por el hablante viajan a través del aire hacia el oyente. El oyente
+acta como receptor en el paso 7, percibiendo la sefial sonora y envidndola a su
+propio cerebro. El paso 8 en el diagrama esta particularmente simplificado, ya que
+en realidad abarca los pasos 2 a 4 en sentido inverso. Es decir, para "decodificar" la
+sefial percibida e interpretarla como lenguaje, el oyente debe entender y
+descomponer el orden de las palabras (y las partes de las palabras) y el significado de
+estas. Finalmente, el paso 9 representa el destino: el oyente ha recibido la idea
+comunicada.
+
+Es importante notar que, en el diagrama, el oyente recibe exactamente la
+misma idea que el hablante intenté transmitir. Esto, como probablemente has
+experimentado, es una idealizacidn: en la vida real, el oyente no siempre recibe el
+mensaje correcto. Todos estos pasos ocurren en un contexto particular que puede
+contribuir a que los participantes comprendan mejor la comunicacién 0, por el
+contrario, interferir con su éxito (esta interferencia en la cadena se conoce como
+ruido).
+
+E] diagrama en (1) esta bastante simplificado en la manera en que resume cada
+paso; el resto de este libro profundizara mucho mas sobre cémo funciona cada parte
+de este circuito de comunicacién con respecto al lenguaje. Sin embargo, la siguiente
+seccién explica brevemente cada componente, mostrando qué es lo que sabes
+cuando sabes un idioma. A medida que leas sobre cada elemento, intenta pensar
+donde encaja en el diagrama de la cadena de comunicacién del habla.
+
+1.2.3 sQué sabes cuando sabes una lengua?
+
+Una de las cosas mas basicas que sabes cuando conoces una lengua, suponiendo que
+uses una lengua hablada, son los sonidos del habla. Primero, sabes cuales sonidos
+son sonidos del habla y cuales no lo son; si escuchas el ladrido de un perro 0 el golpe
+de una puerta al cerrarse, no lo confundiras con los sonidos del lenguaje. También
+sabes cuales sonidos del habla pertenecen a tu lengua y cuales a otra.
+
+Traducido del original ‘Language Files. Materials for an Introduction to Language and Linguistics'. Department of Linguistics. The Ohio State University.
+
+Traduccién a cargo de Maria Florencia Silva para uso exclusivo de las materias "Lingilistica" (ISPEE) e "Introduccion a la lingiiistica" (UNPAZ).
+
+No solo escuchas y reconoces estos sonidos, sino que también sabes cémo
+producirlos, aunque puede que nunca hayas tenido que pensar en la mecanica para
+hacerlo. Supongamos que tuvieras que explicar las diferencias entre las consonantes
+en las palabras dado y dato. Probablemente has estado produciendo estos sonidos
+durante afios sin pensar dos veces en ello, pero claramente posees un conocimiento
+competente de cémo hacerlo. Todo este conocimiento esta relacionado con el area o
+nivel de la lengua conocido como fonética (tratada en el Capitulo 2).
+
+Sin embargo, tu conocimiento sobre los sonidos de tu lengua va mas alla:
+también sabes cémo estos sonidos funcionan juntos como un sistema. Por ejemplo,
+sabes qué secuencias de sonidos son posibles en diferentes posiciones. En palabras
+como psicologia o psicodélico, los hablantes de espafiol normalmente no pronuncian
+la /p/ porque /ps/ no es una combinacidn de sonidos que pueda ocurrir al inicio de
+palabras en espafiol. No hay nada inherentemente dificil en esta secuencia; aparece
+en el medio de muchas palabras en espafiol, como eclipse. Este conocimiento
+especifico de cada lengua sobre la distribucién de los sonidos del habla es parte de tu
+fonologia (tratada en el Capitulo 3). Tu conocimiento de fonologia te permite
+identificar que trisa y blip podrian ser palabras posibles en espafiol, pero que trsip y
+blpi no. Ademas, la fonologia te permite reconocer sonidos y palabras pronunciados
+por diferentes hablantes, aunque la mayoria de las personas no los pronuncien
+exactamente de la misma manera.
+
+En su mayor parte, el habla consiste en un flujo continuo de sonido; hay pocas,
+si acaso, pausas entre palabras. Los hablantes de una lengua, sin embargo, tienen
+poca dificultad para descomponer este flujo de sonido en palabras. Por ejemplo, un
+hablante de espafiol puede analizar facilmente la secuencia en (2a) como si
+contuviera las palabras individuales en (2b); esto es lo que debemos hacer todo el
+tiempo cuando escuchamos el habla.
+
+(2) a. elperroestajugandoeneljardin
+
+b. el perro esta jugando en el jardin
+
+También sabes cémo descomponer palabras individuales en partes mas pequefias
+que tienen un significado o funcidn particular (;cudntas partes hay en la palabra
+incredulidad?), y cémo crear palabras combinando estas partes mas pequefias. Es
+decir, puedes tanto producir como comprender palabras recién formadas que nunca
+habias escuchado antes, como englobalizante.
+
+Traducido del original ‘Language Files. Materials for an Introduction to Language and Linguistics'. Department of Linguistics. The Ohio State University.
+
+Traduccién a cargo de Maria Florencia Silva para uso exclusivo de las materias "Lingilistica" (ISPEE) e "Introduccion a la lingiiistica" (UNPAZ).
+
+También sabes qué combinaciones son palabras y cuales no lo son: escritor es una
+palabra, pero *escribidor no lo es. Amablemente es una palabra, pero mesamente no
+lo es. (El simbolo * se utiliza para marcar algo que es agramatical; en este caso,
+indica que no son palabras posibles en espafiol). Tu conocimiento de estos y otros
+aspectos de la formacidén de palabras constituye tu conocimiento de la morfologia
+(tratada en el Capitulo 4).
+
+Ademas, sabes mucho sobre la sintaxis de tu lengua (tratada en el Capitulo 5):
+como las palabras se combinan para formar frases y oraciones. Este hecho se
+evidencia en tu capacidad para construir y usar oraciones que nunca antes habias
+escuchado, y para reconocer cuando una oracién esta bien formada.
+
+(3) a. Buscaré el paquete a las ocho en punto.
+A las ocho en punto, buscaré el paquete.
+c. *Elpaquete en punto a las ocho buscaré.
+
+* Yo buscara el paquete a las ocho en punto.
+
+En (3) arriba, las oraciones (a) y (b) son gramaticales, aunque tienen drdenes de
+palabras diferentes. Por otro lado, (c) y (d) son agramaticales: (c) no tiene sentido, y
+(d) viola una regla de concordancia verbal. Es posible que en algin momento hayas
+pensado en el hecho de que los verbos deben concordar con sus sujetos y que los
+ordenes aleatorios de palabras no forman oraciones. Pero, ;qué sucede con las
+oraciones en (4)?
+
+(4) a. Voyacomer una porcion de fideos.
+b. * Voy a comer una porcién de fideo.
+c. * Voy a comer una porcién de churrascos.
+
+d. Voy a comer una porcién de churrasco.
+
+Tu conocimiento interno de la sintaxis del espafiol te proporciona la informacién
+necesaria para saber que (4a) y (4d) son gramaticales, mientras que (4b) y (4c) no lo
+son, aunque es probable (especialmente si eres hablante nativo de espafiol) que
+nunca hayas pensado explicitamente en este hecho.
+
+Otra parte de tu competencia lingtifstica esta relacionada con tu capacidad
+para determinar el significado de las oraciones. Cuando interpretas significados,
+estas apelando a tu conocimiento de la semantica (tratada en el Capitulo 6). Cuando
+escuchas una palabra, como ornitorrinco, verde o merodear, tienes alguna idea del
+significado asociado a esa palabra.
+
+Traducido del original ‘Language Files. Materials for an Introduction to Language and Linguistics'. Department of Linguistics. The Ohio State University.
+
+Traduccién a cargo de Maria Florencia Silva para uso exclusivo de las materias "Lingilistica" (ISPEE) e "Introduccion a la lingiiistica" (UNPAZ).
+
+Sabes cuando dos palabras significan lo mismo, por ejemplo, sofa y sill6n y cuando
+una palabra tiene dos (o mas) significados, como gato. También sabes como las
+palabras se combinan para formar significados mas amplios.
+
+(5) a. El gato negro esta en el garage.
+
+b. El gato de suelo esta en el garage.
+
+(6) a. El ornitorrinco se agacho debajo del sofa..
+
+b. El sofa se agaché debajo del ornitorrinco.
+
+Cada una de las oraciones en (5) contiene las mismas palabras excepto una que
+permite desambiguar su significado, pero tienen significados diferentes. Lo mismo
+ocurre con las oraciones en (6), aunque en este caso la segunda parece
+semanticamente andmala, porque parte de tu conocimiento de la semantica del
+espafiol incluye el hecho de que un sofa no es algo que pueda agacharse.
+
+Tu comprension del significado de las oraciones también implica entender
+cémo el contexto de esos enunciados influye en su significado. Supongamos que,
+mientras estas en clase, tu profesor te dice: “;Puedes cerrar la puerta ?”. Interpretada
+literalmente, seria una pregunta de si o no acerca de tu capacidad para cerrar la
+puerta, pero probablemente ni siquiera considerarias interpretar la pregunta de esa
+manera; en cambio, entenderias que se trata de una solicitud para que cierres la
+puerta. Tu capacidad para usar el contexto con el fin de interpretar el significado de
+un enunciado es parte de tu conocimiento de la pragmatica (tratada en el Capitulo
+7). Tu conocimiento de la pragmatica también te ayuda a determinar qué
+enunciados son apropiados o inapropiados en una situacién dada.
+
+Cada uno de estos elementos o niveles de la lengua—fonética, fonologia,
+morfologia, sintaxis, semantica y pragmatica—es parte de tu competencia
+lingiiistica y, por lo tanto, un componente integral de la forma en que te comunicas
+lingitisticamente. Estas son las cosas que sabes cuando dices que conoces una
+lengua.
+
+1.2.4 ;Cémo esta almacenada tu competencia lingiiistica?
+
+Ahora que hemos considerado algunos de los tipos de conocimiento involucrados
+en el conocimiento de una lengua, es apropiado reflexionar sobre la pregunta de
+donde esta almacenado este conocimiento. Esta es una pregunta dificil de responder,
+porque aunque las personas usan el lenguaje constantemente, no es algo tangible. Si
+fabrico un martillo, después puedo recogerlo y mostrartelo. En cambio, no puedo
+mostrarte una oracién que he creado.
+
+Traducido del original ‘Language Files. Materials for an Introduction to Language and Linguistics'. Department of Linguistics. The Ohio State University.
+
+Traduccién a cargo de Maria Florencia Silva para uso exclusivo de las materias "Lingilistica" (ISPEE) e "Introduccion a la lingiiistica" (UNPAZ).
+
+Esa oracién existe Unicamente en mi mente (y, después de que la he pronunciado,
+también existe en tu mente). Aunque puedo escribirla, la cadena de letras que
+aparece en la pagina es solo una representacion visual de la oracion: no es la oracién
+en si. Entonces, ;dénde existe el lenguaje/la lengua? Existe Unicamente en las
+mentes de sus hablantes. En cierto sentido, puedes pensar en tu competencia
+lingitistica no solo como tu habilidad para usar la lengua, sino también como la
+lengua misma.
+
+Este conocimiento tiene dos partes. La primera se llama léxico, que consiste en
+el almacén de todas las palabras que conoces: qué funciones tienen, a qué se refieren,
+como se pronuncian y como se relacionan con otras palabras.
+
+La segunda parte de tu conocimiento esta formada por todas las reglas que
+conoces sobre tu lengua, las cuales estan almacenadas en forma de una gramatica
+mental. Es necesario hacer una aclaracién aqui: las palabras gramdtica y regla tienen
+un significado bastante diferente para un lingiiista que para la mayoria de las
+personas en una conversacién cotidiana. Para un lingitiista, una gramatica es un
+sistema de lengua. Es el conjunto de todos los elementos y reglas (sobre fonética,
+fonologia, morfologia, sintaxis y semantica) que conforman una lengua. Una regla,
+entonces, es simplemente una descripcién de algtin patron que ocurre en la lengua.
+Las reglas en tu gramatica mental te ayudan a producir enunciados bien formados e
+interpretar los enunciados de otros.
+
+Las reglas en tu gramatica mental no son necesariamente el tipo de reglas que
+estan escritas o se ensefian en algun lugar; mas bien, son las reglas en tu mente que
+te indican cémo combinar sonidos y palabras para crear enunciados bien formados.
+Durante los primeros afios de sus vidas, los nifios trabajan arduamente para adquirir
+estas reglas al prestar atencién a la lengua que se usa a su alrededor. Todos los
+humanos (excepto aquellos con casos graves de retraso mental o dafio cerebral
+significativo) son capaces de adquirir la lengua a la que estan expuestos cuando son
+nifios, y lo hacen de manera natural, sin necesidad de ensefianza. En el Capitulo 8,
+discutiremos la adquisicién de la lengua y cémo los nifios construyen gramaticas
+mentales de sus lenguas nativas.
+
+Aunque todos se convierten en hablantes completamente competentes de su
+lengua nativa, con una gramatica mental completa que les permite comunicarse
+eficazmente con otras personas en su comunidad lingiiistica, los detalles de las
+gramaticas mentales varian entre los hablantes.
+
+Traducido del original ‘Language Files. Materials for an Introduction to Language and Linguistics'. Department of Linguistics. The Ohio State University.
+
+Traduccién a cargo de Maria Florencia Silva para uso exclusivo de las materias "Lingilistica" (ISPEE) e "Introduccion a la lingiiistica" (UNPAZ).
+
+Estas variaciones ocurren entre hablantes de diferentes lenguas y dialectos, e incluso
+entre hablantes del mismo dialecto. No hay dos hablantes que tengan exactamente la
+misma gramatica mental, y por lo tanto, no hay dos hablantes que encuentren
+exactamente el mismo conjunto de oraciones bien formadas. Sin embargo, nuestras
+gramaticas mentales son lo suficientemente similares como para que casi nunca
+estemos en desacuerdo y podamos entendernos la mayor parte del tiempo. Puedes
+encontrar mas informacion sobre la variacion lingiiistica en el Capitulo 10.
+
+En resumen, tu competencia lingiistica esta almacenada en un léxico y una
+gramatica mental, a los cuales accedes tanto para producir como para comprender
+enunciados. Aunque puede que no seas consciente de todo el conocimiento
+lingitistico que tienes almacenado, lo utilizas constantemente; forma la columna
+vertebral del circuito de la comunicacién.
+
+1.2.5 Descubriendo y describiendo lo que sabes
+
+Uno de los trabajos de los lingiiistas es descubrir todo el conocimiento oculto que
+los hablantes tienen almacenado en sus gramaticas mentales: describir
+objetivamente la actuacion lingtiistica de los hablantes y, a partir de su actuacién,
+deducir las reglas que conforman su competencia lingiiistica. Este proceso es
+analogo a una situacién en la que ves enfermeras, doctores, ambulancias y personas
+en sillas de ruedas saliendo de un edificio desconocido, y haces la hipotesis de que el
+edificio es un hospital. Utilizas la evidencia que puedes observar para sacar
+conclusiones sobre la estructura interna de lo que no puedes ver.
+
+Para descubrir la estructura interna de la lengua, es decir, el léxico y las reglas
+mentales, los lingiiistas primero deben describir la lengua tal como se usa. Esto
+implica escuchar la lengua hablada, encontrar generalizaciones y luego hacer
+declaraciones descriptivas sobre lo observado. Por ejemplo, un lingitista que
+describe el espafiol podria hacer las siguientes observaciones en (7):
+
+(7) Ejemplos de observaciones descriptivas sobre el inglés
+a. El sonido vocalico [o] en la palabra ornitorrinco se produce con los labios
+redondeados.
+b. La secuencia de sonidos [dato] es una palabra posible en espafiol.
+c. El plural de muchos sustantivos es igual al singular, pero con una -s al
+final.
+d. Los adjetivos van antes o después de los sustantivos que describen.
+e. Las palabras sofa y sillon tienen aproximadamente el mismo significado.
+
+Traducido del original ‘Language Files. Materials for an Introduction to Language and Linguistics'. Department of Linguistics. The Ohio State University.
+
+Traduccién a cargo de Maria Florencia Silva para uso exclusivo de las materias "Lingilistica" (ISPEE) e "Introduccion a la lingiiistica" (UNPAZ).
+
+ARCHIVO 1.4
+
+Rasgos de disefio del lenguaje
+
+1.4.1 Como identificar el lenguaje cuando nos encontramos con él?
+
+Antes de discutir sobre el lenguaje con mayor profundidad, sera util tener primero
+una idea de lo que las personas quieren decir cuando hablan de “lenguaje/lengua”.
+Hasta ahora, hemos explorado lo que sabes cuando conoces una lengua y hemos
+examinado diversas ideas comtinmente aceptadas sobre las lenguas, tanto
+verdaderas como erroneas. Sin embargo, todavia no hemos definido lo que es el
+lenguaje.
+
+Definir el lenguaje resulta ser una tarea notablemente dificil: parece que nadie
+puede encontrar una definicién que capture su naturaleza fundamental. Pero si no
+podemos definirlo, debemos buscar otra solucién, porque necesitamos alguna
+manera de identificar el lenguaje cuando nos encontramos con él. Una posibilidad
+es identificar las caracteristicas que algo debe tener para ser considerado un
+lenguaje. El lingiiista Charles Hockett disefié una lista que identifica caracteristicas
+descriptivas del lenguaje. Aunque su lista no explica la naturaleza fundamental del
+lenguaje, si nos dice mucho sobre como es el lenguaje y lo que podemos hacer con
+él.
+
+Las caracteristicas descriptivas del lenguaje de Hockett se conocen como los
+rasgos de disefio de la lenguaje. La lista ha sido modificada a lo largo de los afios,
+pero se presenta a continuacién una version estandar. Aunque hay muchos tipos de
+sistemas de comunicacién en el mundo, todos los cuales siguen alguna forma del
+circuito de comunicacién descrito en el Archivo 1.2, solo los sistemas de
+comunicacién que exhiben estos nueve rasgos de disefio pueden ser llamados
+"lenguaje". El orden en el que se presentan los rasgos de disefio también es
+significativo: los rasgos progresan desde los mas universales hasta los mas
+especificos. Todos los sistemas de comunicacién tienen los tres primeros rasgos de
+disefio, mientras que solo el lenguaje humano posee los dos ultimos.
+
+Traducido del original ‘Language Files. Materials for an Introduction to Language and Linguistics'. Department of Linguistics. The Ohio State University.
+
+Traduccién a cargo de Maria Florencia Silva para uso exclusivo de las materias "Lingilistica" (ISPEE) e "Introduccion a la lingiiistica" (UNPAZ).
+
+1.4.2 Modo de comunicacion: canal vocal-auditivo
+
+La naturaleza misma de un sistema de comunicacién radica en que los mensajes
+deben ser enviados y recibidos. El término modo de comunicacion se refiere a los
+medios a través de los cuales estos mensajes se transmiten y reciben. En la mayoria
+de las lenguas humanas, los hablantes transmiten mensajes utilizando sus voces; sin
+embargo, un numero significativo de lenguas humanas también se transmite de
+manera gestual, a través de movimientos de las manos, brazos, cabeza y rostro.
+Ambos son sistemas viables para transmitir los complejos tipos de mensajes que
+requiere una lengua.
+
+1.4.3 Semanticidad
+
+Otro aspecto del lenguaje que es universal en todos los sistemas de
+comunicacién es la semanticidad. La semanticidad es la propiedad que exige que
+todas las sefiales en un sistema de comunicacioén tengan un significado o una
+funcién. Es fundamental para una comunicacién lingitiistica exitosa que, por
+ejemplo, si tu amigo te dice “pizza,” ambos tengan una idea similar de lo que esta
+hablando. No seria util para la comunicacion si tu amigo dijera “pizza” y tu
+pensaras: “Ahi esta esa palabra con el sonido /p/ otra vez. Me pregunto por qué
+sigue diciéndola todo el tiempo.”
+Incluso si escuchas una palabra que no conoces, supones que debe tener algun
+significado. Por ejemplo, si escucharas la oracion “Habia una gran cantidad de frass
+en los tubos”, es posible que no reconozcas la palabra frass, pero no asumirias que
+carece de significado. Si las palabras u oraciones no tuvieran significado, no
+podriamos usarlas para comunicarnos.
+
+1.4.4 Funcion pragmatica
+
+Los sistemas de comunicacién también deben tener una funcién pragmiatica; es
+decir, deben cumplir con un proposito util. Algunas de las funciones del lenguaje
+humano incluyen ayudar a las personas a mantenerse con vida, influir en el
+comportamiento de otros y aprender mas sobre el mundo. Por ejemplo, una persona
+que necesita comida podria usar el lenguaje para pedir mas puré de papas; en un
+caso mas dramatico, una persona atrapada en una casa en llamas podria salvar su
+vida pidiendo ayuda. Un politico comunica ciertos mensajes para intentar influir en
+el comportamiento de voto de las personas. Las personas hacen preguntas para
+obtener la informacién que necesitan para afrontar su dia a dia.
+
+Traducido del original ‘Language Files. Materials for an Introduction to Language and Linguistics'. Department of Linguistics. The Ohio State University.
+
+Traduccién a cargo de Maria Florencia Silva para uso exclusivo de las materias "Lingilistica" (ISPEE) e "Introduccion a la lingiiistica" (UNPAZ).
+
+A veces, la gente podria cuestionar la utilidad de ciertos actos comunicativos,
+como en el caso del chisme. Sin embargo, incluso el chisme cumple un propésito util
+en las sociedades. Nos ayuda a comprender nuestro entorno social y desempefia un
+papel importante en la cohesion social y el establecimiento de relaciones sociales. Lo
+mismo ocurre con frases hechas como “Bonito clima hoy” o la pregunta “;Qué tal?”
+y su respuesta tipica, “No mucho. ;Y tu?”. Estas frases sirven para reconocer a la
+otra persona o iniciar una conversacién, ambas tareas necesarias para el
+mantenimiento de nuestra estructura social.
+
+1.4.5 Intercambiabilidad de roles
+
+La intercambiabilidad se refiere a la capacidad de los individuos para tanto
+transmitir como recibir mensajes. Cada ser humano puede producir mensajes
+(hablando o usando sefias) y también comprender los mensajes de otros
+(escuchando o observando).
+
+1.4.6 Transmisién cultural
+
+Otra caracteristica importante del lenguaje humano es que hay aspectos del lenguaje
+que solo podemos adquirir a través de la interaccién comunicativa con otros
+usuarios del sistema. Este aspecto del lenguaje se conoce como transmision cultural.
+Aunque la capacidad de los nifios para aprender una lengua parece ser innata, deben
+aprender todas las sefiales especificas de su lengua a través de la interaccién con
+otros hablantes. De hecho, un nifio al que nunca se le hable no aprendera una
+lengua.
+
+Ademas, los nifios aprenderan la(s) lengua(s) 0 dialecto(s) que las personas a su
+alrededor utilicen para interactuar con ellos. Por ejemplo, los hijos de padres rusos
+aprenderan ruso si sus padres interacttian con ellos en ruso, pero aprenderan inglés
+si sus padres interactian con ellos en inglés. Nuestro trasfondo genético o
+hereditario, en si mismo, no tiene ninguna influencia en la lengua que adquirimos
+cuando somos nifios.
+
+Traducido del original ‘Language Files. Materials for an Introduction to Language and Linguistics'. Department of Linguistics. The Ohio State University.
+
+Traduccién a cargo de Maria Florencia Silva para uso exclusivo de las materias "Lingilistica" (ISPEE) e "Introduccion a la lingiiistica" (UNPAZ).
+
+1.4.7 Arbitrariedad
+
+a. Generalmente se reconoce que las palabras de una lengua representan una
+conexion entre un conjunto de sonidos o signos, que le dan forma a la palabra, y un
+significado, que puede decirse que esa forma representa. La combinacion de una
+forma y un significado se llama signo lingiistico: Forma + Significado = Signo
+lingiiistico.
+
+Por ejemplo, una palabra para "el nucleo interno de un durazno" se representa
+en inglés con los sonidos [pIt] (que escribimos como pit), que aparecen en ese orden
+para producir el sonido (es decir, la forma) que utilizamos al decir la palabra pit.
+
+(1) [prt] + = la palabra pit
+
+Un hecho importante sobre los signos lingiiisticos es que la conexién entre la
+forma y el significado es, por lo general, arbitraria. El término arbitrario aqui se
+refiere al hecho de que el significado no es de ninguna manera predecible a partir de
+la forma, ni la forma esta dictada por el significado. Sin embargo, hay una relacién
+entre la forma y el significado: no tienes un significado diferente en mente cada vez
+que dices [pit]. Si no existiera ninguna relacién, podrias decir [pit] una vez y
+significar "regaliz", luego decirlo nuevamente y significar "valiente", y otra vez mas
+para significar "mandolina". Claramente, el lenguaje no funciona de esta manera.
+Esta relacién es una convencion arbitraria del inglés, que establece que un grupo
+determinado de sonidos se asocia con un significado particular.
+
+El opuesto de la arbitrariedad en este sentido es la no arbitrariedad, y hay
+algunos aspectos no arbitrarios en el lenguaje, los cuales se discutiran mas adelante.
+Los ejemplos mas extremos de conexiones no arbitrarias entre forma y significado,
+donde la forma representa directamente el significado, se denominan iconos (0
+"parecidas a imagenes"). Sin embargo, en los signos lingitisticos en general, la
+conexion entre forma y significado no es directa ni derivable de las leyes de la
+naturaleza.
+
+b. El hecho de que el nucleo interno de un durazno pueda llamarse stone
+(piedra), seed (semilla) 0 incluso pit (carozo) en inglés sefala la arbitrariedad del
+lenguaje. Si la conexion entre la forma y el significado no fuera arbitraria (porque la
+forma determinara el significado, o viceversa), no habria muchas formas posibles
+para expresar un mismo significado. Del mismo modo, no hay nada intrinseco en la
+
+Traducido del original ‘Language Files. Materials for an Introduction to Language and Linguistics'. Department of Linguistics. The Ohio State University.
+
+Traduccién a cargo de Maria Florencia Silva para uso exclusivo de las materias "Lingilistica" (ISPEE) e "Introduccion a la lingiiistica" (UNPAZ).
+
+combinacion de sonidos representada por [pIt] que sugiera el significado de "nucleo
+interno de un durazno"; la misma secuencia de sonidos puede representar "un gran
+agujero profundo en el suelo".
+
+La evidencia de la arbitrariedad en el lenguaje también se puede observar en
+comparaciones entre lenguas. Las palabras con el mismo significado suelen tener
+formas diferentes en distintas lenguas, y formas similares suelen expresar
+significados diferentes, como ilustran los ejemplos en (2). Si hubiera una conexién
+inherente y no arbitraria entre las formas y los significados, con el significado
+determinado por la forma o viceversa, estas diferencias entre lenguas no deberian
+ocurrir. Deberian existir formas universalmente reconocidas para cada significado.
+
+(2) Conexiones arbitrarias entre forma y significado de los signos lingitisticos
+observadas translingitisticamente
+
+Form Meaning Language
+
+[wat]] English
+
+[o] ‘water’ French
+
+[vase] on German
+
+[soy] Cantonese
+proper name, ‘Lee’ English
+
+li ‘bed’ French
+
+{lil ‘porrowed/lent’ German
+‘this’ Cantonese
+
+Finalmente, la arbitrariedad en el lenguaje también se refleja en los nombres de
+invenciones y productos nuevos. Por ejemplo, cada afio salen al mercado nuevos
+automdviles. Muchos de ellos son muy similares entre si: todos tienen cuatro ruedas,
+una cabina que puede acomodar a un cierto numero de personas, un motor, y asi
+sucesivamente. Sin embargo, a pesar de sus similitudes, las marcas de los
+automdviles tienen nombres sorprendentemente diferentes. Algunos son palabras
+muy largas, mientras que otros son bastante cortos, y comienzan con todo tipo de
+sonidos diferentes. Una persona que nombra un automovil nuevo ciertamente
+pensara en una secuencia de sonidos que le guste, pero no estard limitada de
+ninguna manera por la naturaleza del automovil ni por la naturaleza de los sonidos
+en si, sino unicamente por sus propias preferencias arbitrarias.
+
+c. Onomatopeyas. Es evidente que la arbitrariedad es la norma en el lenguaje al
+menos en lo que respecta a la relacién basica entre la forma de una palabra y su
+significado. Sin embargo, también existen algunos aspectos no arbitrarios en la
+lengua. En el vocabulario de todas las lenguas, hay un pequefio grado de no
+arbitrariedad que involucra elementos cuyas formas estan en gran medida
+determinadas por sus significados.
+
+Traducido del original ‘Language Files. Materials for an Introduction to Language and Linguistics'. Department of Linguistics. The Ohio State University.
+
+Traduccién a cargo de Maria Florencia Silva para uso exclusivo de las materias "Lingilistica" (ISPEE) e "Introduccion a la lingiiistica" (UNPAZ).
+
+Los mas notables y obvios son las llamadas palabras onomatopéyicas, es decir,
+palabras que imitan sonidos naturales o que tienen significados asociados con esos
+sonidos de la naturaleza.
+
+Ejemplos de palabras onomatopéyicas en inglés incluyen palabras para ruidos
+como bow-wow [baowao] para el sonido que hace un perro, splat [spleet] para el
+sonido de un tomate podrido golpeando una pared, y burble [brbl] para expresar el
+ruido de agua corriendo. En todas estas palabras, la relacién entre la forma de la
+palabra y su significado es muy estrecha: el significado esta fuertemente sugerido
+por el sonido de la palabra en si.
+
+Sin embargo, incluso en estas palabras onomatopéyicas, se puede argumentar a
+favor de la arbitrariedad. Aunque la forma esta en gran medida determinada por el
+significado, no es una copia exacta del sonido natural. Por ejemplo, los gallos no
+dicen realmente [kakodudl] - los hablantes de inglés han convencionalizado este
+sonido de manera arbitraria en esa forma. Diferentes lenguas pueden tener palabras
+onomatopéyicas distintas para los mismos sonidos. Por ejemplo, un gallo
+"dice" [kakodudl] en inglés, pero [kukuku] en chino mandarin, aunque
+(presumiblemente) los gallos suenan igual en China y en Estados Unidos. Si hubiera
+una conexion inherente y determinada entre el significado y la forma de las palabras
+onomatopéyicas, esperariamos que el mismo significado se representara con los
+mismos sonidos en diferentes lenguas.
+
+1.4.8 Caracter discreto
+
+Consideremos la oracion en inglés He is fast ("El es rapido"). No es un signo tnico y
+unificado que siempre aparece exactamente igual. Mas bien, esta compuesta por
+varias unidades discretas. Primero, estan las palabras independientes he, is y fast.
+Estas palabras, a su vez, se componen de unidades discretas atin mas pequeiias: los
+sonidos individuales [h], [i], [I], [z], [4], [zl], [s] y [t]. La propiedad del lenguaje (y
+de otros sistemas de comunicacién) que nos permite combinar unidades discretas
+para crear unidades comunicativas mas grandes se denomina caracter discreto.
+
+Cada lengua tiene un numero limitado de sonidos, generalmente entre 10 y 100.
+El inglés, por ejemplo, tiene alrededor de 50 sonidos. Los sonidos, en su mayoria, no
+tienen significado por si mismos: el sonido [f] en fish (pez) 0 foot (pie) no tiene un
+significado propio. Sin embargo, podemos combinar un numero muy pequefio de
+sonidos para crear un gran numero de palabras con significado; mucho mayor que
+uno que no puede hacerlo. Si estuviéramos limitados a solo 100 o menos
+significados, la lengua no seria tan util como realmente es.
+
+Traducido del original ‘Language Files. Materials for an Introduction to Language and Linguistics'. Department of Linguistics. The Ohio State University.
+
+Traduccién a cargo de Maria Florencia Silva para uso exclusivo de las materias "Lingilistica" (ISPEE) e "Introduccion a la lingiiistica" (UNPAZ).
+
+1.4.9 Desplazamiento
+
+El desplazamiento es la capacidad de un lenguaje para comunicar sobre cosas,
+acciones e ideas que no estan presentes en el espacio o el tiempo mientras los
+hablantes estan comunicandose. Por ejemplo, podemos hablar del color rojo aunque
+no lo estemos viendo en ese momento, o podemos hablar de un amigo que vive en
+otro estado aunque no esté con nosotros. También podemos hablar de una clase que
+tuvimos el afio pasado o de una clase que tomaremos el prdéximo ajio. Incluso
+podemos hablar de cosas que no existen, como unicornios y personajes ficticios.
+
+1.4.10 Productividad
+
+El ultimo de los rasgos de disefio de Hockett es la productividad, que esta
+estrechamente relacionada con el caracter discreto. La productividad se refiere a la
+capacidad de una lengua para construir mensajes nuevos a partir de unidades
+discretas. Es importante notar cémo la productividad difiere de la discretitud. Para
+que un sistema de comunicacién tenga discretitud, el unico requisito es que existan
+unidades recombinables; sin embargo, podria darse el caso de que haya un conjunto
+fijo de maneras en las que esas unidades puedan combinarse. De hecho, algunos
+sistemas de comunicacién funcionan de esa manera. Sin embargo, debido a que el
+lenguaje es productivo, no existe un conjunto fijo de formas en las que las unidades
+puedan combinarse.
+La productividad del lenguaje humano otorga a las personas la capacidad de
+producir y comprender una cantidad infinita de oraciones nuevas que nunca han
+escuchado antes, permitiéndoles expresar proposiciones que tal vez nunca se hayan
+expresado antes. De hecho, en cualquier lengua es posible producir un numero
+infinito de oraciones, por lo que muchas de las oraciones que escuchas son
+oraciones que nunca habias oido antes. Por ejemplo, probablemente nunca hayas
+leido la siguiente oracién antes, pero atin puedes entender lo que significa: Funky
+potato farmers dissolve glass ("Los extravagantes granjeros de papas disuelven
+vidrio"). Entiendes lo que significa, aunque no sepas por qué los granjeros son
+extravagantes o cémo se puede disolver vidrio, y sabes esto aunque nunca antes
+hayas visto fo) escuchado esta oracion.
+Somos capaces de construir y comprender formas novedosas como esta gracias
+al hecho de que las unidades discretas de la lengua (sonidos, morfemas y palabras)
+pueden combinarse de maneras regulares, sistematicas y regidas por reglas. La
+forma en que llegas a entender el significado de una nueva oracién es aplicando lo
+que sabes sobre las reglas de cémo las palabras se combinan en tu lengua en una
+nueva secuencia de palabras, aplicas tu conocimiento sobre las reglas que rigen
+
+Traducido del original ‘Language Files. Materials for an Introduction to Language and Linguistics'. Department of Linguistics. The Ohio State University.
+
+Traduccién a cargo de Maria Florencia Silva para uso exclusivo de las materias "Lingilistica" (ISPEE) e "Introduccion a la lingiiistica" (UNPAZ).
+
+como se combinan las palabras en tu lengua, junto con los significados de las
+palabras mismas.
+
+Las reglas en todos los niveles de la estructura lingitistica son productivas. Esto
+significa que permiten la creacion de formas nuevas, determinan cudles formas
+nuevas son aceptables y como pueden ser utilizadas. Las reglas de la lengua, lejos de
+limitarnos, son en realidad las que nos otorgan la capacidad de comunicarnos sobre
+una gama tan amplia de ideas.
+
+Traducido del original ‘Language Files. Materials for an Introduction to Language and Linguistics'. Department of Linguistics. The Ohio State University.
+
+Traduccién a cargo de Maria Florencia Silva para uso exclusivo de las materias "Lingilistica" (ISPEE) e "Introduccion a la lingiiistica" (UNPAZ).
+
+ARCHIVO 1.5
+Modalidad del lenguaje
+
+1.5.1 Lenguas auditivas-vocales y visuales-gestuales
+
+En el Archivo 1.2 vimos que el lenguaje es un sistema cognitivo. Es decir, una lengua
+existe solo en la medida en que las personas que la usan tienen un conjunto de reglas
+gramaticales para ella en sus mentes. Sin embargo, no basta con decir que tenemos
+reglas gramaticales en nuestras mentes. Para que el lenguaje sea un sistema de
+comunicacién —un sistema que nos permita compartir nuestros pensamientos con
+otros—, debemos poder usarla para transmitir mensajes. Debemos ser capaces de
+usar esas reglas gramaticales para producir algo en el mundo: algo que otros puedan
+percibir e interpretar. Por lo tanto, toda lengua debe tener una modalidad o un
+modo de comunicacién. La modalidad de una lengua nos indica dos cosas: cémo se
+produce y cémo se percibe.
+
+Es probable que la mayoria de las lenguas que conoces sean auditivo-vocales (a
+veces también llamadas oral-auditivas), lo que significa que se perciben a través del
+oido y se producen mediante el habla. Las lenguas auditivo-vocales incluyen el
+inglés, el ruso, el portugués, el navajo, el coreano y el suajili, entre muchas otras.
+Estas lenguas también pueden denominarse lenguas habladas. A lo largo de la
+historia, ha habido una creencia comtn, aunque completamente incorrecta, de que
+la lengua es inseparable del habla. Este error suele propagarse cuando los términos
+habla y lengua se utilizan indistintamente. A partir de esta confusion, algunas
+personas pueden concluir que solo las lenguas habladas pueden describirse
+propiamente como lenguas.
+
+Sin embargo, también existen lenguas humanas que son visuales-gestuales. De
+hecho, hay cientos de lenguas visuales-gestuales en uso en todo el mundo. Las
+lenguas visuales-gestuales, también conocidas como lenguas de sefias, son aquellas
+que se perciben visualmente y se producen mediante movimientos de las manos y
+brazos, expresiones faciales y movimientos de la cabeza. Aunque las lenguas de
+sefias suelen ser utilizadas por personas sordas o con dificultades auditivas, muchas
+personas oyentes también se comunican mediante alguna de las muchas lenguas de
+sefias del mundo.
+
+Traducido del original ‘Language Files. Materials for an Introduction to Language and Linguistics'. Department of Linguistics. The Ohio State University.
+
+Traduccién a cargo de Maria Florencia Silva para uso exclusivo de las materias "Lingilistica" (ISPEE) e "Introduccion a la lingiiistica" (UNPAZ).
+
+Al igual que las lenguas habladas, las lenguas de sefias pueden adquirirse en la
+infancia como primera lengua o mas adelante, ya sea a través de la instruccion en la
+escuela o de la inmersién en una cultura que utiliza una lengua de sefias particular.
+
+Con la excepcién de su modalidad, las lenguas de sefias son similares a las
+lenguas habladas en todos los sentidos. Las lenguas de sefias estan compuestas por
+palabras que pueden combinarse en oraciones de acuerdo con reglas gramaticales
+especificas. De hecho, todo tipo de analisis lingitistico que se pueda realizar en las
+lenguas habladas también puede aplicarse a las lenguas de sefias.
+
+1.5.2 Algunos conceptos erroneos comunes sobre las lenguas visuales-gestuales
+
+Desafortunadamente, se ha difundido mucha informacién errdénea sobre la
+naturaleza de las lenguas visuales-gestuales. Aunque pocos, si acaso alguien, creen
+todos estos conceptos erroneos, algunos incluso se contradicen entre si, pero se
+repiten con la suficiente frecuencia como para merecer ser discutidos aqui.
+
+a. Lenguas de sefias vs. codigos manuales
+Existe un mito que sostiene que las lenguas de sefias derivan de las lenguas habladas,
+en lugar de ser lenguas completas por derecho propio. Segtin este mito, se esperaria
+que los usuarios sordos de lengua de sefias en Estados Unidos tuvieran una lengua
+de sefias estructuralmente idéntica al inglés, mientras que los usuarios de lengua de
+sefias en Japon tuvieran una lengua estructuralmente similar al japonés, y asi
+sucesivamente. En otras palabras, este mito sugiere que las lenguas de sefias son
+meros cédigos para las lenguas habladas en el area circundante.
+
+Sin embargo, los cédigos y las lenguas son sistemas radicalmente diferentes de
+varias maneras. Un cdédigo es un sistema construido artificialmente para representar
+una lengua natural; no tiene estructura propia, sino que toma prestada su estructura
+de la lengua natural que representa. Un ejemplo bien conocido es el cédigo Morse.
+Por otro lado, las lenguas de sefias evolucionan de manera natural e independiente
+de las lenguas habladas. Son estructuralmente distintas entre si y de las lenguas
+habladas. Ademas, los codigos nunca tienen hablantes nativos (es decir, personas
+que los aprenden desde la infancia como su principal forma de comunicacién)
+porque son sistemas artificiales. Las lenguas, en cambio, si tienen hablantes nativos.
+Las lenguas de sefias se aprenden como lengua materna tanto por personas oyentes
+como por personas sordas en todo el mundo.
+
+Traducido del original ‘Language Files. Materials for an Introduction to Language and Linguistics'. Department of Linguistics. The Ohio State University.
+
+Traduccién a cargo de Maria Florencia Silva para uso exclusivo de las materias "Lingilistica" (ISPEE) e "Introduccion a la lingiiistica" (UNPAZ).
+
+Una prueba contundente de que las lenguas de sefias no derivan de las lenguas
+habladas circundantes es que la Lengua de Sefias Britanica (BSL) y la Lengua de
+Sefias Americana (ASL) no estan relacionadas entre si; una persona que sea fluida en
+una de estas lenguas no puede entender a alguien que usa la otra. Esto es cierto a
+pesar de que los hablantes de inglés americano y britanico generalmente pueden
+entenderse entre si sin problemas.
+
+Cabe sefialar que si existen cddigos manuales para lenguas habladas. Estos
+codigos usan ciertos gestos para representar letras, morfemas (partes de palabras) y
+palabras de una lengua hablada y siguen la gramatica de esa lengua hablada. Por
+ejemplo, para comunicar el concepto de ‘indivisible’ en la Lengua de Sefias
+Americana (ASL), se requiere solo un gesto, como se ve en (1b). Sin embargo, un
+codigo manual para el inglés, como el Signed Exact English II (SEE IJ), requiere tres
+gestos separados, como se muestra en (1a), debido a la forma en que refleja la
+morfologia del inglés.
+
+(1) El significado de ‘indivisible’ representado en dos sistemas manuales.
+a.SEE II: ‘indivisible’
+
+Las diferencias entre los dos sistemas mostrados en el ejemplo (1) se relacionan con
+como se representan los morfemas, pero también hay diferencias en el orden de las
+palabras. Mientras que el orden de palabras en las versiones de inglés signado refleja
+el del inglés hablado, la Lengua de Sefias Americana (ASL) tiene sus propias reglas
+para el orden de las palabras.
+
+Traducido del original ‘Language Files. Materials for an Introduction to Language and Linguistics'. Department of Linguistics. The Ohio State University.
+
+Traduccién a cargo de Maria Florencia Silva para uso exclusivo de las materias "Lingilistica" (ISPEE) e "Introduccion a la lingiiistica" (UNPAZ).
+
+Una indicacion clara de que los cédigos manuales no son lenguas naturales es
+la notable diferencia en la tasa de transmisién de informacion entre el inglés
+codificado manualmente y las lenguas naturales como el inglés hablado y la ASL.
+Estas tasas pueden medirse traduciendo una misma proposicidén a diferentes lenguas
+o cédigos y midiendo el tiempo que toma producir la proposicién en cada lengua o
+cédigo. Una comparacidn de estas tasas mostré un promedio de 1.5 segundos por
+proposicién tanto para el inglés como para la ASL, mientras que el Signed Exact
+English II (SEE II) obtuvo un distante 2.8 segundos. Esto sugiere que las lenguas
+verdaderas, ya sean habladas o signadas, son medios mucho mas eficientes de
+comunicacién en comparacién con los cédigos manuales.
+
+Tanto los cédigos manuales como las lenguas de sefias se han utilizado para la
+comunicacién con y entre personas sordas. Sin embargo, dado que los cédigos
+manuales estan basados en lenguas naturales en lugar de ser lenguas por si mismos,
+no comparten muchas de las propiedades del lenguaje que estudian los lingitistas.
+Por esta razon, en general, seran ignorados en este libro.
+
+b. Lenguas de sefias vs. pantomima. Existe una segunda creencia que
+contradice completamente la idea de que las lenguas de sefias son cddigos manuales,
+pero que es igualmente incorrecta. Este segundo mito sostiene que las lenguas de
+sefias no consisten en palabras, sino que los usuarios simplemente usan las manos
+para "dibujar" imagenes en el aire o para actuar lo que estan diciendo. Este mito en
+realidad encierra dos conceptos erroneos que se presentan como uno solo.
+
+Primer concepto errdneo: Las lenguas de sefias carecen de estructura interna
+Este mito afirma que las lenguas de sefias no tienen una estructura interna. Sin
+embargo, en realidad, las lenguas de sefias estan regidas por los mismos tipos de
+reglas fonoldgicas, morfoldgicas y sintacticas que rigen las lenguas habladas. Tienen
+un sistema estructurado que organiza cémo se forman y combinan sus elementos.
+
+Segundo concepto erréneo: Las palabras en las lenguas de sefias son
+completamente icdnicas. El segundo mito sostiene que las palabras en una lengua de
+sefias son completamente icdnicas, es decir, que sus formas representan
+directamente sus significados. Si esto fuera cierto, no seria necesario aprender las
+lenguas de sefias, ya que podriamos entenderlas de manera innata porque cada
+palabra mostraria claramente su significado. Sin embargo, al igual que las lenguas
+habladas, las formas de las palabras en las lenguas de sefias son
+predominantemente arbitrarias en su relacién con el significado (ver Archivo 1.4).
+Por ejemplo, la secuencia de sonidos /hugar/ en espafiol significa "jugar", mientras
+que en hebreo significa "él vive", y no tiene ningun significado en inglés. De manera
+similar, los gestos mostrados en el ejemplo (2) significan "posible" en la ASL (Lengua
+de Sefias Americana) y "pesar" en la Lengua de Sefias Finlandesa. No hay ninguna
+razon obvia por la que las ideas de "posible" y "pesar" deban representarse de la
+misma manera.
+
+Traducido del original ‘Language Files. Materials for an Introduction to Language and Linguistics'. Department of Linguistics. The Ohio State University.
+
+Traduccién a cargo de Maria Florencia Silva para uso exclusivo de las materias "Lingilistica" (ISPEE) e "Introduccion a la lingiiistica" (UNPAZ).
+
+Ademas, si observamos la forma de este gesto, no hay ninguna razon particular para
+que este gesto deba o no estar asociado con cualquiera de estos significados. Estas
+asociaciones son simplemente convenciones arbitrarias de las comunidades
+lingitisticas: una convencién para una comunidad lingiiistica y una convencién
+diferente para otra.
+
+® (2) POSIBLE (ASL) y PESAR (Lengua de Sefias Finlandesa)
+
+Este punto es atin mas claro cuando consideramos las sefias para "posible" en
+una lengua de sefias diferente. En la Lengua de Sefias de Taiwan, la sefia para
+"posible" se realiza completamente con una mano: primero el mefiique toca el
+menton, y luego una mano doblada toca un lado del pecho y luego el otro. Como se
+puede ver en (2), esto no se parece en nada al signo para "posible" en la ASL (Lengua
+de Sefias Americana).
+
+En cualquier lengua de sefias, existen sefias que parecen tener cierto grado de
+iconicidad. Por ejemplo, en (3) se muestra el signo para "saber" en ASL. La forma en
+(3a) es la versidn que generalmente se muestra en los diccionarios y se ensefia en las
+aulas. Observa cbmo la mano del hablante toca su frente, un lugar que podriamos
+asociar con el pensamiento. Sin embargo, esta iconicidad no se extiende al uso
+regular de la sefia por parte de la comunidad usuaria; la forma en (3b) es una
+pronunciacién comun de "saber", en la que la mano, en lugar de tocar la frente, toca
+la mejilla. (Al igual que en las lenguas habladas, las lenguas de sefias suelen
+pronunciarse de manera ligeramente diferente en las conversaciones informales).
+
+@ (3)a.SABER
+
+Traducido del original ‘Language Files. Materials for an Introduction to Language and Linguistics'. Department of Linguistics. The Ohio State University.
+
+Traduccién a cargo de Maria Florencia Silva para uso exclusivo de las materias "Lingilistica" (ISPEE) e "Introduccion a la lingiiistica" (UNPAZ).
+
+© b. SABER(pronunciacién casual)
+
+© 2006, William Vicars, www.Lifeprint.com. Usado con permiso.
+
+El punto clave aqui es que la forma en que la sefia se modifica la hace menos
+icdnica y mas arbitraria. De hecho, existe una tendencia general en las lenguas de
+sefias: aunque las sefias pueden ser algo icénicas cuando se introducen en la lengua,
+con el tiempo cambian y se vuelven mas arbitrarias.
+
+De cualquier manera, si las lenguas de sefias se basaran en "dibujar imagenes" o
+en la pantomima, los usuarios de sefias tendrian su comunicacién restringida a
+objetos y eventos concretos. En realidad, las lenguas de sefias también pueden
+transmitir conceptos abstractos. El desplazamiento (la capacidad de hablar sobre
+cosas, acciones o ideas no presentes en el tiempo o el espacio) esta tan disponible
+para los usuarios de lenguas de sefias como para quienes usan una lengua hablada.
+
+c. Universalidad de las lenguas de sefias. Un tercer mito, relacionado con la
+idea errdnea de que las lenguas de sefias son pantomima, es que solo existe una
+lengua de sefias utilizada por las personas sordas en todo el mundo. Se podria
+esperar cierto grado de universalidad en la pantomima, ya que, después de todo, la
+pantomima debe ser icdnica. Sin embargo, las lenguas de sefias son arbitrarias.
+Existen muchas lenguas de sefias distintas, y no son mutuamente inteligibles.
+
+De hecho, hay mas de 150 lenguas de sefias documentadas, cada una tan
+diferente de las demas como lo son las distintas lenguas habladas que quizas hayas
+escuchado. Dos personas que conocen dos lenguas de sefias diferentes tendrian
+tantas dificultades para comunicarse entre si como las que tu tendrias al intentar
+comunicarte con alguien que hable una lengua que no conoces.
+
+1.5.3 sQuién utiliza la lengua de sefias?
+
+Traducido del original ‘Language Files. Materials for an Introduction to Language and Linguistics'. Department of Linguistics. The Ohio State University.
+
+Traduccién a cargo de Maria Florencia Silva para uso exclusivo de las materias "Lingilistica" (ISPEE) e "Introduccion a la lingiiistica" (UNPAZ).
+
+Las lenguas de sefias se utilizan en todo el mundo. Dondequiera que haya una
+comunidad considerable de personas sordas, se emplea una lengua de sefias. En
+algunos casos, cuando nifios sordos nacen de padres sordos, aprenden una lengua de
+sefias directamente de sus padres. Mas comtnmente, cuando un nifio sordo nace de
+padres oyentes que no utilizan sefias, el nifio puede aprender una lengua de sefias en
+una institucién como una escuela para sordos.
+
+Curiosamente, ha habido multiples momentos en la historia en los que la
+poblacién sorda ha compuesto un porcentaje tan alto de la poblacidn de una
+comunidad que toda la comunidad—tanto personas sordas como oyentes—ha
+utilizado una lengua de sefias para comunicarse. Un caso notable ocurrié en la parte
+norte de la isla de Martha’s Vineyard durante los siglos XVIII y XIX. Aunque
+también se usaba el inglés, todos en la comunidad utilizaban  sefias,
+independientemente de si eran sordos o tenian familiares sordos. Las personas
+oyentes, en ocasiones, sostenian conversaciones entre si en la lengua de sefias de
+Martha’s Vineyard, incluso si no habia personas sordas presentes; la lengua de sefias
+era tan prevalente en la comunidad. (La lengua de sefias que usaban se hablaba
+unicamente en la isla de Martha’s Vineyard. Desde entonces, esa lengua se ha
+perdido completamente; ver Archivo 12.6 para mas informacién sobre la
+desaparicién de lenguas). Algo similar ocurre actualmente en la tribu beduina Al-
+Sayyid en Israel. Nuevamente, una gran parte de la comunidad es sorda, y muchas
+personas oyentes utilizan sefias con fluidez, incluso si no tienen familiares sordos.
+De hecho, la capacidad de comunicarse con fluidez en sefias se considera un simbolo
+de estatus entre las personas oyentes.
+
+Por lo tanto, no es necesario ser sordo para ser usuario de una lengua de sefias.
+Ademas, el hecho de que una persona tenga pérdida auditiva no significa
+necesariamente que elegira comunicarse usando una lengua de sefias. En Estados
+Unidos, la comunidad Sorda (notese la <S> maytiscula) esta formada por personas
+sordas o con dificultades auditivas que, ademas, se identifican como parte de la
+cultura Sorda, adoptan sus valores y costumbres, y utilizan la Lengua de Sefias
+Americana (ASL) para comunicarse. Estas personas sienten orgullo por su lengua y
+por ser parte de la comunidad Sorda, al igual que muchas otras culturas sienten
+orgullo por sus propias lenguas y tradiciones. Sin embargo, existen muchas otras
+personas sordas que no se identifican con la cultura Sorda y que se comunican de
+otras maneras, por ejemplo, leyendo los labios. No hay ninguna obligacién externa
+para que las personas sordas utilicen sefias o se conviertan en miembros de la
+comunidad Sorda. Su eleccién de hacerlo 0 no depende de factores sociales y
+practicos diversos y complejos.
+
+Traducido del original ‘Language Files. Materials for an Introduction to Language and Linguistics'. Department of Linguistics. The Ohio State University.
+
+Traduccién a cargo de Maria Florencia Silva para uso exclusivo de las materias "Lingilistica" (ISPEE) e "Introduccion a la lingiiistica" (UNPAZ).
+
+En conclusion, aunque las lenguas de sefias estan ampliamente asociadas con las
+personas sordas, no es cierto que solo las personas sordas las utilicen, ni que estas
+estén obligadas a usarlas. Tanto las modalidades auditivo-vocal como visual-gestual
+son opciones viables para la lengua humana, y la eleccién entre ellas depende, en
+cualquier circunstancia, de parametros fisicos y sociales.
+
+Traducido del original ‘Language Files. Materials for an Introduction to Language and Linguistics'. Department of Linguistics. The Ohio State University.
+

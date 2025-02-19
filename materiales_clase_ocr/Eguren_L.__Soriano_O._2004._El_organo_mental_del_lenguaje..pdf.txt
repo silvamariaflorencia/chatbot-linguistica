@@ -1,0 +1,2594 @@
+oe
+
+49%
+BIBLIOTECA ROMANICA HIsPANICA : : . LUIS EGUREN
+DAMASO ALONSO ~ OLGA FERNANDEZ SORIANO
+
+‘ IL ESTUDIOS Y ENSAYOS, 437
+
+“’ INTRODUCCION A UNA SINTAXIS MINIMISTA
+
+"@ LUIS EGUREN Y OLGA FERNANDEZ SORIANO
+© ‘EDITORIAL GREDOS, Sanchez Pacheco, 85, Madrid, 2004
+www.editorialgredos.com
+
+Disefio grafico e ilustracion: °
+Manuel Janeiro
+
+Depésito Legal: M. 34702-2004
+ISBN 84-249-2724-9
+Impreso en Espajia. Printed in Spain
+
+Encuadernacién Ramos fo &
+GrAficas Condor, S. A. . R [ } () j
+
+Esteban Terradas, 12. Poligono Industrial, Leganés (Madrid), 2004 , | . .
+BIBLIOTECA ROMANICA HISPANICA
+
+oh
+
+SCOHCOCO CEC COOOSECLO LOLOL ESO COCO ES:
+
+
+PRESENTACION
+
+Si nuestro campo de estudio permanece estable,
+seguira habiendo misterios.
+
+(Noam Chomsky)
+
+Se ha dicho en mas de una ocasivn como critica de la lingiistica
+chomskiana' que esta escuela pone cada pocos afios en cireulacion
+una nueva teoria que apenas guarda relacién con las teorias que la
+preceden en el tiempo. Pues bien, el libro que el lector tiene entre sus
+manos es una introducci6n a las ideas y los andlisis concretos de la ul-
+tima de estas teorias supuestamente efimeras, y rupturistas, el llamado
+«Programa Minimista», un conjunto articulado de propuestas, sobre el
+lenguaje y tas lenguas que empezo a adquirir ‘forma a finales de los
+
+afios ochenta y principios de los noventa y sigue desarroll a ehoy
+
+en dia.
+
+Resulta, de todos modos, sorprendente, que una afirmacién como
+la que abre esta, presentacion se pueda hacer como un reproche. En el
+terreno de las ciencias de 1a naturaleza, una teorta que nunca se modi-
+
+- | Nétese que la expresion «lingitistica chomskiana» hace referencia a las propues-
+tas de Noam Chomsky y de los lingilistas que comparten sus,ideas, sobre el lenguaje y
+no debe confundirse con el término «gramatica. generativay. ‘La Iingilistica chomskia-
+na es tan solo una de las ramas de la gramatica generativa. Este sera, por. tanto, un li-
+
+bro sobre la evolucién de la lingiistica chomskiana, y no de la gramatica generativa
+en su conjunto,
+
+
+8 Introduccion a una sintaxis minimista
+
+fica despierta sospechas. Pero ademas, y esto es lu mas importante, el
+contenido de esta afirmacién no se ajusta a los hechos: ni han sido
+tantas las teorias, ni los cambios han afectado, aun siendo importan-
+tes, a los fundamentos del pensamiento lingitistico de Chomsky.
+
+En realidad, a lo largo de los ya casi cincuenta afios de historia de
+la lingiiistica chomskiana tan solo ha habido dos modelos gramatica-
+les distintos, entendiendo por modelo la manera de caracterizar el co-
+nocimiento que los hablantes tienen de su propia lengua: el modelo
+reglar de la Teoria Estandar y el modelo basado en principios de la
+Teoria de los Principios y los Parametros. En el Programa Minimista
+se formulan, como veremos, preguntas inéditas y se analizan los fe-
+ndémenos lingiifsticos desde una nueva perspectiva, pero, al igual que
+en la Teoria de los Principios y los Parametros, el conocimiento gra-
+matical no se caracteriza por medio de reglas particulares de cada
+lengua, sino como la interaccién de principios universales con las
+propiedades del léxico que sé proyectan en la sintaxis. En este senti-
+do, el Programa Minimista ha de concebirse como una extensidn de la
+Teoria de los Principios y los Parametros, y no como un modelo fra:
+matical aut6nomo sensu stricto.
+
+En el paso de un modelo a otro, o de una etapa a otra dentro del
+mismo modelo, se han producido, sin duda, cambios muy importan-
+tes, pero los fundamentos del pensamiento lingiiistico de Chomsky
+han permanecido, como hemos dicho, -intactos. {,Cuales son, se estara
+preguntando el lector, las ideas no revisables sobre las‘qué se asienta
+esta corriente de la lingiistica?, gcual es su «centro firme», en expre-
+sién del fildsofo de 1a ciencia Imre Lakatos? El propio Chomsky ‘res-
+ponde a esta cuestién en algtinos de sus articulos mas recientes: el
+«nicleo duro» de la lingiiistica chomskiana lo constituye su concep-
+cién internista y naturalista de! lenguaje, esto es, la idea de que las
+lenguas son estados (relativamente estables) de la mente de los indi-
+viduos que pueden y deben ser investigados de la misma manera en
+que se estudian los objetos del mundo.
+
+La existencia de este centro firme explica algunas de las constan-
+tes de la lingiiistica chomskiana, como, por ejemplo, el hecho de que
+
+Presentacién 9
+
+desde Aspectos de la teoria de la sintaxis hasta el Programa Minimis-
+ta el objeto de estudio haya sido siempre el mismo, la facultad del
+lenguaje (o Gramatica Universal) y las gramaticas mentales (0 «len-
+guas-[»), y que las propiedades de estos «érganos mentales» se hayan
+descrito utilizando invariablemente estrategias propias de la investi-
+gacion cientifica, como el uso de idealizaciones metodolégicamente
+deseables, la formulacién de hipotesis predictivas y falsables o la adop-
+cién de criterios de simplicidad para evaluar teorias y propuestas al-
+ternativas. El internismo y el naturalismo chomskianos nos permiten
+entender también, en nuestra opinion, los principales cambios que han
+tenido lugar en el paso de la Teoria Estandar a la Teoria de los. Prin-
+cipios y los Parametros y de esta ultima al Programa Minimista. La
+Teoria de los Principios y los Parametros nacié hace ya mas de veinte
+afios con el propédsito de encontrar una solucidn para el Lamado «pro-
+blema logico de la adquisicion del lenguaje» (gcdmo es posible que el
+nifio que aprende una lengua desarrolle en su mente un sistema su-
+mamente elaborado a partir de los datos lingitisticos empobrecidos
+que percibe en su entorno?). Perseguir un objetivo como este es una
+consecuencia ldgica del internismo naturalista chomskiano, ya que, si
+se piensa que las lenguas son organos mentales, debe interesarnos sa-
+ber también como se desarrollan dichos 6rganos en la mente de los
+individuos, para asi describir mejor sus propiedades. El Programa
+Minimista, por su parte, como veremos con detalle en este libro, pre-
+tende responder a dos preguntas, la primera de ellas sin precedentes
+en los estudios del lenguaje: (a) hasta qué punto esta bien disefiado
+el lenguaje en tanto que sistema computacional que entra necesaria-
+mente en contacto con los sistemas de actuacién de la mente, unos
+sistemas que deben poder interpretar, o «leem, la informacion gene-
+rada por el sistema cognitivo lingiiistico? y (b) ghasta qué punto po-
+demos caracterizar las propiedades de las gramaticas mentales y de la
+facultad del lenguaje utilizando tan solo principios, operaciones, nive-
+les o simbolos que sean absolutamente imprescindibles? Plantearse
+estas preguntas, como hace el Programa Minimista en su vertiente
+sustantiva y en su vertiente metodoldégica, respectivamente, solo tiene
+
+
+10 ' Introduccién a una sintaxis minimista
+
+sentido dentro de un marco internista y naturalista en el que se consi-
+dere que las lenguas constituyen sistemas cognitivos y se dé por sen-
+tado que las mejores teorias, en igualdad de condiciones, son las teo-
+rias més simples. El] actual desarrollo de la lingtiistica chomskiana se
+puede muy bien concebir, por tanto, como una profundizacién en los
+presupuestos internistas y naturalistas que en todo momento han ca-
+racterizado a esta corriente de la lingiiistica.
+
+Esta manera de entender el Programa Minimista, y el hecho de
+que se trate de una extensién de la Teoria de los Principios y los Pa-
+rimetros, justifica el contenido de este libro y su distribucion en tres
+capitulos independientes. En el primer capitulo, exponemos las claves
+dz una concepcion del lenguaje como propiedad de Ja mente y como
+objeto del mundo natural, resefiamos las ideas que de manera invaria-
+ble ha sostenido Noam Chomsky con respecto a las cuestiones de las
+que se ocupa una teoria del lenguaje internista y naturalista y conta-
+mos a grandes rasgos la historia de los principales cambios que se han
+producido en la lingiiistica chomskiana. El segundo capitulo esta de-
+dicado a la Teoria Estandar y a la Teoria de los Principios y los Pa-
+rametros y en él se describe cémo se han caracterizado en ambos mo-
+delos las propiedades de la Gramatica Universal y de las gramaticas
+mentales de los hablantes, con el fin de poder comparar las ideas ge-
+nerales y los andlisis concretos de estos dos modelos con las ideas y
+los analisis del Programa Minimista y comprobar, asi, lo que este tiene
+de novedoso. En el tercer capitulo, el capitulo central del libro, expo-
+nemos los fundamentos del Programa Minimista y revisamos algunas
+de las propuestas minimistas mds importantes sobre cuatro aspectos
+fundamentales de] estudio de las lenguas naturales: el modelo de gra-
+matica, la formacién de frases o estructura de constituyentes, la pro-
+piedad del desplazamiento (esto es, el hecho de que las unidades lin-
+giiisticas se pronuncien a menudo en posiciones distintas de aquellas
+en las que se interpretan semanticamente) y la variacién paramétrica.
+En todas los casas nuestro principal objetivo serd ilustrar el «espiritu
+minimista», un estilo de investigacion con el que se intenta descubrir
+las condiciones de Jegibilidad que los sistemas de actuacion de la
+
+Presentacion 11
+
+mente imponen sobre el sistema cognitivo lingilistico y se busca re-
+ducir al maximo los mecanismos analiticos de que dispone la teoria.
+
+No quisiéramos terminar esta presentacién sin mostrar nuestro
+agradecimiento a Heles Contreras, José Manuel Igoa, Luisa Martin
+Rojo, Amaya Mendikoetxea, José Portolés, Maria Luisa Rivero, y
+muy en especial, a Violeta Demonde por haber leido pacientemente,
+en parte o en su totalidad, el manuscrito de este libro y habernos
+hecho criticas y sugerencias muy acertadas sobre su forma y su coh-
+tenido que han contribuido a mejorar notablemente el texto. Las ma-
+las interpretaciones y los errores que alin deban ser subsanados se han
+de atribuir exclusivamente a la tozudez, el descuido o la ignorancia de
+los autores. Quede también constancia de que este libro ha sido par-
+cialmente financiado gracias a la subvencién al proyecto «La varia-
+cién gramatical: variacion micro y macroparamétrica en la morfolo-
+gia y la sintaxis» (BFF2000-1307-C03-02).
+
+
+1
+i
+
+CapiTuLo 1
+EL‘ORGANO MENTAL DEL LENGUAJE
+
+1.1. INTERNISMO Y NATURALISMO METODOLOGICO >,
+
+- A veces se ha caracterizado a la lingiistica chomskiana como un
+paradigma revolucionario, en términos de la teoria de Kuhn Sobie la
+evolucién de la ciencia!. Chomsky, sin embargo, se muestravescépti-
+co con respecto a los cambios de paradigma, incluso en las?ciencias
+naturales?, y por lo que se nos alcanza, ntinca ha percibido elsimpacto
+de su obra de esta manera. Mas bien suele ‘insistir en que sus propues:
+tas retoman y reformulan los postulados de la tradicién: raciona
+del pensamiento occidental y en que sus trabajos sobre: él lenguajé
+pueden, y deben, compaginarse con otias ‘investigaciones, conio aque-
+llas que se ocupan de las relaciones entre el ‘lenguaje’ y'la sociedad, ’o
+las que tratan de descubrir como estan materializadas las capacidades
+lingiiisticas en el cerebro.
+
+oy
+1
+
+' Cf, v.g., Searle (1972).
+
+2 En opinién de Chomsky, tan solo las ideas de Newton y de Einstein provocaron
+un auténtico cambio de paradigma cientifico (para este autor, ni siquiera la teoria de la
+evolucién de Darwin, por demasiado obvia, seria un paradigma en sentido estricto)
+(cf. ciclo de conferencias impartido en la Catedra Ferrater Mora, Gerona, 1992).
+
+
+El érgano mental del lenguaje
+
+Internismo y naturalismo metodologico 15
+
+Si, en ‘lugar de la Teoria de los Paradigmas Cientificos de Thomas
+S. Kuhn}, tomamos como metodologia los Programas de Investiga-
+cién de Imre Lakatos‘, la interpretacién de la obra de Chomsky es
+otra. Lakatos resalta la rivalidad prolongada entre grandes alternativas
+tedricas y no excluye ni la reaparicién de ideas aparentemente supe-
+radus, ni la complementariedad entre teorias. Supongamos, entonces,
+con Piattelli-Palmarini (1979), que la lingiistica chomskiana consti-
+
+" tye un programa de investigacién lakatosiano y que, como tal, gira
+alrededor de un «centro firme», se asienta sobre unos supuestos basi-
+cos (provisionalmente) irrefutables. Pues bien, el centro firme del
+programa de investigacion chomskiano queda recogido de manera
+afortunada por medio de la metafora en la que se equipara el lenguaje
+con un «6érgano mental» *, una imagen muy querida por Chomsky que
+combina las dos hipdtesis basicas que han articulado su pensamiento
+durante décadas: las lenguas son estados (relativamente estables) de
+Ja mente de los individuos, y, las capacidades mentales son sistemas
+biolégicos. .
+
+Tal vez con la finalidad de evitar la falta de precision de expre-
+siones tradicionales tan cargadas de connotaciones como «mentalis-
+mo no dualista» 0 «psicologismo fisicalista», Chomsky hace uso de
+los términos «internismo» y «naturalismo», especialmente en la déca-
+da de los 90, para referirse a su concepcién del lenguaje como un ér-
+gano mental. Asi, desde una. perspectiva internista, el, lenguaje. seria,
+antes de nada, una facultad de la especie y una propiedad de la mente
+de los individuos, y no algo externo a la mente 0 al cédigo genético
+(un conjunto de enunciados o un codigo compartido, por ejemplo). En
+consecuencia, si el lenguaje es un fendmeno interno, genético y men-
+tal, y si se desecha, como parece inevitable, el dualismo sustancial
+cartesiano, el lenguaje no puede ser tratado entonces sino como un
+objeto real, en este caso, como un organo o un sistema bioldgico, que,
+
+* Cf. Kuhn (1962).
+* Cf Lakatos (1970).
+> Cf, v.g., Chomsky (1975a, 1980a), Piattelli-Palmarini (1979).
+
+como el resto de los objztos del mundo, puede y debe ser estudiado
+de manera naturalista, es decir, de la manera en que ciencias naturales
+como la biologia o la fisica estudian el mundo. Quizds convenga, no
+obstante, hacer dos precisiones al respecto ya en este momento. Por
+un lado, evidentemente, el naturalismo chomskiano no excluye otras
+maneras de ver el mundo: en palabras del propio Chomsky, «alguien
+que leve a cabo investigaciones naturalistas puede creer, sin caer en
+una contradiccién, que aprendemos més cosas de interés sobre como
+piensa, siente y actua la gente estudiando historia o leyendo novelas
+que a partir de lo que nos ensefian todas las investigaciones naturalis-
+tas»®. Por otro lado, el naturalismo chomskiano es metodoldgico, y
+no metafisico (u ontolégico)’, o lo que es lo mismo, el estudio tanto
+del lenguaje como de las demas facultades cognitivas —la visién, la
+capacidad numérica, la capacidad de razonamiento, etc.—, deberd ser
+abordado utilizando la légica y los procedimientos de las ciencias na-
+turales, pero sin tener por qué asumir necesaria‘uente el mandato on-
+tolégico de que las unidades, las operaciones y. los principigs que
+describen la estructura y el funcionamiento de los érganos de la men-
+te deban ser eliminados en favor de unidades, operaciones y princi-
+pios propios de las ciencias naturales, al menos estratégicamente,
+mientras se desconozca en qué consiste exactamente la materia®.
+Cuando se aisla ¢l «centro firme» del programa de investigacién
+chomskiano, la adopcién de un enfoque internista y naturalista con
+respecto al lenguaje, la impresién de estar asistiendo continuamenté a
+giros bruscos, y hasta caprichosos, que a veces producen las propies-
+tas de Chomsky (y de los lingilistas de su entomo) desaparece, y per-
+cibimos, por el contrario, un panorama coherente, extremadamente
+coherente incluso. Trataremos de ilustrar mds adelante, en los aparta-
+dos 1.2. y 1.3. de este capitulo, como la permanencia de este centro
+
+° Cf. Chomsky (1995b: 28).
+
+” Cf. Chomsky (1994b: 126 y ss.; 1994e: 39-41),
+
+® En el §1.2.4. expondremos con mas detalle la posicién de Chomsky con respecto
+al llamado «problema mente-cuerpo».
+
+:
+
+
+e
+
+16 El érgano mental del lenguaje
+
+firme nos proporciona las claves para entender tanto las coastantes de
+la lingitistica chomskiana, como los cambios que han tenido lugar
+desde The Logical Structure of Linguistic Theory (1955) hasta el ac-
+tual Programa Minimista. En este apartado, expondremos los funda-
+mentos de una concepcidn internista y naturalista del lenguaje.
+
+1.1.1. EL LENGUAJE COMO PROPIEDAD DE LA MENTE
+
+1.1.1.1. El problema de Descartes y el problema de Platon
+
+Con la idea de que el lenguaje es, por encima de todo, una pro-
+piedad de la mente y una facultad de la especie, Chomsky trata de dar
+cuenta de «dos observaciones bdsicas y relevantes»® con respecto al
+lenguaje y las lenguas: en primer lugar, los hablantes usan habitual-
+mente el lenguaje de manera creativa, produciendo y entendiendo
+oraciones ‘que nunca antes habian dicho ni oido y, en segundo lugar,
+lo’ nifios que adquiéren su lengua materna acaban teniendo un cono-
+cimiento lingitistico que supera con creces lo que han podido apren-
+der tan solo a partir de to que han escuchado.
+
+"Se ‘refiere Chomsky en ocasiones a la primera de estas observa- .
+
+ciones ‘comd el «problema de Descartes», en honor al filosofo fran-
+cés, quien “emplea el uso creativo del lenguaje en su Discurso del Mé-
+todo (parte v) como una prueba para distinguir a los seres humanos
+de’ otros organismos ‘parlantes (sean estos monos, loros o artefactos).
+Ahora bien, el problema del aspecto creativo del ‘uso det’ lenguaje es
+bastante mas complejo de como lo hemos formulado hasta ahora, ya
+que el uso corriente del lenguaje es creativo, en realidad, en tres sen-
+tidos diferentes '°
+
+> Cf. McGilvray (1999). :
+
+'© Entre las referencias al problema del aspecto creativo del uso del lenguaje en la
+obra de Chomsky véase, v.g., Chomsky (1955/75: 576; 1965: 8-10; 1966; 1968: 33-
+34, y mas recientemente 1994¢: 36).
+
+Internismo y naturalismo metodologico \7
+
+(a) los hablantes tienen la capacidad de producir y entender un
+numero. potencialmente infinito de expresiones nuevas;
+
+(b) sus producciones lingitisticas no responden de manera unifor-
+me a los estimulos, esto es, no se da una correlacién uno a uno entre
+lo que el hablante dice y sus circunstancias externas 0 internas; y
+
+(c) lo que dicen los hablantes es, en general, coherente y apropia-
+do a la situacién, a las citcunstancias en las que se produce el acto de
+habla.
+
+En opinion de Chomsky, tan solo en el primero de estos tres sen-
+tidos —lo que se conoce como propiedad de la productividad o infini-
+tud discreta—, la creatividad en el uso corriente del lenguaje es sus-
+ceptible de ser estudiada de manera naturalista (se trataria de un
+«problema» para el que se puede encontrar una solucién).‘Eas otras
+dos facetas de la creatividad en el uso del lenguaje, la independencia
+con respecto a los estimulos y la coherencia con el contexto,’constitu-
+yen, para Chomsky, «misterios», es decir, enigmas que quedan fuera
+del alcance de nuestras mentes, al menos desde una perspectiva natu-
+ralista (véase el §1.2.3.). Sea como fuere, lo que por ahora nos inter-
+esa resaltar es cémo surge el enfoque internista chomskiano’en tanto
+que respuesta al «problema de Descartes». La cuestién se puede plan-
+tear como sigue: si la observacién con respecto al aspecto creativo del
+uso del lenguaje es, como parece ser el caso, correcta, la mente
+humana no puede ser concebida entonces como una mera «caja ne-
+gra» desprovista de contenido, que se limita a percibir y producir es-
+timulos lingilisticos; ha de funcionar necesariamente como una ‘«po-
+tencia activa» cuya contribucién resulta trascendental para que
+podamos emitir y comprender infinitos enunciados que nunca antes
+habiamos oido a nuestro alrededor. Debe existir, por tanto, un cono-
+cimiento lingitistico mental, interno. Las lenguas deben estar locali-
+zadas, literalmente, en las mentes de los individuos, Mas en concreto,
+la Unica explicacion plausible para cl hecho crucial de que los hablan-
+tes sean capaces de producir un numero ilimitado de oraciones nuevas
+es suponer que conocen un numero finito de unidades lingitisticas y
+que saben, ademas, cémo combinarlas. ‘
+
+
+18 , El organo mental del lenguaje
+
+La segunda «observacion basica y relevante» que interesa desde
+siempre a la lingiiistica chomskiana es la versién lingiiistica del «pro-
+blema de Ja pobreza del estimulo» (o «problema de Platén»). Se trata
+de un' problema central para toda epistemologia de corte racionalista
+que, en palabras de Russell que Chomsky gusta de citar a menudo,
+podria formularse de Ja siguiente manera: {Como es posible que los
+seres humanos, cuyos contactos con e] mundo son breves, personales
+y limitados, sean, no obstante, capaces de saber tanto como realmente
+saben? (gcémo es posible, por ejemplo, que los seres humanos tengan
+el concepto de tridngulo perfecto cuando no existen triangulos perfec-
+tos en el mundo real?). La respuesta racionalista a este problema es
+harto conocida: la manera de resolver la paradoja de que muestras
+ideas sean ricas y abstractas, frente a la pobreza de los estimulos que
+percibimos por muestros sentidos, es suponer que, en buena medida,
+dichas ideas son innatas.
+
+En su versién lingiiistica, el «prcblema de Platén» adopta Ja for-
+ma del llamado «problema logico de la adquisicién del lenguaje»:
+jcémo és posible que el nifio que aprende su lengua materna Ilegue a
+poseer un conocimiento lingiiistico extremadamente estructurado a par-
+tir de experiencias lingiiisticas confusas, limitadas e, incluso, inexis-
+tentes? (véase‘el §1.2.2.1)"'. Chomsky resuelve el problema ldgico de
+la adquisicién del lenguaje ajustandose a los cdnones de Ja tradicién
+racionalista. Afirma que la distancia que media entre el conocimiento
+lingilistico del nifio que ha aprendido una lengua y su experiencia lin-
+gilistica se salva si suponemos que:una facultad del lenguaje innata
+(esto es, una Gramatica Universal con un contenido rico y especifico)
+interactia con la experiencia lingtlistica para producir el conocimien-
+to lingilistico de los individuos. El lenguaje seria, por tanto, en esen-
+
+1 Desde sus primeros trabajos considera Chomsky que el verdadero problema pa-
+ra toda teoria lingitistica ¢s dar cuenta de come adquieren los nifios su lengua matema
+(cf, v.g., Chomsky, 1955/75: 13; 1959: 577, 1964: 115 y ss.; 1965; 25-57 y s8.; 1968:
+135 y ss.).
+
+Internismo y naturalismo metodolégico 19
+
+cia, una propiedad del cédigo genético, es decir, un objeto interno a
+los seres humanos en tanto que miembros de la especie.
+
+Ahora bien, la idea de que el lenguaje y las lenguas son parte del
+organismo —la propuesta internista— no es aceptada, ni mucho me-
+nos, de manera undnime: para no pocos lingilistas y fildsofos del len-
+guaje, las lenguas son, como veremos a continuaci6n, realidades ex-
+ternas a los individuos.
+
+1.1.1.2. La ontologia de las lenguas
+
+Todas las teorias lingiisticas presuponen alguna concepcién sobre
+la naturaleza de su objeto de estudio (i.e., sobre la ontologia del len-
+guaje y de las lenguas), la hagan o no explicita. En este sentido, aten-
+diendo a la relacién que existe entre los hablantes de una lengua y la
+lengua que estos hablan, se puede trazar una clara linea divisoria en-
+tre teorias internistas y teorias externistas del lengraje. Como ya sa-
+bemos, una teoria internista del lenguaje es aquella que sostiene que
+las lenguas son estados (relativamente estables) de la mente de los in-
+dividuos. Por el contrario, para las teorias externistas, una lengua existé
+con independencia de los hablantes, bien’ como un conjunto de enun-
+ciados, bien como una practica social'?. Chomsky ha criticado ambas
+concepciones externistas del lenguaje en distintas ocasiones a lo largo
+de los afios. Veamos con qué argumentos.
+
+Para e] estructuralismo norteamericano y la psicologia conductista
+de la primera mitad del siglo xx, una lengua no se localiza en la men-
+te de los individuos. Las lenguas son colecciones de enunciados 0 ac-
+tos de habla (sucesos externos, «ondas sonoras 0 marcas de tinta» a
+
+"2 ‘Una tercera posibilidad es concebir las lenguas como objetos platénicos abstrac-
+tos (cf, v.g., Katz, 1981, y Katz y Postal, 1991). Por lo que sabemos, Chomsky nunca
+ha discutido los detalles de esta opcién extemista (pero véase Chomsky, 1986a: 33-34,
+y Botha, 1989: 63).
+
+:
+
+
+20 El organo mental del lenguaje
+
+fin de cuentas) '°, y el lingilista se limita a aplicar de manera mecdnica
+en un corpus de enunciados dado una serie de «mecanismos de des-
+cubrimiento», esto es, un conjunto de métodos inductivos de segmen-
+tacion y clasificacién, como las sustituciones 0 los emparejamientos,
+hasta obtener la gramatica taxonémica de una lengua, una gramatica
+que, simplemente, recoja afirmaciones sobre regularidades distribu-
+cionales en estos enunciados.
+
+Chomsky demuestra, probablemente de manera definitiva, que los
+conductistas y los estructuralistas norteamericanos de la primera mi-
+tad del siglo xx, encorsetados por su antimentalismo radical y por su
+positivismo de cortas miras, se equivocaron tanto en la identificacién
+del objeto de estudio, como en los métodos que utilizaban'*. Estaban
+confundidos, en primer lugar, al pensar que una lengua es un corpus
+de enunciados, ya que, de ser asi, no hay manera de explicar ni la
+propiedad de la infinitud discreta (cf. supra), ni el hecho de que los
+hablantes sean capaces de discernir, de entre un namero a priori infi-
+nito de expresiones nuevas, cuales estan bie: formadas en su lengua y
+cudles no. Estudiar una lengua como un inventario de elementos ni
+siquiera describe, por tanto, lo que una lengua realmente es, porque
+deja fuera expresiones posibles que no aparecen en los corpus y por-
+
+que no distingue entre expresiones posibles e imposibles en una len-'
+
+gua. Por otra parte, en lo que a la metodologia Tespecta, resulta de to-
+do punto inviable llegar a obtener por medio de la aplicacion aun
+corpus. de simples mecanismos de descubrimiento inductivos nocio-
+nes lingiifsticas como las de ‘categoria gramatical o funcién sintactica,
+y mucho menos aun dar cuenta de las ambigtiedades estructurales 0
+de las relaciones sistematicas entre tipos de oraciones, por no hablar
+de cémo descubrir con tales métodos unidades gramaticales abstrac-
+
+8 Cf. Harris (1959: 458). Un ejemplo candnico del antimentalismo de la lingiiisti-
+ca estructuralista norteamericana cs Bloomfield (1933: Cap. 2). Sobre los métodos del
+estructuralismo norteamericano véase, v.g., Harris (1951).
+
+4 CE v.g., Chomsky (1955/75, 1957, 1958, 1959, 1961, 1986a, 1991a). En Searle
+(1972) y Katz (1981) pueden encontrarse exposiciones muy claras de las criticas de
+Chomsky al estructuralismo norteamericano.
+
+21
+
+Internismo y naturalismo metodolégico
+
+tas, «materialiriente» no realizadas en los textos, como las representa-
+ciones fonoldgicas subyacentes, los morfos cero 0 las categorias sin-
+tacticas sin realizacién fonética.
+
+Una lengua externa y extensional, es decir, un conjunto de.enun-
+ciados 0 actos de habla (una «lengua-E»)'°, seria, en conclusién, para
+Chomsky, en el mejor de los casos un epifenédmeno, un producto sub-
+sidiario de la gramatica mental de los hablantes, y en el peor, no ten-
+dria ni tan siquiera existencia en el mundo real (en el mundo existen
+enunciados y actos de habla, pero no existiria nada que pueda llamar-
+se «lengua X» y que se corresponda con un conjunto determinado de
+enunciados 0 actos de habla).
+
+La segunda nocién de lengua externa que Chomsky pone en tela
+de juicio coincide a grandes rasgos con la idea pretedrica que-esta
+presente en afirmaciones tan habituales como «El catalan es la lengua
+oficial de Catalufia», «El frances esta perdiendo posiciones en el
+mundo», «El inglés tiene mas palabras que el espaiiol», y tantas otras
+por el estilo. Esta nocién de sentido comun es refinada un tanto por
+aquellos lingtiistas que consideran que el lenguaje es una practica so-
+cial cuya funcién primordial es la comunicacién!*, Desde esta pers-
+pectiva, las lenguas se conciben como «lenguas publicas» o «lenguas
+comunes», como cédigos externos a las mentes de los hablantes que
+estos comparten con el fin de poder comunicarse. La lingiiistica estu-
+diaria tales «codigos compartidos» (sean estos lenguas o dialectos), y
+quedaria asi incluida dentro de las ciencias sociales.
+
+Las criticas de Chomsky a la nocién de lengua comin, en tanto
+que posible objeto de estudio para la teoria lingilistica, apuntan sobre
+todo hacia su imprecisién y su complejidad'”. Por un lado, es sabido
+
+‘5 El término técnico «Lengua-E» aparece por primera vez en Chomsky (1986a).
+
+'6 Cf, v.g., entre los autores mencionados por el propio Chomsky, Lewis (1975) y
+Dummet (1986). Véase también, recientemente, Millikan (2003).
+
+'7 Este es uno de los temas mas tratados por Chomsky en sus escritos no estricta-
+mente lingtiisticos de los 80 y los 90 (cf., v.g., Chomsky, 1980a: 90-97; 1986a: 15-16;
+1991b: 31 y ss.; 1992b: 101 y ss.; 1992c: 100 y ss.; 1994b: 152 y ss.; 1994c: 18-21;
+1995b).
+
+
+22 \
+
+El organo mental del lenguaje
+
+que la distincién entre unas lenguas y otras, o entre lenguas y dialec-
+tos, no esta tan clara para el lingiiista como para el politico: existen
+difusas zonas de transicién y formas hibridas de habla; hay dialectos
+de lenguas cuyos hablantes a duras penas se entienden entre si y Jen-
+guas mutuamente inteligibles; dos dialectos de una misma lengua, en
+cuanto disponen de un ejército y una armada, pueden convertirse en
+dos lenguas distintas de la noche a la mafiana, como ha sucedido en la
+antigua Yugoslavia... y asi un largo etcétera. Se identifica, por otra
+parte, una lengua (como el inglés, el francés 0 el espafiol) sobre la ba-
+se de una amplia gama de complejos factores histéricos, culturales,
+sociopoliticos y prescriptivos: una lengua, por ejemplo, recogeria la
+herencia histérica de una comunidad, tendria una tradicién escrita, es-
+taria oficialnente reconocida en textos legales de primer rango, seria
+la expresion del alma de-un pueblo o una nacion, se ajustaria a nor-
+mas de etiqueta lingiiistica, etc.
+
+Asi las cosas, la concepcién externista de las lenguas como len-
+guas comunes 0 codigos compartidos, piensa Chomsky, podria ser de
+cierta utilidad para los estudios sobre las relaciones entre lenguaje y
+sociedad, y desempefia sin duda un papel, a veces determinante, en la
+vida de los individuos, pero sus limites imprecisos y las muchas. va-
+riables que intervienen en su definicion la convierten en un candidato
+poco apto para un estudio naturalista del. lenguaje y de las lenguas.-E]
+concepto de cédigo compartido seria, de nuevo en el mejor de los ca-
+sos, secundario, derivado (,cémo es posible que los miembros de una
+comunidad compartan un cédigo si dicho eddigo no esta representado
+en sus mentes?). A este respecto, Chomsky va mas alld incluso, y sos-
+tiene un punto de vista que puede chocar con nuestras concepciones
+de sentido comun: las Jenguas comunes o publicas no son, en reali-
+dad, objetos del mundo. Desde la perspectiva de las ciencias natura-
+les, no habria cédigos con independencia de los hablantes; tan solo
+existirian determinados estados (relativamente estables) de la mente
+de los individuos. El «espafiol», por poner un ejemplo, seria un epife-
+nomeno sin correspondencia en el mundo fisico, al igual que tantos
+otros conceptos de naturaleza social como los de patria o comunidad
+
+i
+
+dnternismo y naturalismo metodoldgico 23
+
+internacional, lo cual no obsta para que, como haremos nosotros en
+este libro, podamos seguir afirmando que «El espaviol es una lengua
+de micleo inicialy o que «El vasco tiene casos morfolégicos» por
+ejemplo, siempre y cuando evitemos «reificaciones ilegitimas».
+
+La alternativa chomskiana a las insuficiencias de estas dos con-
+cepciones extemistas de las lenguas consiste en considerar, como ya
+hemos adelantado, que las lenguas son objetos del mundo real inter-
+nos a Ja mente de los individuos, es decir, gramaticas mentales. Con
+la intencién de evitar los malentendendidos a que daba lugar la ambi-
+giiedad sistematica del término «gramatica», que se usaba para refe-
+rirse tanto al conocimiento gramatical de Jos hablantes («gramdtica
+mental») como a la teoria del lingilista («gramdtica descriptiva»),
+Chomsky (1986a) sustituye la expresién «gramatica mental» por el
+término técnico «lengua-l», queriendo indicar con esta letra inicial,
+frente a las dos concepciones externistas anteriormente comentadas,
+que las lenguas son objetos:
+
+(a) internos (i.e., propiedades de la «mente-cerebro» de los ha-
+blantes?®, y no sucesos fisicos o practicas sociales externos),
+
+(b) individuales (i.e., estados mentales de los individuos, y no co-
+digos compartidos por una comunidad), y
+
+(c) intensionales (i.e., mecanismos finitos, y no conjuntos, poten-
+cialmente infinitos, de enunciados o actos de habla).
+
+Una lengua-I no presenta los problemas de una lengua comun o
+de una lengua extensional. Por un lado, no cabe duda de que estamos,
+en este caso, ante un objeto del mundo, tan real como los cerebros
+que lo contienen, que puede estudiarse, por tanto, de la manera en que
+las ciencias naturales tratan de dar cuenta de Jas propiedades de las
+
+" entidades biclégicas o fisicas. Por otro lado, frente a las lenguas co-
+
+munes, las variables que participan en su caracterizacién pueden ser
+razonablemente controladas y sus limites pueden establecerse con su-
+
+18 Chomsky utiliza sistematicamente la expresién «mente-cerebro» para referirse a
+los aspectos mentales de] mundo, de manera calculada a nuestro entender, como un re-
+flejo terminolégico de su «materialismo unificacionista» (véase el §1.2.4.).
+
+:
+
+
+24 &1 érgano mental del lenguaje
+
+ficicnte precision: una lengua-I es, simplemente, una de las opciones
+permitidas por la Gramatica Universal, .sin mds distinciones de natu-
+raleza socioldgica. Finalmente, frente a las lenguas extensionales del
+estructuralismo norteamericano de la primera mitad del siglo xx, la
+existencia de gramaticas mentales es, precisamente, lo que nos permi-
+te dar cuenta de la propiedad de la infinitud discreta, ya que estas
+consisten, basicamente, en una serie (finita) de operaciones que, so-
+metidas a ciertas restricciones, combinan un numero (finito) de uni-
+dades lingitisticas para derivar las (infinitas) expresiones posibles en
+una lengua !?.
+
+1.1.2. Ex LENGUAJE COMO OBJETO DEL MUNDO NATURAL
+
+Hasta este momento hemos tratado de poner al descubierto las
+motivaciones tltimas del primer componente: del «centro firme del
+Programa de investigacion chomskiano: su internismo. El segundo
+componente, la aproximacién naturalista al estudio. del lenguaje y de
+las lenguas, es, en realidad, una consecuencia del primero, si se des-
+carta, por superada, la idea de que existe una sustancia segunda carte-
+siana. Y Chomsky se distancia claramente de Descartes en este pun-
+to”: para el «racionalismo biolégico» chomskiano (cf. McGilvray,
+1999), el estudio de las facultades mentales formaria parte del estudio
+del cuerpo —en concreto, del cerebro—, en un cierto nivel de abs-
+traccion, con lo cual, aunque internismo y naturalismo sean légica-
+mente independientes”', un enfoque internista del lenguaje demanda
+
+En el §1.2.1., caracterizaremos con algo més de precisién el contenido de las
+lenguas-I. Los dos restantes capitulos de este libro estaran dedicados en su totalidad a
+este tema.
+
+20 Sobre las semejanzas y las diferencias entre el pensamiento de Chomsky y el de
+Descartes véase, .v.g., Chomsky (1966, 1975a), Bracken (1984), Otero (1984),
+
+_D’ Agostino (1986) y McGilvray (1999),
+
+| Los seres humanos pueden ser estudiados de manera naturalista pero no inter-
+nista, V.g., como fases en un ciclo de conversion del oxigeno en didxido de carbono.
+
+internismo y naturalismo metodolégico 25
+
+que su objeto de estudio sea analizado desde una perspectiva natura-
+lista.
+
+1.1.2.1. Las criticas al dualismo metodoldgico
+
+Como ya hemos apuntado, Chomsky apuesta, frente al naturalis-
+mo de corte metafisico (reduccionista 0 eliminacionista), por un en-
+foque naturalista-de la mente «metodologico». Con la expresiOn «na-
+turalismo metodolégico» se quiere hacer hincapié, sin embargo, antes
+de nada, en que los «aspectos mentales del mundo» deben ser investi-
+gados segin los canones de las ciencias naturales. De este modo, el
+naturalismo chomskiano se define también por oposicién’a lo que
+Chomsky denomina «dualismo metodolégicom: asi, aun habiendo si-
+do formulada por pensadores o lingiiistas que afirmen ser thaterialis-
+tas (v.g., Quine, 1992), una propuestd acerca del lenguajé (o de lo
+mental en general) seria metodolégicamente dualista, para Chomsky,
+si se miden con distinto rasero los estudios sobre los objetos mentales
+y las investigaciones sobre los objetos fisicos, si se imponen, pot
+ejemplo, a los primeros condiciones de las que las segundas estan ex-
+entas. En sus trabajos recientes no estrictamente lingiiisticos”?,
+Chomsky critica varios casos de aproximaciones al lenguajé metodo-
+légicamente dualistas. A modo de ilustracién, nos detendremos en
+dos especialmente significativos. .
+
+Para algunos autores (v.g., Searle, 1992), un estado méntal existe
+solo si es accesible a la consciencia, de manera que, aunque se argu-
+mentara convincentemente en favor de determinado principio para
+dar cuenta de paradigmas complejos de datos lingiiisticos, no podria-
+mos decir que el hablante conoce dicho principio (lo representa men-
+talmente) a no ser que sea capaz de expresar su contenido de manera
+
+Naturalismo no implica, por tanto, internismo. Sin embargo, para Chomsky, la tinica
+manera razonable de emprender un estudia internista de las capacidades cognitivas es
+adoptando una metodologia naturalista (cf. Chomsky, 1995b: 27-28 y 49).
+
+22 Cf, v.g. Chomsky (1992b: 107 y ss.; 1994b: 144 y ss.; 1995b: 33 y ss., 50 y
+ss.). Véase también Chomsky (1975a: 179 y ss.).
+
+
+26 '
+
+El érgano mental del lenguaje
+
+Internismo y naturalismo metodologico 27
+
+explicita”. Chomsky discrepa abiertamente de quienes sostienen que
+conocimiento y consciencia se suponen mutuamente y defiende !a
+existencia de conocimientos no accesibles a la consciencia”*. En cual-
+quier caso, imponer el requisito de la «accesibilidad a la consciencia»
+para poder estar seguros de que un estado mental existe seria un
+ejemplo de dualismo metodoldgico por el que se trata de distinta ma-
+nera a los objetos mentales y a los objetos fisicos. Por citar un ejem-
+plo del propio Chomsky, cuando se estudian la digestién o los plane-
+tas, en modo alguno se exige que tales fendmenos u objetos sean
+accesibles a la consciencia para reconocer que existen.
+
+Un segundo supuesto de metodologia dualista en el estudio del
+lenguaje, en opinion de Chomsky, es considerar que solo se puede es-
+coger entre dos gramaticas extensionalmente equivalentes, esto es,
+entre dos hipotesis que caractericen el mismo conjunto de expresiones
+lingiiisticas, sobre la base de «pruebas psicolégicas», que certificarian
+la «realidad psicolégica» de las hipotesis, pero no utilizando «pruebas
+lingitisticas» (cf., v.g., Quine, 1986). Desde ese punto de vista, se po-
+dria, por ejemplo, atirmar que la estructura de los constituyentes basi-
+cos de la oracién (sujeto, verbo y objeto directo) es [SN [V SN]], y no
+[ISN] [V] [SN]] 0 [[SN V] SN], a la luz de los resultados de experi-
+mentos como los de Fodor y Bever (1965) sobre el desplazamiento
+perceptivo de «clics» en las oraciones”’, y no a partir de los juicios de
+gramaticalidad que los hablantes emiten sobre los numerosos para-
+digmas de datos lingiiisticos que muestran bien a las claras que el
+
+> Esta cuesti6n se reformula a veces como el «problema de seguit ‘ina reglan: da-
+do que no tienen acceso consciente a las reglas’ lingiiisticas, los seres humanos «se
+ajustarianm a las reglas, pero no «serian guiados» por ellas (cf., v.g., Quine, 1972:
+
+* Para los que emplea el término «cognicién» (cagnition) en lugar de «conoci-
+miento» (knowledge) (cf., v.g., Chomsky, 1975a: 165).
+
+5 En estos experimentos, se les colocaba unos auriculares a los sujetos y.se les
+hacia escuchar una oracién por un oido y un «clic» (un mido) por el otro. A continua-
+cién se les pedia que indicaran donde crefan que habian oido el ruido en la oracién. El
+resultado fue que los sujetos, aunque no los hubieran escuchado en ese punto, tendian
+a situar los «clics» en los limites de los constituyentes bdsicos de la oracién.
+
+verbo y el objeto directo forman una unidad gramatical que excluye al
+sujeto. Para Chomsky, sin embargo, la distincién entre pruebas psico-
+légicas y pruebas lingilisticas no tiene ningun sentido, simplemente,
+porque no existe una realidad psicolégica distinta de la realidad (que
+incluye a los objetos mentales). Por tanto, las pruebas lingitisticas (o
+internas) constituyen afirmaciones sobre Ia realidad de las hipétesis
+lingitisticas tan validas, al menos”*, como las llamadas pruebas psico-
+légicas (0 externas). Y lo que es mas: en las ciencias naturales no se
+discriminan metodolégicamente los tipos de pruebas; no hay clases de
+pruebas pertinentes o no pertinentes @ priori; lo tnico que hay son
+pruebas buenas o malas segtin nos sirvan 0 no para describir los prin-
+cipios ocultos que articulan la cadtica diversidad de lo real. Restringir
+a priori los criterios de decisién sobre la validez de las pruebas cuan-
+do lo que esté en juego son los aspectos mentales del ser humano se-
+ria, en conclusién, un nuevo caso de dualismo epistemoldgico.
+
+La lingtiistica chomskiana, por contra, se caracteriza desde sus
+inicios por su empefio en utilizar la légica de investigacion de las
+ciencias naturales en el estudio del lenguaje. Asi, por ejemplo, como
+es habitual en ciencias como la fisica o la quimica, se han buscado
+explicaciones sistematicas para una gran variedad de fendmenos lin-
+gilisticos; se han formulado, siempre que ha sido posible, hipdtesis
+predictivas lo suficientemente explicitas corno para que pudieran ser
+contrastadas empiricamente; se ha recurrido a unidades o estructuras
+abstractas, no directamente observables, para poder dar cuenta de
+ciertos fendmenos de otro modo inasibles; o se ha adoptado un punto
+de vista realista con respecto tanto a los hechos de los que la teoria
+lingiifstica quiere dar cuenta, como a las unidades, las operaciones y
+
+6 Dado que las investigaciones no lingilisticas estAn guiadas por nociones lingiiis-
+ticas, y puesto que se sabe mucho mas sobre las computaciones mentales que sobre su
+soporte material, Chomsky considera que, hoy por hoy, las pruebas intemnas son, por
+lo general, mucho mis fiables que las pruebas externas. Para Chomsky, por ejemplo,
+los resultados de los experimentos con potenciales evocados —o potenciales relacio-
+nados con un suceso (PRS)— son «meras curiosidades» mientras no exista una teoria
+de los PRS (cf. Chomsky, 1992c: 93-95).
+
+
+28 £l organo mental del lenguaje
+
+Internismo y naturalismo metodoldégico 29
+
+los principios de la teoria misma”’. La lingtiistica chomskiana com-
+parte, ademas, con las ciencias de la naturaleza otras dos caracteristi-
+cas basicas de todo quehacer cientifico: la idealizacién del objeto de
+estudio y la busqueda de simplicidad.
+
+1.1.2.2. La idealizacion del objeto de estudio
+
+Es dificil encontrar algiin otro aspecto del pensamiento lingitistico
+de Chomsky mis criticado, y peor comprendido, que las dos idealiza-
+clones que toma como punto de partida en Aspectos de la teoria de la
+sintaxis para poder emprender la tarea de estudiar tanto las lenguas
+como la facultad del lenguaje, y dar as{ cuenta de la versidn lingiiisti-
+ca del «problema de Platon»: por un lado, la idealizacién segin la
+cual «lo que concierne primariamente a la teoria lingiistica es un
+hablante-oyente ideal en una comunidad lingilistica del todo homogé-
+nea» 8 y, por otro, la idealizacién por la que se atsrda el estudio de la
+adquisicion de las lenguas « «como si» se produjera de manera instan-
+tanea”’ ;
+
+Se ha interpretado, por ejemplo, que Chomsky piensa que existen
+de hecho hablantes-oyentes ideales y comunidades lingiiisticas
+homogéneas, y que cree que el aprendizaje de las lenguas es instanta-
+neo en el mundo real, y esto, evidentemente, no es asi: las afirmacio-
+nes chomskianas constituyen idealizaciones (contrafacticas) metodo-
+logicamente deseables*®, También se ha dicho que fa’ nocién de
+
+27 Sobre el realismo cientifico chomskiano, véase Chomsky (1955/75: 36 y ss.;
+1978: 303-304; 1980a: 202 y ss; 1986a: 4.2.). Cf, también, Botha (1989: 156 y ss.).
+
+8 Cf. Chomsky (1965: 5). Véase también Chomsky (1980a: 33 y ss.; 1986a: 16-
+19).
+
+9 Cf. Chomsky (1965: 35). Véase también Chomsky (1975a: 119 y ss.; 1986a: 54;
+1998a: nota 11).
+
+3° Cf, Newmeyer (1983: 75). Una oracién condicional contrafactica es aquella en
+la que el contenido expresado por cl antecedente entra en conflicte con lo que se da
+por supuesto. Las idcalizaciones chomskianas se formulan como condicionales contra-
+facticas: «Si existiera un hablante-oyente ideal, ,qué propiedades tendria su gramatica
+
+comunidad lingiiistica homogénea niega la existencia de las variantes
+dialectales, cuando en realidad no hace distincién alguna entre nocio-
+nes sociologicas, como las de lengua y dialecto. Asimismo, se ha
+pensado que hablar de individuos ideales en comunidades lingiiisti-
+camente homogéneas introduce una novedad radical en el panorama
+de la lingiifstica moderna, cuando Chomsky se limita a hacer explicita
+la idealizaci6n sobre la que se asienta toda la tradicion gramatical oc-
+cidental. O se ha dicho que la gramatica generativa no esta interesada
+ni en los individuos concretos, ni en la variacién lingtiistica, ni en el
+aprendizaje de tas lenguas en tiempo real, cuando lo que se pretende
+es, precisamente, poder explicar la variacién y el aprendizaje en
+tiempo real a partir de estas idealizaciones*!. Se ha cuestionado inclu-
+so, finalmente, la legitimidad de estas (u otras) idealizaciones en el
+estudio del lenguaje o de la mente en general, lo cual constituye, para
+Chomsky, otro caso de dualismo epistemoldgico, que supondria re-
+nunciar, sin mas, a toda explicacién racional de los aspectos mentales
+del mundo” ; «
+
+EI mismo término «idealizar» ha dado lugar a no pocos malos en-
+tendidos. Idealizar un objeto de estudio es una estrategia fundamental
+de las investigaciones en las ciencias naturales por la que se prescinde
+de algunas de las variables que lo conforman o lo rodean con el fin'de
+poder estudiarlo mds en profundidad. En toda empresa racional, de
+manera explicita o implicita, se establecen limites con respecto al al-
+cance de lo que se quiere (o se puede) estudiar. Se es consciente. de
+que si se pretende hablar de todo se acaba hablando de nada. Un obje-
+to idealizado, en el sentido en que se utiliza el término en las ciencias
+naturales, no es una entidad ideal, perfecta e inexistente. Cuando se
+idealiza un objeto se est4 hablando de Ja realidad; de hecho, es el re-
+mental?»; «Si fuera de manera instantdnea, jcomo se aprenderia una lengua mater-
+na?».
+
+3! Pueden encontrarse comentarios muy clarificadores sobre las idealizaciones
+chomskianas en Newmeycr (1983: 3.2.), Botha (1989: 65 y ss.), Salkie (1990: Cap. 3)
+
+y, mas recientemente, Smith (1999; 13 y ss.).
+2 Cf. Chomsky (1995b: 18).
+
+
+30 : El érgano mental del lenguaje
+
+curso racional de que disponemos para poder hablar acerca del nicleo
+invariable de lo real?. :
+
+Desde un enfoque naturalista del lenguaje y de las lenguas como
+el chomskiano, el lingilista, al igual que el bidlogo o el fisico, se cen-
+tra también en ciertos aspectos de su objeto de estudio en detrimento
+de otros. Y lo hace, como es norma en las ciencias naturales, depen-
+diendo de lo que quiere investigar. Para la lingtiistica chomskiana, el
+objetivo fundamental de la teoria lingtiistica es, como ya sabemos, re-
+solver el «problema légico de la adquisicién del lenguaje». Pues bien,
+este objetivo ultimo explica que las idealizaciones chomskianas sean
+las que son. En primer lugar, para poder explicar cOmo adquiere el
+nifio que aprende su lengua materna un conocimiento lingiiistico rico
+y estructurado a partir de datos pobres y desestructurados, deben ca-
+racterizarse de manera precisa, piensa Chomsky, tanto e] estadio ini-
+cial de este proceso, la Gramatica Universal (GU), como el estadio
+final, las lenguas-I. Pero si se quiere caracterizar con precisién el con-
+tenido de la GU y de las lenguas-I, no queda mas remedio que dejar
+de lado las innumerables idiosincrasias de las variantes idiolectales.
+De ahi que la teoria lingilistica se ocupe de «hablantes-oyentes idea-
+les en comunidades lingiifsticas homogéneas»: al lingitista le interesa
+descubrir las propiedades del lenguaje humano, y no describir de ma-
+nera impresionista el -habla de individuos concretos. Por. otro: lado,
+con el objetivo de solucionar el problema légico de la adquisicién. del
+lenguaje, se actia «como si» el paso de la GU a las lenguas-I fuera
+instantaneo porque lo que ocurre a lo largo del proceso es demasiado
+complejo, al menos en el estado actual de nuestros conocimientos. No
+se sabe, pot ejemplo, con exactitud ni de qué datos dispone el nifio en
+cada estadio intermedio, ni con qué hipotesis se enfrenta a.ellos. Se
+supone, ademas, que los distintos estadios que el nifio atraviesa en el
+curso de la adquisicion de una lengua no condicionan de manera de-
+terminante el estado mental final.
+
+> Ch, v.g., Chomsky (1992b: 102; 1993a: 7; 1995b: 18; 1998a: nota 5),
+
+Internismo y naturalismo metodolégico 31
+
+Hay que buscar, por tanto, la raz6n de ser de las dos principales
+idealizaciones chomskianas en el papel que desempefian en la resolu-
+cién de la version lingitistica del «problema de Platén». Quizds se
+demuestre con el tiempo que la segunda de estas idealizaciones es in-
+correcta (0 que incluso las dos lo son), pero hasta ahora ambas ideali-
+zaciones nos han permitido obtener resultados significativos, y la Uni-
+ca manera de juzgar la legitimidad de una idealizacién es por los
+resultados que con ella se obtienen.
+
+1.1.2.3. La navaja de Occam
+
+Entre los fundamentos de toda metodologia racional se encuentra,
+ademas de la idealizacién del objeto de estudio, el principio conocido
+como «la navaja de Occamm, por ser este filésofo medieval el primero
+en enunciarlo. Segtin este principio, «para explicar los fendmenos no
+se deben mviiplicar las entidades mAs alla de lo necesario», es decir,
+«si dos hipétesis (o dos teorfas) concuerdan con los mismos datos y
+no difieren en otros aspectos que sean relevantes para su confirma-
+cién, entonces la mds simple se consideraré como la mds ‘acepta-
+ble»*". No existe, sin embargo, un procedimiento automatico para
+medir el grado de simplicidad 0 elegancia de las hipotesis y las teori-
+as, pero hay acuerdo al menos con respecto a dos criterios: en igual-
+dad de condiciones, son mas elegantes, en primer lugar, las hipotesis
+0 teorias que contienen principios generales en lugar de series abiga-
+tradas de afinnaciones inconexas; y, en segundo lugar, son mas sim-
+ples las hipétesis o las teorias menos redundantes, esto es, aquellas en
+las que, manteniendo la misma cobertura empirica, se unifican con-
+ceptualmente tanto las unidades como los principios. ;
+
+En consonancia con su naturalismo, la lingiiistica chomskia-
+na siempre ha recurrido a ambos criterios de simplicidad, la «simpli-
+cidad de los principios» y la «simplicidad conceptual» (cf. Botha, 1989),
+para escoger entre hipdtesis o modelos tedricos alternativos. Mas atin,
+como veremos en el apartado 1.3. de este capitulo, y como ilustrare-
+
+4 Cf, Hempel (1966: 68).
+
+:
+
+32 El organo mental del lenguaje
+
+Estudio del lenguaje desde una perspectiva internista 33
+
+mos con detalle en los restantes capitulos de este libro, uno de los
+grandes ejes que guia la evolucion de la lingilistica chomskiana es la
+busqueda progresiva de una mayor simplicidad en la formulacién de
+las hipotesis y en el disefio del modelo de gramatica. La aplicacién
+del criterio de la simplicidad de los principios fue, por ejemplo, de-
+terminante en el paso de la Teoria Estandar a la Teoria de los Princi-
+pios y los Parametros. Igualmente, el actual Programa Minimista
+puede muy bien entenderse, al menos en parte, como el uso sisternati-
+co de la navaja de Occam para evaluar tanto las hipotesis concretas
+como la teoria en su conjunto.
+
+Ahora bien, no debe confundirse esta nocion externa de simplici-
+dad, comin a toda investigacion racional, con las «medidas de sim-
+plicidad» internas a la teorfa lingiiistica que se han propuesto en dife-
+rentes momentos de Ia historia de la lingitistica chomskiana®. En el
+modelo de Aspectos, tales medidas de simplicidad consistian en «me-
+canismos de evaluacién» que formaban parte de la Gramatica Univer-
+sal y que le permitian al nifio que adquiere su lengua materna escoger,
+entre las grariaticas consistentes con los datos lingiiisticos de su en-
+torno, aquella que fuera, por ejemplo, notacionalmente mas simple
+(véase el §2.1). En el modelo de los Principios y los Parametros de
+los afios 80 cambia sustancialmente la manera de concebir como es-
+coge el nifio que aprende su lengua materna una gramatica a partir de
+su experiencia lingitistica: el nifio fija ahora los valores de un conjun-
+to de posibilidades abiertas por la GU (0 «parametros»), con lo cual
+no queda ya lugar para medidas de simplicidad como las del Modelo
+EstAndar (cf. §2.2.). Sin embargo, en el Programa Minimista, se utili-
+zan de nuevo medidas de simplicidad internas, que nos permiten, al
+igual que en el modelo de Aspectos, comparar fragmentos de ‘una
+gramatica y elegir el mas simple por criterios de simplicidad especifi-
+cos de la teoria lingtiistica. Pero las medidas de simplicidad del Pro-
+
+35 Sobre estas dos variantes de la nocién de simplicidad en la lingiiistica choms-
+kiana, véase Chomsky (1995a: 8-9) (cf. también Newmeyer, 1983: 41; Botha, 1989:
+189-195; y McGilvray, 1999: 148-150).
+
+grama Minimista son de naturaleza completamente distinta: determi-
+nados principios favorecen ahora, de entre dos o mas derivaciones
+posibles de una expresion lingtiistica, a aquelia que sea mas econdmi-
+ca (véase el Capitulo 3).
+
+1.2. EL ESTUDIO DEL LENGUAJE DESDE UNA PERSPECTIVA INTERNISTA
+
+Si el enfoque naturalista del estudio del lenguaje subyace, como
+acabamos de ver, al hecho de que la lingiiistica chomskiana haya em-
+pleado de manera sistematica la metodologia de las ciencias naturales
+—que haya idealizado, por ejemplo, su objeto de estudio o que haya
+preferido las hipétesis y las teorias mds simples a las m4s comple-
+jas—, el «centro firme» del programa de investigacién chomskiano
+en su totalidad nos permite entender algunas de las constantes uel
+pensamiento lingiiistico de Chomsky. Explica, en concreto, por qué
+se ha interesado este lingiiista desde un primer momento por determi-
+nados aspectos del lenguaje y de las lenguas, y no por otros. Asi pues,
+si se considera que el lenguaje es, al igual que el resto de las capaci-
+dades cognitivas, un «érgano mental», no debe sorprendernos enton-
+ces que las cuestiones que Chomsky se plantea con respecto al len-
+guaje y las lenguas sean las mismas que preocupan al bidlogo que
+investiga las propiedades de los érganos o los sistemas .corporales.
+Este, cuando estudia un drgano del cuerpo, busca respuestas, al me-
+nos, para las siguientes preguntas: (a) ,cudl es la organizacién morfo-
+légica estable (i.e., la estructura) de dicho érgano?, (b) gcdmo se de-
+sarrolla en el organismo y como aparecid en el. curso de la
+evolucién?, (c) {cuales son sus funciones? y (d) gcudles son los pro-
+cesos bioquimicos, y los mecanismos fisicos, que determinan su es-
+tructura y su funcionamiento?
+
+El lingitista que concibe el lenguaje. como un organo mental se
+hace preguntas semejantes con respecto a las lenguas-I y a la facultad
+del lenguaje: \
+
+
+34 '
+
+El organo mental del lenguaje
+
+(a) En qué consiste el conocimiento lingiifstico de los indivi-
+duos?
+
+(b) iC6mo adquiere el nifio que aprende su lengua materna dicho
+condcimiento y cOmo surgié la facultad del lenguaje en !a especie?
+
+(c) gComo se usa el conocimiento lingiiistico en situaciones con-
+cretas en tiempo real?
+
+(d) Como estan materializadas las lenguas y la facultad del len-
+guaje en e] cerebro y en el codigo genético de la especie, respectiva-
+mente?
+
+Quienes adoptan un enfoque internista y naturalista del lenguaje
+suelen plantearse estas cuatro preguntas fundamentales, pero discre-
+pan en cémo priorizarlas y no siempre se ponen de acuerdo en las
+respuestas. En este apartado, veremos cuales han sido, y siguen sien-
+do, las prioridades de Chomsky a la hora de estudiar el lenguaje y las
+lenguas, y revisaremos sus ideas generales con respecto a cada una de
+estas cuestiones, unas ideas que han permanecido inalteradas a lo lar-
+go de los afios, aunque con algunos matices, y que se mantienen, co-
+mo telén de fondo muchas veces implicito, en el actual Programa Mi-
+nimista.
+
+1.2.1. EL CONOCIMIENTO DEL LENGUAJE
+
+En los dos capitulos siguientes nos ocuparemos con detenimiento
+de los cambios que se han producido en la lingiiistica chomskiana con
+la finalidad de caracterizar de una manera cada vez mas adecuada el
+conocimiento gramatical de los individuos, cambios, algunos de ellos
+sustanciales, que han afectado a las unidades, las operaciones, los com-
+ponentes o los principios de la gramatica. Dejamos para entonces esta
+tarea, y expondremos ahora las lineas maestras de las que considera-
+mos que son, y han sido siempre, Jas ideas basicas de Chomsky con
+respecto al conocimiento que los hablantes tienen de su lengua. Para
+Chomsky, (a) el conocimiento lingiiistico constituye un dominio es-
+pecifico, (b) debe distinguirse del uso lingtistico, (c) contiene un
+
+Estudio del lenguaje desde una perspectiva internista 35
+
+componente central (la sintaxis), que se encarga de realizar c6mputos
+sobre representaciones lingitisticas, y (d) dicho componente computa-
+cional es autonomo con respecto al significado y al uso. Vayamos por
+partes **
+
+1.2.1.1, Especificidad de dominio™
+
+Uno de los postulados fundamentales sobre las funciones superio-
+res de los seres humanos en el que coinciden las diferentes tradiciones
+del pensamiento neo-empirista del siglo xx, desde la conductista a la
+Piagetiana, es el llamado «principio de uniformidad», segun ef cual
+existen estrategias de aprendizaje de propdsitos multiples comunes a
+todas las capacidades mentales. Frente a esta concepcién de la mente
+como un todo indiferenciado, Chomsky Iléva la metafora del «érgano
+mental del Ienguaje» hasta sus ultimas consecuencias, y sostiene que
+no solo los érganos dei:cuerpo, sino también los «érganos de la men-
+te» (el lenguaje, la visién, la memoria, etc.), conforman «dominios»,
+esto es, sistemas auténomos premodelados de manera innata, con
+pautas de desarrollo y propiedades especificas™®.
+
+** En el Capitulo 3, veremos hasta qué punto han podido afectar las ideas del Pro-
+grama Minimista a las tesis de la autonomia de 1a competencia con respecto a la ac-
+tuacién y de la sintaxis con respecto al significado y al uso.
+
+* La «tesis de la especificidad» es una constante en el pensamiento chomskiano
+(cf., v.g., Chomsky, 1975a: 159; 1980a: 35 y ss.; 1988: 161; 1995a: 221; véase tam-
+bién Piattelli Palmarini, 1979).
+
+38 En ocasiones utiliza Chomsky el término «médulo» en lugar de «dominio», lo
+cual no quiere decir que comparta por completo las ideas sobre la arquitectura de la
+mente de Jerry A. Fodor (1983) (cf. infra). Notese, por otra parte, que innatismo y es-
+pecificidad de dominio son Jégicamente independientes: puede proponerse, de entra-
+da, que existen estructuras innatas ricas sin que estas tengan necesariamente que. ser
+especificas de un dominio dado. Sin embargo, es poco plausible que puedan surgir
+dominios mentales especificos a partir de estrategias de aprendizaje innatas no especi-
+ficas. De ahi que quienes defienden la especificidad de dominio adopten, por lo gene-
+Tal, un punto de vista racionalista con respecto a la adquisicién de conocimientos (cf.
+
+Botha, 1989: 114).
+
+evscsvscvocccccecccccceseccccoscoes
+
+
+36 El organo mental del lenguaje
+
+Estudio del lenguaje desde una perspectiva internista
+
+Pruebas de distinta naturaleza inclinan hoy por hoy claramente la
+balanza en favor de aquellos que piensan, como Chomsky, que las
+distintas facultades de la mente poseen caracteristicas particulares que
+estan en buena medida genéticamente predeterminadas y que se des-
+arrollan de manera idiosincrasica. En lo que al lenguaje respecta, dé-
+cadas de estudios gramaticales, siglos en realidad, sobre las intrinca-
+das propiedades de las lenguas y del lenguaje no dejan mucho margen
+pata la duda acerca de lo que Newmeyer (1998) denomina «la auto-
+nomia de la gramatica como sistema cognitivo». Recordemos tan solo
+una de las propiedades especificas del lenguaje. En lugar de regirse
+por criterios aritméticos o de disposicién lineal mucho mas simples,
+las operaciones de la sintaxis «dependen de la estructura», es decir,
+son sensibles en todas las lenguas a las complejas relaciones jerarqui-
+cas que las unidades de una expresidn lingtiistica establecen entre si.
+Veamos un ejemplo”:
+
+(1) a. Ese hombre.leia el periodico.
+b. Leia el periddico ese hombre.
+c. {Qué lefa ese hombre?
+d. *;Qué ese hombre leia?
+
+Como muestra el contraste de gramaticalidad entre (1c) y (1d), se
+produce una inversion obligatoria del sujeto y el verbo en (buena par-
+te de) las oraciones interrogativas.parciales del espafiol,.de manera
+que el verbo se sitia inmediatamente a la derecha del pronombre in-
+terrogativo. Pero, para aplicar correctamente esta tegla, és necesario
+poder distinguir el verbo de la oracién principal de los verbos de las
+oraciones subordinadas, e identificar, ademas, e] conjunto de picezas
+léxicas que forman el sujeto de la oracién, es decir, se debe poder
+disponer de nociones estructurales como «oracién principal», «ora-
+cion subordinada» 0 «sujeto de la oracién»; de lo contrario, se obten-
+drian resultados agramaticales como el de (2c):
+
+39 Un asterisco elevado a la izquierda de una oracién o una construccién indica
+que esta es agramatical, esto es, que no esta bien formada en la jengua en cuestién.
+
+(2) a. [El hombre que escuchaba la radio] lefa el periddico.
+b. {Qué /eia [el hombre que escuchaba ta radio] _ _?
+c. *¢Queé escuchaba [el hombre que _ la radio].leia_?
+
+En (2c), aparece inmediatamente a la derecha del pronombre inte-
+rrogativo el primer verbo de la oracién en lugar del verbo de Ja oracién
+principal, y el resultado es agramatical. Las operaciones del compo-
+nente computacional lingitistico manejan, por tanto, nociones estruc-
+turales como «verbo de la oracién principal», pero no otras, perfec-
+tamente concebibles y mas sencillas, como «primer verbo» 0 «verbo
+mas cercano».
+
+Junto a «pruebas internas» come la anterior, lo bastante conclu~”
+
+yentes ya por si mismas, son numerosas también las «pruebas exter-
+nas» que indican que el «érgano mental del tenguaje» es auténomo””.
+Entre estas Ultimas, resultan especialmente relevantes para demostrar
+que dos capacidades cognitivas son independientes los casos que se
+conocen como «disociaciones dobles», en los cuales un paciente tiene
+deteriorada una determinada capacidad cognitiva mientras consérva
+otra intacta, y un segundo paciente no presenta alteraciones en la pri-
+mera capacidad a la vez que ha perdido, en mayor o menor grado, la
+segunda. Como veremos brevemente a continuacién, se han descrito
+casos de disociaciones dobles entre el lenguaje y otras. facultades
+mentales, al menos, en las patologias. del desarrollo y en los trastornos
+que se producen a raiz bien de una lesion, bien de un.déficit genético,
+
+Estan documentados, en primer lugar, casos claros de disociacio-
+nes dobles entre los trastornos mentales y los trastornos del lenguaje
+que son el resultado de una lesi6n, esto es, casos de individuos con el
+resto de las capacidades cognitivas intactas y con una perturbacion
+
+#° Pueden encontrarse revisiones recientes -de los diferentes tipos de pruebas ex-
+ternas en favor de la tesis de la especiticidad de dominio en Belinchén (1995) y
+Fromkin (1997).
+
+
+38 ' El organo mental del lenguaje
+
+Estudio del lenguaje desde una perspectiva internista 39
+
+especifica del lenguaje (v.g., agramatismo) e individuos con alguna
+capacidad cognitiva deteriorada, pero con el lenguaje intacto*!.
+
+Por otro lado, en las ultimas décadas se han Ilevado a cabo estu-
+dios muy detallados sobre casos de patologias en el desarrollo que
+manifiestan bien una alteracién especifica en la adquisicién de la
+gramatica, bien una conservacién, también especifica, de los conoci-
+mientos gramaticales. Entre los primeros, el caso mas conocido es el
+de «Genie», una «nifia salvaje» moderna que fue descubierta en 1970
+cuando tenia trece afios y medio. En todo ese tiempo, la nifia habia es-
+tado encerrada en una habitacion de la parte trasera de su casa, de
+manera que no habia podido escuchar ningun tipo de estimulo lin-
+giiistico; ademds, los miembros de su familia nunca le habian dirigido
+la palabra y habia sido nialtratada con frecuencia. Genie desarrollé
+rapidamente habilidades viso-espaciales y de inteligencia operacional
+y, con la ayuda de los investigadores, a los pocos meses comerizé a
+aprender vocabulario de distintas clases y a combinar palabras for-
+tmando expresiones con contenido proposicional, péro, tras ocho ‘afios
+de sesiones agotadoras, sus producciones lingijisticas seguian estando
+mal formadas gramaticalmente, con multitud de errores sistematicos
+en aspectos basicos de la morfologia flexiva y de la sintaxis del in-
+glés®?
+
+Los resultados de las. investigaciones sobre casos de «nifios salva-
+jes» deben ser juzgados, no obstante, con cautela, ya que, debido a la
+falta de controles en los primeros afios de vida, no es posible ‘descar-
+tar con absoluta seguridad que el deterioro de las capacidades grama-
+ticales sea, en realidad, una consecuencia de los gravisimos trastornos
+emocionales e intelectivos provocados por las extremas ‘condiciones
+de vida que ha tenido que soportar el nifio. Por ello, resultan mas fia-
+bles los casos contrarios de personas mentalmente retrasadas sin pro-
+blemas lingilisticos, ya que, normalmente, su evolucién esta registra-
+
+*! Sobre trastomos especificos del lenguaje que son el resultado de una lesién,
+véase, v.g., Caplan (1987).
+Cf. Curtiss (1977; 1988).
+
+da desde la infancia. Uno de estos casos es el de Christopher, un sa-
+vant con un retraso intelectual grave, pero con habilidades lingiisti-
+cas fuera de lo comin, que ha sido estudiado durante afios por Smith
+y Tsimpli“. Christopher tiene un cociente intelectual no verbal cla-
+ramente por debajo de la media y vive en una instituci6n porque no es
+capaz de cuidar de si mismo (su coordinacién éculo-manual, pot
+ejemplo, es muy pobre, de manera que a duras penas puede afeitarse
+
+0 abrocharse un boton); sin embargo, lee, escribe y se comunica en’
+
+unas quince lenguas y traduce al inglés pasajes escritos en estas len-
+guas a la velocidad a la que se leerian en voz alta.
+
+Existen también, finalmente, disociaciones dobles entre déficits
+genéticos, como la que resulta de la comparacién de los efectos del
+sindrome de Williams y de la disfasia genética**, Los individuos
+afectados por el sindrome de Williams, por lo general, presentan un
+retraso mental leve o moderado con un cociente intelectual medio de
+60-70 mientras que sus habilidades lingilisticas, en especial las sin-
+tacticas, permanecen intactas (ademas de tener unas caracteristicas
+fisiolégicas peculiares: sus rasgos faciales recuerdan a los de los
+gnomos, sufren de problemas cardiovasculares y estan especialmente
+dotados para la musica, quizis como consecuencia de su hipersensibi-
+Iidad acustica). Las personas con disfasia genética, por el contrario,
+manifiestan trastornos especificos del lenguaje. Uno de los casos me-
+jor estudiados de disfasia genética se conoce en la bibliografia como
+«la familia K»“’. Todos los miembros afectados de esta familia (16 de
+30 en tres generaciones) tienen un cociente intelectual normal, pero
+cometen sistemdticamente los mismos tipos de errores gramaticales:
+suprimen o confunden los morfemas flexivos que deben adjuntarse a
+
+® Cf. Smith y Tsimpli (1995). Otro conocido caso de conservacién especifica de
+las habilidades lingiiisticas en el desarrollo es el de Laura (cf. Yamada, 1988, 1990).
+
+“ Sobre el sindrome de Williams, véase Smith (1999: 24 y las referencias alli ci-
+tadas); sobre la disfasia genética véase, v.g., Watkins y Rice (eds.) (1994) y Leonard
+(1997) (cf. también la discusion y las referencias de. Newmeyer, 1998: 90-94, Smith,
+1999: 129-131 y Jenkins, 2000: Cap. 4).
+
+4 Cf Gopnik y Crago (1991) y Crago y Gopnik (1994).
+
+
+40 El érgano mental del lenguaje
+
+las. bases léxicas, sin que la pérdida de marcas de tiempo, por ejem-
+plo, implique que no sean capaces de representar mentalmente nocio-
+nes como la de pasado o futuro (dado que utilizan correctamente los
+adverbios temporales).
+
+Casos de disociaciones dobles como los que hemos resefiado mues-
+tran bien a las claras que existe un dominio lingilistico auténomo, que
+puede quedar dafiado selectivamente como resultado de una lesion,
+que se desarrolla de manera independiente y que. se ve afectado por
+déficits genéticos especificos. Debe advertirse, no obstante, que del
+hecho de que el lenguaje constituya un dominio especifico no se de-
+duce que no comparta ninguna propiedad con otros dominios, y mu-
+cho menos que no esté conectado con. ellos (véase el Capitulo 3). Ei
+que el lenguaje sea aut6nomo tampoco implica que tenga que ser ne-
+cesariamente un «mddulo», en el sentido en el que Jerry A. Fodor
+(1983) emplea este termino**.
+
+En The Modularity of Mind, expone Fodor una teoria de la mente
+basada en la distincién entre un lnico sistema cognitivo central y
+varios sistemas de entrada. E] sistema central se ocuparia de 1a reso-
+lucién de problemas y del pensamiento -racional, y careceria practi-
+camente de estructura, ya que se suele resolver problemas de cual-
+quier tipo recurriendo a distintas clases de conocimiento (un sonido,
+un olor 6 una imagen nos sirven para evocar el mismo recuerdo, por
+ejemplo). Por otra parte, cada uno de los sentidos constituiria un sis-
+tema de entrada.distinto, un «médulo», con cuya informacion se ali-
+menta el sistema:central. Los modulos.fodorianos retinen las siguientes
+caracteristicas: (a) constituyen «dominios» especificos, (b) realizan
+tareas especiales, (c) funcionan de manera rapida y obligatoria, (d) se
+
+46 Sobre las diferencias y las semejanzas entre los «dominios» chomskianos y los
+«modulos» fodorianos, consultese, v.g., Cela Conde y Marty (1998: 15-27), Demonte
+(1995: 444 y ss.; 1999: xviii y ss.), Fodor (1983), Higginbotham (1987b}, Karmiloff-
+Smith (1992: 23) y Smith (1999: 17-20). Chomsky, en el modelo de los Principios y
+los Parametros, emplea también el término «médulo» para referirse tanto a los niveles
+como a las subteorias de la gramatica, contribuyendo asi a que la confusién termino-
+iégica sea alin mayor.
+
+Estudio del lenguaje desde una perspectiva internista 41
+
+materializan en zonas especificas del cerebro, (e) estan predetermina-
+dos genéticamente en parte, y (f) operan sin admitir injerencias ni de
+otros médulos, ni del sistema central (i-e., estan «encapsulados-infor-
+mativamente»)“’. Pues bien, para Fodor, el lenguaje seria un «mddu-
+lo» mas. Sin embargo, no es exactamente esta la idea que Chomsky
+tiene de la arquitectura de ia mente. Como hemos visto, es cierto que
+el lenguaje posee propiedades especificas, que se localiza en determi-
+nadas zonas del cerebro y que est4 parcialmente premodelado de ma-
+nera innata, pero no parece ni que su funcionamiento sea siempre ra-
+pido y obligatorio, ni que esté «encapsulado» por completo. Y lo que
+es alin mas importante: el lenguaje es tanto un sistema de entrada co-
+mo un sistema de salida, y ambos sistemas estan obligatoriamente in-
+terconectados a través del sistema central (nadie entiende una lengua
+y habla otra distinta). Por tanto, determinados subcomponentes de
+nuestro conocimiento lingtiistico pertenecerian al sistema central, con
+lo cual dicho sistema tendria bastante més estructura que la que Fodor
+le atribuye *.
+
+1.2.1.2. Competencia y actuacion
+
+La segunda idea basica de Chomsky sobre ef conocimiento lin-
+giiistico de los hablantes no es nada novedosa en realidad: al afirmar
+que debe establecerse una clara distincién entre la competencia y la
+actuacién lingiisticas, entre «saber una lengua» y «usar una len-
+gua»*?, Chomsky se limita a reformular desde una perspectiva inter-
+nista una de las premisas fundamentales de as investi gaciones grama-
+
+47 La ilusién Optica de Miiller-Lyer es un caso cldsico de encapsulamiento infor-
+mativo de los sistemas de entrada: aunque sepamos, porque las hemos medido, que
+dos flechas —una con las puntas hacia afuera y otra con las puntas hacia adentro—
+tiencn la misma longitud, scguimos viendo como mas larga la primera. :
+
+® Cf. Chomsky (1986a: 14, nota 10; 1995b: 12; 1998a: nota 2).
+
+© Cf, v.g., Chomsky (1964: 12; 1965: 5-6). «Los términos ‘competencia’ y ‘ac-
+tuacién’ no aparecen ni en LSLT ni en ES, pero la distincién esta clara» (Chomsky,
+1955/75: 7). Bosque (1998) y Newmeyer (1998) exponen con claridad las motivacio-
+nes y el alcance de esta distincién.
+
+42 ’ El érgano mental del lenguaje
+
+ticales de todos los tiempos. Hemos visto ya una de las razones que
+justifican esta dicotomia cuando hablabamos de la caracterizacidn de
+los sistemas lingtiisticos como lenguas-I(ntensionales) (cf. §1.1.1.2.):
+para poder explicar la propiedad de Ja infinitud discreta, debe supo-
+nerse que los hablantes poseen un «programa mental» con el que
+construyen un numero infinito de expresiones a partir de un nimero
+finito de unidades lingiiisticas. Por otro lado, la distincién entre el co-
+nocimiento tacito que los hablantes tienen de su lengua y el uso del
+lenguaje en situaciones reales concretas resulta especialmente ade-
+cuada para captar e] hecho de que en este ultimo entran en juego nu-
+merosos factores de distinta naturaleza —la velocidad de las emisio-
+nes, la intencionalidad de los habiantes, el grado de atencion o de
+interés, las limitaciones de la memoria, el funcionamiento de los me-
+canismos articulatorios o perceptivos, etc.— que no afectan al cono-
+cimiento gramatical en si mismo. Asi por ejemplo, en todas las len-
+guas las frases se pueden combinar de manera «recursiva»; es decir,
+como si de mufiecas rusas se tratara, es posible insertar dentro de una
+frase otra frase del mismo tipo, como en (3b), donde una oracién de
+relativo aparece dentro de otra oracidn de relativo, Esta operacion de
+la gramatica mental, a priori, nos permite incrustar oraciones de rela-
+tivo dentro de oraciones de relativo tanto «a la derecha» (cf. (3b)),
+como «en el centro» (cf. (3d)). Sin embargo, nos cuesta producir o
+entender oraciones con incrustaciones en el centro, como la de (3d),
+una oracién que seria gramatical (ya que se obtiene como resultado de
+una operacién de la gramatica), pero que resulta inaceptable (dado
+que su procesamiento en situaciones reales seria, como poco, proble-
+matica):
+
+(3) a. El queso [que estuvo royendo el ratén] estaba duro.
+b. El queso [que estuvo royendo el raton [al que perseguia el
+gato}] estaba duro.
+c. El queso [que el] ratén estuvo royendo] estaba duro.
+d. #E1 queso [que el ratén [al que perseguia el gato] estuvo ro-
+yendo]] estaba duro.
+
+Estudio del lenguaje desde una perspectiva internista 43
+
+Los estudios sobre lesiones cerebrales nos proporcionan otro tipo
+de prueba en favor de la distincién entre competencia y actuacién, ya
+que los mecanismos de ejecucién pueden quedar dafiados selectiva-
+mente, incluso de forma grave, sin que este hecho repercuta‘en el sis-
+tema cognitivo lingilistico. Chomsky ilustra este hecho con un caso
+hipotético y una pregunta retérica: «Imaginemos a una persona que
+sabe inglés y que sufre una lesién cerebral que no afecta en absoluto a
+los centros del lenguaje, pero que impide que estos se puedan usar pa-
+ra hablar, entender, e incluso pensar. Supongamos. que los efectos de
+la lesibn desaparecen y que, sin tener ninguna otra experiencia lin-
+gilistica, esta persona recupera la capacidad de usar su lengua... ¢Sa-
+bia inglés dicha persona durante. el. periodo intermedio?»*°. Para
+Chomsky no cabe duda de que la respuesta a esta pregunta es afirma-
+tiva.
+
+Quizas no esté de mas aclarar varios puntos para cerrar este sub-
+apartado, ya que pocos aspectos del pensamiento lingiiistico de Chom-
+sky han sido tan controvertidos como el que estamos tratando. En
+primer lugar, la distincién entre competencia y actuacién no es una
+idealizacién contrafactica, como la del hablante- -oyente ideal por ejem-
+plo (cf. §1.1.2.2.), sino una hipotesis empirica avalada, como acaba-
+mos de ver, por pruebas tanto internas como externas. En segundo lu-
+gar, las dicotomias competencia/actuacién y lengua-I/lengua-E (cf.
+§1.1.1.2.) no son equivalentes*!: por un lado, la noci6n de competen-
+cia incluye tanto a la «competencia gramatical» como ala «compe
+tencia pragmatica», mientras que el término técnico «lengua-L» hace
+referencia tan sdlo a la competencia gramatical; por otro Jado, en la
+actuacién no sdlo registramos los enunciados que pueden producirse
+en una comunidad lingtiistica (la lengua-E), sino que nos encontra-
+mos también con pausas, fragmentos, falsos comienzos, anacolutos,
+oraciones agramaticales, etc. En tercer lugar, separar la competencia
+de la actuaci6n, y centrarse en la competencia (gramatical), no quiere
+
+°° Cf. Chomsky (1980a: 60-61) fla traduccién es nuestra.
+Ser Smith (1999: 37).
+
+esecceececcsccsscsecccscosscoscoes
+
+
+44 El érgano mental del lenguaje
+
+Estudio del lenguaje desde una perspectiva internista 45
+
+decir que no haya factores sistematicos en la actuaci6n que merezcan
+ser investigados (Chomsky siempre ha pensado que el estudio de la
+competencia gramatical debe ir acompafiado de la elaboracion de una
+teoria del uso del lenguaje que dé cuenta de la competencia pragmati-
+ca de los hablantes)**. Finalmente, el que existan fendmenos lingilis-
+ticos que estan a medio camino entre la competencia gramatical y la
+competencia pragmatica,.como las relaciones anaféricas por ejemplo,
+no cuestiona en absoluto Ja distinci6n que.estamos comentando: nos
+moveriamos siempre dentro de los limites.de la competencia (ademas,
+una de las tareas mas interesantes para el lingitista es, precisamente,
+la de tratar de descubrir qué aspectos de un determinado: fendmeno
+lingliistico pertenecen a la competencia gramatical y cuales a la com-
+petencia pragmatica, y ver cOmo se complementan).
+
+1.2.1.3. Representaciones y computaciones
+
+La lingiiistica chomskiana nace dentro del ambiente intelectual
+creado por «la revolucién cognitiva de los afios 50» (cf., v.g., Chom-
+sky, 1991a). En esa década reaparecen los postulados mentalistas y
+racionalistas de «la primera revolucién cognitiva del’ siglo xv} re-
+forzados ahora por los incipientes pero significativos avances que se
+estaban produciendo en la psicologia de la Gestalt, en inteligericia ar-
+tificial, en neurologia y en genética. Con el paso de los afios, aquellas
+primeras propuestas han ido tomando cuerpo, se han ido refinando
+hasta conformar un nuevo y dindmico campo de estudio, el campo de
+las llamadas «ciencias cognitivas», una macrodisciplina en la que tie-
+nen cabida, entre otras, subdisciplinas como la psicologia cognitiva,
+los estudios sobre inteligencia artificial, la lingiiistica de corte inter-
+nista y las llamadas «neurociencias» *.
+
+2 Cf, v.g., Chomsky (1965: 5-6; 1980a: 235 yss.).
+
+53 En Posner (1989) se nos ofrece una panoramica muy detallada de las distintas
+ciencias cognitivas. Véase, mas recientemente, Lepore y Pylyshyn (1999) y Cummins
+y Deliarrose Cummins (2000).
+
+Estas disciplinas, tan distintas en sus objetivos, comparten dos ca-
+racteristicas que las unifican. Conocemos ya la primera de ellas: al
+igual que en la lingiiistica chomskiana se prima el estudio de !a com-
+petencia sobre el estudio de la actuacién, en el resto de las ciencias
+cognitivas asistimos también a un cambio de perspectiva desde un
+punto de vista externista (centrado en las conductas en si mismas) a
+otro interinista (que realza el papel de los mecanismos mentales que
+
+subyacen a las conductas). La segunda caracteristica comun a todas
+
+las ciencias cognitivas es su concepcién computacional del cerebro: la
+idea de que los sistemas cognitivos son, basicamente, mecanismos
+computacionales, es decir, conjuntos de algoritmos bien definidos que
+conectan determinados materiales de entrada (0 «inputs») con deter-
+minados materiales de salida (0 «outputs»)**. Para Chomsky, Ja gra-
+matica mental de los hablantes consiste también en un conjunto de al-
+goritmos que, en este caso, realizan cOmputos sobre un nimero finito
+de unidades lingiiisticas (0 de conjuntos de unidades lingtiistivas) para
+producir un niimero infinito de expresiones lingiiisticas. Ahora bien,
+el computacionalismo chomskiano es de naturaleza simbélica, esto es,
+los distintos tipos de algoritmos (sean estos reglas, operaciones ©
+condiciones de buena formacidn) operan sobre representaciones men-
+tales, esto es, sobre conjuntos estructurados de simbolos o unidades
+portadoras de informacion™: por poner un ejemplo sencillo, un algo-
+ritmo de la gramatica mental (la operacién de Ensamble del Programa
+Minimista; cf. §3.3.) tomaria como input dos representaciones lin-
+gilisticas (dos conjuntos de conjuntos de simbolos fonéticos, formales
+y semanticos), v.g., las unidades léxicas «este» y «libro», y produciria
+como output otra representacién lingiiistica parcialmente distinta (el
+
+54 Sobre computaciones (y representaciones) en las ciencias cognitivas, consiltese
+Pylyshyn (1984, 1989).
+
+55 E] término «representaciém no se utiliza aqui con su acepcién habitual en las
+teorias del significado y la referencta, segtin Ja cual una expresin lingtistica «repre-
+senta» un objeto del mundo. Una «representacién», en las teorias computacionales, es
+un conjunto de unidades que contienen informacién de algun tipo: asi, por ejemplo,
+«una representacién fonética» no es mas que un conjuito de rasgos fonéticos.
+
+|
+
+
+46 ' El organo mental del lenguaje
+
+Estudio del lenguaje desde una perspectiva internista 47
+
+constituyente «este libro»). Una de las ventajas de los modelos com-
+putacionales simbolicos, frente a alternativas computacionales no
+simbélicas como fa conexionista**, es que nos permiten dar cuenta de
+propiedades esenciales del sistema cognitivo lingiiistico, como la sis-
+tematicidad, la infinitud discreta, la recursividad o la dependencia de
+Ja estructura. De ahi que Chomsky siempre haya caracterizado las
+lenguas-I como modelos computacionales simbédlicos.
+
+1.2.1.4. Autonomia de la sintaxis
+
+Al final del segundo capitulo de Estructuras sintacticas (ES), ha-
+ce Chomsky una de sus afirmaciones mas rotundas y polémicas: «La
+sintaxis es auténoma e independiente del significado». Esta afirma-
+cién ha sido mal interpretada a menudo, probablemente por haber si-
+do sacada fuera de contexto. En varios pdrrafos del mismo libro,
+Chomsky deja claro que de «ia tesis de la autonomia de Ja sintaxis»
+no se sigue ni que no sea interesante investigar el significado o el uso,
+ni que no existan relaciones sistematicas entre la forma lingiifstica y
+el significado o la funcién; en Aspectos reconoce ademas explicita-
+mente que, en algunos casos, el significado o la funcién pueden. con-
+dicionar la forma, como sucede con el orden lineal de los miembros
+de una consiruccién coordinada, que refleja icénicamente el orden
+temporal del discurso. Para comipreénder, en cambio, la «tesis de la au-
+tonomia» ety sus justos términos, debemos situarla en el’ contexto en
+el que surge. La idea de que la’ sintaxis iy la forma en general) « si
+dependiente del significado (y del uso) se formula en ES én el marcd
+de una discusién sobre la posibilidad de identificar nociones formales
+como «sujeto» u «oracién gramatical» con nociones semanticas como
+«agente» u «oracién dotada de significado». Dado, por ejemplo, que
+Jos sujetos no son siempre agentes y que pueden existir oraciones sin
+sentido que estén bien formadas gramaticalmente (como la ya famosa
+
+—_—
+
+56 Sobre las diferencias entre los modelos de computacién simbélica y los modelos
+cOnexionistas, véase, v.g., Smolensky (1994), Demonte (1995: 454, nota 7), Chomsky
+(1998a: 22) y Cela Conde y Marty (1998: 36).
+
+Las ideas verdes incoloras duermen furiosamente), Chomsky llega a
+la conclusion de que no es posible reducir totalmente Jas nociones
+formales a nociones semanticas, de tal manera que para describir ade-
+cuadamente determinadas parcelas centrales del conocimiento lin-
+giistico de los hablantes, resulta imprescindible disponer de nociones
+puramente formales.
+
+El que la sintaxis sea auténoma no implica, por tanto, que esté
+aislada: es incuestionable que vinculos muy fuertes unen a la forma y
+al significado (o la funcién), y que el significado (y la funcidn) ejer-
+cen cierta influencia sobre la forma. Lo que la tesis de la autonomia
+dice es, simplemente, que las gramaticas mentales contienen un con-
+junto de primitivos, de operaciones combinatorias y de principios que
+no se pueden derivar de nociones semanticas o discursivas*”. Asi las
+cosas, en palabras del propio Chomsky (1975b: 55), «la cuestion sig-
+nificativa con respecto a la tesis de la autonomia puede no ser una
+cuestién de ‘si’ o ‘no’, sino mas bien de ‘mas’ 0 ‘menos’, o de un
+modo mas correcto, de ‘dénde’ y ‘cudnto’»**. La tesis de la autono-
+mia de la sintaxis es, en definitiva, una cuestién empirica. ,
+
+1.2.2. ApquisicION Y EVOLUCION DEL LENGUAJE
+
+Nadie pone en duda hoy en dia que la anatomia de un sistema
+corporal es, basicamente, un producto de la dotacién genética. En
+consecuencia, el estudio de Ja estructura de un organo del cuerpo esta
+estrechamente relacionado con las investigaciones sobre su desarrollo
+en el individuo y su evolucién en la especie. Del mismo modo, si
+quiere ser consecuente, el lingilista que concibe el lenguaje como un
+organo de la mente no puede limitarse a describir las propiedades de
+las gramaticas mentales en si mismas; debe tratar de resolver ademas
+
+57 Sobre la tesis de ta autonomia de la sintaxis, véase Chomsky (1955/75: 18-21;
+1957; 1975b), Botha (1989: 117 y ss.) y Newmeyer (1983: 1.3.; 1994; 1998: 23-55).
+38 Cf. Chomsky (1975b: 55).
+
+EUR ECR EERE EAE
+
+
+© 0S OOOH OTSHEHOH HSE HEHOOHHHSHOOOCOOS
+
+48 El organo mental del lenguaje
+
+Estudio del lenguaje desde una perspectiva internista 49
+
+otros dos enigmas: ,como adquieren los nifios su lengua niaterna?;
+gc6mo ha surgido la facultad del lenguaje en la especie? Chomsky
+cree que la primera de estas preguntas tiene respuesta, y la encuentra
+en la tradicién racionalista; piensa, sin embargo, que la ausencia de
+pruebas directas sobre la aparicién del lenguaje en el curso de la evo-
+lucién hace que las respuestas a la segunda pregunta, por lo general,
+no pasen de ser meras especulaciones.
+
+1.2.2.1. Elinstinto del lenguaje
+
+Como es de sobra conocido, existen dos grandes tradiciones epis-
+temoldgicas en el pensamiento occidental: para los racionalistas, la
+informacién sobre el mundo externo que percibimos a través de los
+sentidos activa ideas y principios innatos, que son los que, en ultima
+instancia, determinan la forma de los conocimientos adquiridos. Los
+empiristas, por su parte, sostienen que la estructura y el contenido de
+los procesos cognitivos superiores se derivan basicamente de la expe-
+riencia y que las disposiciones innatas consisten tan solo en simples
+procedimientos inductivos. Dado que los racionalistas atribuyen un
+papel relevante a la experiencia, y los empiristas reconocen que sin
+contar con mecanismos innatos no puede producirse aprendizaje al-
+guno, no deberia hablarse, en sentido estricto, de un enfrentamiento
+entre enfoques innatistas y anti-innatistas: de lo que se trata no es de
+defender o negar la existencia de una naturaléza humana, sino de
+plantear hipotesis especificas, en dominios especificos, acerca del pe-
+so relativo del ambiente y de lo innato”. Y esto es precisamente lo
+que ha de hacerse también a la hora de dar cuenta de como adquiére
+un nifio su lengua materna. Asi, un modelo de la adquisicién del len-
+guaje como el de (4a), en el que se prescinde de cualquier tipo de dis-
+posicién innata es, simplemente, falso (ya que ni tan siquiera recoge-
+ria el hecho de que el lenguaje es exclusivo de la especie), y solo’ nos
+quedaria escoger entre un modelo empirista como el representado en
+(4b), que introduce mecanismos innatos de «inteligencia general» pa-
+
+° Cf, v.g., Chomsky (197Sa: 13 y 216; 1991a: 15; 1992b: 17; 1994b: 153).
+
+|
+
+ra la formacion y confirmacion de hipotesis, la induccidén, la analogia
+o la generalizacién, y un modelo racionalista como el de (4c), en el
+que desempefia un papel central una facultad del lenguaje con un con-
+tenido especifico y estructurado:
+
+Experiencia lingiiistica |——-|_ Conocimiento lingitistico
+
+Inteligencia generall —-———»| Conocimiento lingilistico
+
+(4) a.
+
+Experiencia lingiistica
+c. |Facultad del lenguaje |_| Conocimiento lingiiistico
+
+Experiencia lingiiistica
+
+_E] modelo racionalista de la adquisicién del lenguaje de (4c) es
+uno de los pilares mas solidos del pensamiento lingitistico chomskia-
+no. En el §1.1.1.1., haciamos mencién de un primer tipo de evidencia
+en favor de este modelo, el «argumento de la pobreza del estimulo»,
+que reproducimos de nuevo: la contradiccion que existe entre la po-
+breza de los datos lingilisticos a los que se ve expuesto el nifio que
+adquiere su lengua materna y la riqueza del conocimiento lingitistico
+resultante se resuelve si suponemos que el nifio posee una rica capa-
+cidad innata para el lenguaje. Pero no entrabamos entonces en deta-
+iles. Ahora, con el fin de poder apreciar mejor la fuerza de este argu-
+mento, quisiéramos precisar qué se entiende por «pobreza de la
+
+experiencia lingiiistica» en la adquisicién del lenguaje®. oi
+
+6 Sobre los distintos tipos de argumentos en favor de la existencia de una facultad
+del lenguaje innata, especifica de la especie y ricamente estructurada véase reciente-
+mente Pinker (1994: Cap. 4), Lightfoot (1999: Cap. 3) y Jenkins (2000: Cap. 3). En
+Smith (1999; 169-174) se discuten los argumentos «anti-innatistas».
+
+2s.
+
++
+
+“el
+
+
+50 ' El 6rgano mental del lenguaje
+
+Estudio del lenguaje desde una perspectiva internista
+
+Lia experiencia lingiiistica del nifio que esta aprendiendo su len-
+gua materna es pobre, en realidad, en tres niveles distintos: lo es por
+imperfecta, lo es también en tanto que limitada y lo es, incluso, por-
+qué en ocasiones ni tan siquiera existe. En primer lugar, entre los da-
+tos lingilisticos que percibe a su alrededor hay toda una serie de ex-
+presiones degeneradas (falsos comienzos, interrupciones, anacolutos,
+etc.) y, sin embargo, el nifio, a partir de cierta edad, no suele hablar de
+manera fragmentaria, sino que emite sistemdticamente oraciones
+gramaticales completas. Este hecho pone en entredicho un modelo
+empirista de la adquisicién del lenguaje como el de (4b), que recurre
+a mecanismos como la analogia y la generalizacién para dar cuenta de
+las expresiones inéditas que produce el nifio que aprende su lengua
+materna, ya que deberia explicar por qué este no generaliza a partir de
+las expresiones incompletas o imperfectas y solo lo hace a partir de
+expresiones gramaticales completas. Para un modelo como el de (4c),
+no existe tal problema: su dotacién genética para el lenguaje le permi-
+te al nijio distinguir entre oraciones y pseudo-oraciones.
+
+En segundo lugar, los nifios escuchan un namero finito (i.e., limi-
+tado) de expresiones, pero son capaces de producir y comprender un
+niimero potencialmente infinito de construcciones complejas nuc-
+vas°', Ciertamente, en este caso, podria decirse, de entrada, que los
+nifios construyen oraciones nuevas por analogia con las que ya cono-
+cen, Sin embargo, la cuestién es, de nuevo, por qué hacen ciertas ge-
+neralizaciones y no otras. llustraremos este problema con un ejemplo:
+
+6 Se han estudiado casos extremos de pobreza de los datos en este sentido, como el
+de la criollizacién de un pidgin por parte de unos nifios en edad de aprender su lengua
+materna, quienes, a pesar de estar aislados de sus padres y de ser atendidos por alguien
+que solo Jes hablaba en pidgin, fueron capaces de construir una lengua gramaticalmente
+compleja, o el de los nifios sordos hijos de padres no sordos, que, a partir de] rudimenta-
+rio Sistema de signos que habian aprendido de sus padres, desarrollaron otro mucho mas
+estructurado y flexible (véase Pinker, 1994: 33 y ss. y 38 y ss. y las referencias alli cita-
+das).
+
+(5) Ana ha visto el Rey Leon.
+iQué pelicula ha visto Ana __?
+(Maria me ha dicho [que Ana ha visto el Rey Ledn]].
+([Qué pelicula te ha dicho Maria [que ha visto Ana__]]? |
+{He conocido a la nifia [que ha visto el Rey Ledn]].
+
+*(4Qué pelicula has conocido a la nifia {que ha visto__]]?
+
+> o Bo oP
+
+Entre los datos lingilisticos que oyen a su alrededor los nifios que
+adquieren el espafiol como lengua’ matema se encuentran, sin duda,
+oraciones interrogativas parciales como las de (5b), pero quizés no
+escuchen nunca otras mas complejas, como la de (5d), en la que la
+frase interrogativa qué pelicula se interpreta semanticamente como el
+objeto directo del verbo de la oracién subordinada sustantiva. Y sin
+embargo, los nifios producen oraciones como estas de manera espon-
+tinea. Se podria pensar, a primera vista, que lo hacen por analogia
+con datos como los de (5b), pero el problem; esté en que, si solo se
+emplean simples mecanismos de analogia y generalizacién, no hay
+forma de saber por qué no sobregeneralizan y producen también una
+oracién agramatical como la de (5f), en la que la frase interrogativa
+cumple la funcién semantica de objeto en la oracién de relativo que
+esta incrustada dentro de la oracién principal.
+
+El caso mas extremo y decisivo de’ «pobreza de la experiencia
+lingUistica» es, finalmente, aquel en el que una parte sustancial de los
+datos lingilisticos primarios.para la adquisicién del Jenguaje, simple-
+mente, no existe: un nifio de pocos afios es capaz, por ejémplo, de
+emitir juicios de gramaticalidad sobre oraciones como (5d) y (Sf) sin
+que se le haya instruido al respecto; es decir, sabe qué oraciones son
+posibles y cuales imposibles sin disponer en su entorno lingtiistico de
+datos negativos directos (i.c., nadie le dice al nifio qué combinaciones
+de palabras estan ma! formadas en su lengua).
+
+Por otro lado, quienes proponen un modelo racionalista de la ad-
+quisicion del lenguaje como el de (4c) predicen que deberia haber ca-
+sos de individuos con déficits de origen genético que afecten a sus
+capacidades lingiiisticas sin que se vean alteradas sus habilidades de
+
+C0000 OOOF OCHO OHHSEHHHHHHHHSHHHEOCOHO
+
+
+COCCOHHOHOHOCOE OOOH OEOEOHOOEHOEOOOOEOOS
+
+52 El organo mental del lenguaje
+
+inteligencia general. Esta prediccién se ha cumplido: existen, cierta-
+mente, casos de lo que se conoce como «disfasia genética», que han
+sido estudiados con detalle en los ultimos afios (cf. §1.2.1.1.). El mo-
+delo de adquisicién del lenguaje representado en (4c) recibe, de este
+modo, un aval independiente.
+
+Un ultimo tipo de argumento en favor del modelo racionalista de
+adquisicién del lenguaje tiene que ver con ciertas caracteristicas pecu-
+liares del proceso de adquisicién de una lengua materna. Si se supone
+que el nifio, en tanto que miembro de la especie, posee una capacidad
+lingiiistica innata rica, resulta mucho mas facil explicar el hecho de
+que un nifio normal, con independencia de variaciones en los niveles
+de inteligencia y en el ambiente socio-cultural, adquiera una lengua:
+(a) sin prestar atencion y sin costarle ningun esfuerzo, (b) sin que
+realmente se le ensefie a hablar, (c) pasando en general por unos esta-
+dios determinados, (d) en muy poco tiempo (si se compara !a adquisi-
+cién del lenguaje con otros aprendizajes), y (e) en un «periodo criti-
+co», como sucede con otras funciones biolégicas, como el desarrollo
+sexual ©,
+
+Tras haber revisado algunos de los argumentos en favor de la
+existencia de una facultad del lenguaje innata, veamos cémo funcio-
+na, a grandes rasgos, el modelo racionalista de la adquisicién del len-
+guaje de (4c) en su versién chomskiana ®:
+
+(6) |Gramatica Universal }——————_»
+Datos lingtiisticos primarios
+
+62 Hasta los scis afios, el «aprendizaje» del lenguaje esté garantizado; desde esta
+edad hasta la pubertad empieza a haber problemas serios y, a partir de la pubertad, re-
+sulta imposible adquirir aspectos centrales del conocimiento lingilistico (cf. supra el
+caso de «Genie»). En Smith (1999: 120-124) se recogen otros tipos de argumentos en
+favor de la existencia de un periodo critico para la adquisicién del lenguaje.
+
+® Como veiamos en cl §1.1.2.2., el modelo de (6) es un modelo idealizado en el
+que se trata la adquisicion del lenguaje «como si» fuera instantanea.
+
+|
+
+sth b ewe ont
+
+Estudio del lenguaje desde una perspectiva internista 53
+
+E] estadio final del proceso es una lengua-I, esto es, un sistema
+cognitivo lingtiistico, un estado (relativamente) estable de la mente-
+cerebro de un individuo, que consiste, basicamente, como ya sabe-
+mos, en la realizaci6n de computos sobre representaciones lingtiisti-~
+cas. El estadio inicial, la Gramatica Universal, forma parte del geno-
+tipo, y esta compuesta por un conjunto de primitivos, operaciones y
+principios universales que imponen restricciones sobre las lenguas-I
+(esto es, que determinan qué lenguas-I son posibles y cudles no lo
+son). Los «datos lingtiisticos primarios», la limitada, y un tanto cadti-
+ca, experiencia lingiiistica del nifio, completa este «triplete analitico»
+(cf. Lightfoot, 1999), De este modo, un nifio en edad de adquirir su
+lengua materna que oye hablar espafiol a su alrededor por ejempl9,
+con la contribucién de su capacidad innata para el lenguaje, acaba sa-
+biendo espajfiol. Ahora bien, el peso relativo de la experiencia y de las
+disposiciones innatas en este proceso no es el mismo. Como nos en-
+sciian los casos de «nifios salvajes», la presencia de datos lingiisticos
+primarios en el entorno del nifio en edad de adquirir su lengua mater-
+na resulta imprescindible. Sin embargo, la experiencia lingilistica no
+produce el conocimiento lingiiistico final, sino que se limita a actuar
+como un detonante que activa las disposiciones innatas para el, len-
+guaje. En este sentido, el «organo del lenguaje» no se distingue de
+otros Organos: necesitamos tener experiencias visuales, por ejemplo,
+para poner en funcionamiento las estructuras neuronales de la visién
+(si un nifio creciera en total oscuridad no podria ver), pero no «apren-
+demos» a ver en colores o en tres dimensiones. Tampoco «aprende-
+mos», en realidad, a hablar: en palabras del propio Chomsky, «la len-
+gua del nifio ‘crece en la mente’ al igual que el sistema visual
+desarrolla la capacidad de visién binocular 0 el nifio pasa por la etapa
+de 1a pubertad en cierto estadio de maduracién. La adquisicion del
+lenguaje es algo que /e sucede a un nijio en un contexto determinado,
+no es algo que el nifio haga».
+
+64 Cf. Chomsky (1994c: 29) [la traduccién y las cursivas son nuestras]. Son ideas
+como estas las que Pinker (1994) tiene en mente cuando afiema que el lenguaje es un
+
+
+El 6rgano mental del lenguaje
+
+1.2.2.2. El lenguaje como exaptacién evolutiva
+
+, En 1866, la Societé de Linguistique de Paris promulgé unas orde-
+nanzas por Jas que se prohibia toda discusién sobre el origen del len-
+guaje. Chomsky no comparte una actitud tan coercitiva y radical (cree
+que se trata, al fin y al cabo, de un «problema» que quizds se solucio-
+ne algun dia), pero, en las ocasiones en que se ocupa de esta cuestion
+en sus escritos, insiste siempre en que es poco lo que realmente se sa-
+be con certeza acerca de cémo surgi la facultad del lenguaje en la
+especie®. En cualquier caso, lo que si esta claro, para Chomsky, es
+que una propuesta sobre el origen del lenguaje no puede pasar por al-
+to dos hechos fundamentales: en primer lugar, el lenguaje humano
+tiene propiedades definitorias, como la infinitud discreta, que no se
+encuentran, ni tan siquiera en un estadio incipiente, en ningin sistema
+de comunicacion animal; en seguso lugar, el lenguaje es, en parte,
+«disfuncional» ©, ya que ni se usa todo lo que. se puede generar, ni se
+genera todo lo qué se podria usar, como muestran construcciones co-
+mo las de (3d) y (Sf), que réproducimos de nuevo en (7a) y (7b), res-
+pectivamente. Por un lado, los mecanismos que hacen posible Ja infi-
+nitud discreta generan también oraciones que no se pueden usar,
+como fa de (7a), con «recursividad en el centro»; por otro, ciertas Tes-
+tricciones combinatorias especificas del lenguaje bloquean la apari-
+cién de expresiones que si podrian ser usadas (esto es, producidas 9
+comprendidas), como la dé (7b):
+
+«instinto» para los seres humanos, como Jo es, por ejemplo, tejer sus telas para las
+arafias. Con esta afirmacién, sin duda provocativa, se quiere cargar las tintas sobre el
+hecho de que el nifio esté programado genéticamente para adesarrollam una lengua e en
+su mente, . fe
+
+® Sobre las ideas de Chomsky con respecto al origen del Tenguaje, véanse
+Chomsky (1968: 119 y ss.; 1975a: 58-59; 1982a: 22-23; 1988: 166- 170; 1991b: 50;
+
+1995b:; 34-56; 1999b: 138 y ss.). Cf. también Piantelli-Palmarini (1979: 63-64) y Hau-
+ser, Chomsky y Fitch (2002).
+© Cf Lightfoot (1999: Cap. 9).
+
+Estudio del lenguaje desde una perspectiva internista 55
+
+(7) a. #E] queso [que ei raton fal que perseguia el gato] estuvo ro-
+yendo] estaba duro.
+b. *[Qué pelicula has conocido a la nifia [que ha visto__?]]
+(cf. He conocido a la nifia que ha visto el Rey Ledn.)
+
+Estos hechos, piensa Chomsky, son especialmente problematicos
+para las teorias gradualistas y adaptacionistas del origen del lenguaje,
+segun las cuales los sistemas de comunicacién mas primitivos fueron
+ganando paulativamente en complejidad a medida que se producian
+sucesivas mutaciones cuyos resultados aumentaban las posibilidades
+de supervivencia de la especie. Deberia pensarse, por tanto, en una
+propuesta alternativa que explicara no solo que el lenguaje humano
+presenta evidentes ventajas adaptativas, sino también que es un fe-
+némeno cualitativamente distinto en relaciOn con los sistemas de co-
+municacién de los animales, y (parcialmente) disfuncional. Pero, para
+ello, resulta imprescindible adoptar un punto de vistz.-<pluralista» con
+respecto a la evolucién del lenguaje; es decir, se debe utilizar otros
+instrumentos de andlisis, ademas de la mera combinacin clasica de
+las mutaciones al azar y la seleccién natural ®”. En concreto, en opi-
+nién de Chomsky, para dar cuenta de Ja evolucién del lenguaje se
+puede hacer uso de dos ideas que han sido muy fructiferas a la hora
+de esclarecer otros aspectos de la evolucién. La primera de ellas con-
+siste en suponer que leyes fisicas independientes de la seleccion natu-
+ral, como las que regulan las relaciones entre el peso y la estructura
+en todos los seres vivos, por ejemplo, imponen limites al cambio evo-
+lutivo, o provocan, incluso, la aparicién de determinados rasgos sin
+valor adaptativo alguno (como es el caso de ciertas formas geométri-
+cas que se repiten en multitud de organismos no relacionados). La se-
+gunda idea es que, junto a las adaptaciones que se producen con el fin
+
+§7 Discontinuismo y pluralismo parecen ir necesariamente de la mano en la teorias
+sobre la evolucién de las especies. En Rosellé y Sola (1998: 23 y ss.) puede encon-
+trarse una interesante discusién sobre las concepciones gradualistas y discontinuistas
+en la teoria de Ja evolucién (del lenguaje). Lightfoot (1999: Cap. 9} analiza los pros y
+los contras de los enfoques singularistas y pluralistas de ja evolucién (del lenguaje).
+
+ssssceeceseseeseateateaceneaceases
+
+
+56 El érgano menial del lenguaje
+
+inmediato de desempefiar cierta funcién, pueden darse tambiéu en el
+curso de la evolucién «adaptaciones secundarias» (0 «exaptacio-
+nes»), esto es, casos en los que una caracteristica fisica de un orga-
+nismo, que se desarrollé en un principio para satisfacer determinadas
+necesidades, acaba sirviendo para algo bien distinto, como sucedid
+con las alas de los insectos, que inicialmente funcionaban como ter-
+morreguladores y que, una vez alcanzado un tamafio suficiente, se
+emplearon finalmente para volar.
+
+Conjugando todos estos factores —mutaciones al azar, seleccién
+natural, leyes fisicas y exaptaciones evolutivas—, se puede obtener
+una imagen mas ajustada de como pudo haber surgido la facultad del
+lenguaje en !a especie. El proceso seria, aproximadamente, este: su-
+pongamos que, en un punto determinado de nuestra historia evolutiva,
+el cerebro, por razones que se nos escapan (quizés a causa de una mu-
+tacién), aumentd considerablemente de tamajfio, y que esta transfor-
+macién tuvo claras ventajas, todavia no relacionadas con el lenguaje,
+de manera que superé con éxito el filtto de la seleccién natural. Su-
+pongamos, ademas, que este aumento de las dimensiones del cerebro
+trajo consigo la creacién de determinadas condiciones fisicas (total-
+mente desconocidas para nosotros hoy en dia), que provocaron la apa-
+ticién de propiedades inéditas, como la productividad o infinitud dis-
+creta, esto es, la capacidad de combinar’un numero finito de simbolos
+discretos de manera (potencialmente) infinita. En esta primera fase,
+por lo tanto, la propiedad de la infinitud discreta no estaria vinculada
+con el lenguaje, sino que podria estar relacionada con la resolucién de
+otros problemas computacionales, como la cuantificacién numérica.
+Mas adelante, como consecuencia probablemente de nuevas mutacio-
+nes al azar, el cerebro crecid mas aun, y la propiedad de la infinitud
+discreta pasé a utilizarse para pensar, hablar sobre el mundo y comu-
+
+Cf. Gould (1991). Sobre el lenguaje como exaptacién evolutiva, véase Roscllé y
+Sola (1998: 23 y ss.) y Uriagercka (1998: 48 y ss.).
+
+® Creemos que es esta una reconstruccién ficl de las, por lo general, dispersas
+ideas de Chomsky sobre el origen de la facultad del lenguaje en la especie (véanse las
+referencias de la nota 65 y Jenkins, 2000: Cap. 5).
+
+coecceceuveossocossccessovcorcsess
+
+Estudio del lenguaje desde una perspectiva internista 57
+
+nicarmos: un cambio, sin duda, beneficioso para la perpetuacion de la
+especie. El lenguaje humano, en conclusion, seria esencialmente un
+caso de adaptacién secundaria de propiedades combinatorias como la
+infinitud discreta, unas propiedades que habrian surgido, a su vez,
+como un subproducto de las peculiares condiciones -fisicas producidas
+por un crecimiento «explosivo» del cerebro. De esta manera, todas las
+piezas del rompecabezas de Ja evolucion del lenguaje parecen encajar
+en su sitio: el lenguaje es unfenomeno cualitativamente distinto dado
+que «emerge» como resultado de una alteracién abrupta y sustancial
+en el tamafio y la composicion del cerebro; es, ademas, parcialmente
+disfuncional porque algunas de sus caracteristicas mas importantes,
+como la propiedad de la infinitud discreta, quizds no tuvieran valor
+adaptativo alguno en un primer momento; y resulta, por ultimo, espe-
+cialmente adecuado para la comunicacion y la expresion del pensa-
+miento como consecuencia de que la seleccién natural favoreciera es-
+te ultime paso en el proceso evolutivo.
+
+1:2.3. EL USO DEL LENGUAJE
+
+Cuando se investigan las propiedades de un érgano del cuerpo, no
+basta con examinar su estructura y describir su desarrollo. Junto con
+la anatomia y la ontogénesis de un organo, se estudia también su -fi-
+siologia, esto es, la manera en que interacciona con otros Organos y
+actua sobre el mundo. Igualmente, fiel a su concepcidn internista del
+lenguaje, Chomsky siempre ha dicho, como ya hemos apuntado”,
+que jas teorias que dan cuenta del contenido y la adquisicién de la
+competencia gramatical de los hablantes deben integrarse dentro de
+una teoria general del lenguaje que incluya, ademas, una teoria del
+uso lingilistico en: situaciones concretas. Ahora bien, no debe olvidar-
+
+7 Véanse los subapartados Competencia yp actuacion (§1.2,1,2.) y Autonomia de
+fa sintaxis (§1.2.1.4.).
+
+
+§8 ' El 6rgano mental del lenguaje
+
+se que, para la lingilistica chomskiana, el estudio de la competencia
+gramatical (i.e., de las gramaticas mentales o lenguas-l) tiene prece-
+dencia légica sobre el estudio de la actuacidn: la competencia es au-
+ténoma (los hablantes saben una lengua con.independencia de que la
+usen 0 no); la actuacién, en cambio, necesita de la competencia (nadie
+puede usar una lengua que no sabe). La constatacién de esta asimetria
+entre «saber una lengua» y «usar una lengua» explica, en cierta medi-
+da, que los lingiiistas que trabajan en el seno de esta corriente se
+hayan centrado prioritariamente en el andlisis de la forma y la adqui-
+sicién del conocimiento gramatical de los hablantes y hayan relegado
+a un segundo plano el estudio del uso lingtlistico. Chomsky comparte,
+claro esta, la tendencia general de los lingiiistas de su escuela, y no
+acostumbra a formular propuestas especificas en lo que al uso del
+lenguaje respecta, sino que se limita mas bien a plantear cuestiones
+programaticas, en particular acerca del alcance y los limites de las in-
+vestigaciones sobre el uso del lenguaje desde un punto de vista natu-
+ralista.
+
+Es incuestionable hoy en dia que el ser humano, como el resto de
+los seres vivos, esta genéticamente programado para poder percibir ¢
+interpretar tan solo determinados aspectos del mundo, hasta el punto
+de que el ‘acceso a muchos otros quizas le esté vedado para siempre.
+Con esta concepcidn limitacionista de las capacidades perceptivas y
+cognitivas de las especies como telén de fondo, Chomsky establece a
+menudo una distincién entre «problemas» y «misterios» —es decir,
+entre las parcelas de la realidad que quedan dentro del espacio cogni-
+tivo de un organismo y las que sobrepasan sus limites epistémicos—,
+y afirma que algunos aspectos del uso del lenguaje son problemas que
+pueden ser solucionados de manera racional, mientras que otros cons-
+tituyen misterios imposibles de desvelar para los seres humanos, al
+menos si se utilizan la logica y los procedimientos con que las cien-
+cias naturales estudian el mundo’'. Un «problema» del uso del len-
+
+"Of, vg. Chomsky (1975: Cap. 4; 1986a: 25; 1991b: 40-41; 1994c: 44-46;
+1995b: 2, 20 y 27).
+
+Estudio del lenguaje desde una perspectiva internista 59
+
+guaje seria por ejemplo, para Chomsky, el funcionamiento de los me-
+canismos articulatorios y perceptivos que entran en juego en Ja actua-
+cién lingiiistica, incluido el de los «analizadores» sintacticos (par-
+sers) que emplean los individuos para asignar descripciones
+estructurales a las expresiones lingitisticas que perciben, es decir, para
+identificar las relaciones jerarquicas que establecen entre si las unida-
+des léxicas que las componen. Sin embargo, las cosas se complican
+sobremanera cuando de lo que se trata es del papel que desempefian
+los sistemas conceptuales e intencionales en las interacciones en
+tiempo real. En opinién de Chomsky, tal vez no puedan estudiarse
+nunca desde una perspectiva naturalista algunos aspectos de esta face-
+ta del lenguaje, en concreto, el hecho de que los hablantes sean capa-
+ces de producir y entender expresiones inéditas que no responden a
+los estimulos externos o internos, pero que resultan perfectamente
+apropiadas y coherentes en el contexto en el que se emiten. Sobre este
+asunto (i.¢., sobre el aspecto creativo del uso corriente del tenguaje),
+al igual que sobre las acciones libres, las elecciones o la intenciones
+en general, lo tinico que habria hasta la fecha serian descripciones
+impresionistas, ilustraciones de casos concretos y generalizaciones
+mas 0 menos imprecisas, pero no hipdtesis que revelen principios ex-
+plicativos, que predigan la existencia-de fendémenos nuevos y que se-
+an lo suficientemente explicitas como para poder ser falsadas. Esta
+situacién, se atreve a vaticinar Chomsky, podria no cambiar sustan-
+cialmente nunca. :
+
+1.2.4. LENGUAJE Y MATERIA
+
+EI estudio de un organo del cuerpo se completa con el descubri-
+miento de los procesos bioquimicos y los mecanismos fisicos que de-
+terminan su estructura y su funcionamiento. Asimismo, quienes
+conciben el lenguaje como un érgano mental se interesan por sus fun-
+damentos bioldgicos y fisico-quimicos, pero al hacerlo, se enfrentan
+inevitablemente a un problema afiadido sobre el que han de pronun-
+
+e
+e
+e
+®
+@
+e
+t
+e
+®
+e
+®
+e
+e
+e
+e
+@.
+e
+@
+e
+@
+@
+e
+®
+@
+e
+@
+e
+®
+e
+®
+e
+®
+e
+e
+
+
+29S OOOO OCHSOOSHSOSEEHOOECSHOCEHECOOEEOS
+
+60 El organo mental del lenguaje
+
+Estudio del lenguaje desde una perspectiva internista 61
+
+ciarse, el llamado «problema mente-cuerpo»”: jcudl es la verdadera
+naturaleza de los estados y de los procesos mentales?, gcOmo se rela-
+cionan: con el mundo fisico?, gqué relaci6n guardan, en concreto, las
+teorias computacionales y las teorias biolégicas o fisicas de las capa-
+cidades cognitivas?
+
+Ya en £l lenguaje y el entendimiento (1968), deja entrever
+Chomsky cudles son sus ideas fundamentales con respecto a las rela-
+ciones entre las teorias computacionales y las teorias neuroldgicas del
+lenguaje, unas ideas que ira perfilando en algunos de sus trabajos de
+las dos uiltimas décadas ”:
+
+Podemos estar bastante seguros de que habra una explicacién fi-
+sica para los fendmenos en cuestién... sin duda el concepto de ‘expli-
+cacion fisica’ sera ampliado de modo que en el mismo quepa todo lo
+que se descubra en ese campo...Pero parece evidente que esa cuestion
+no tiene por qué retrasar el estudio de los temas que estan ahora
+abiertos a la investigacién y parece fitil especular sobre asuntos que
+quedan tan lejos de lo que actualmente estd a nuestro alcance enten-
+der™,
+
+Como se desprende dela lectura de este texto, y de otros mas re-
+cientes, la postura de Chomsky ante el problema mente-cuerpo es, an-
+te todo, inequivocamente materialista: los estados y procesos menta-
+les serfan estados y procesos fisicos de una complejidad extrema y
+no, como sostienen los dualistas, fendmenos de naturaleza esencial-
+mente no fisica’*. Pero el materialismo chomskiano no es «metafisi-
+
+72 Churchland (1988) es una excelente introduccién al debate entre dualismo y
+materialismo.
+
+® Cf, v.g., Chomsky (1986a: 38; 1988: 3-7, 145-146; 1992c: 94 y ss.; 1994b;
+1994c: 37 y ss.; 1995b: 1-12, 34-38; 1997: 7-8; 1998c: 20). Véase también los articu-
+los incluidos en Antony y Hornstein (eds.) (2003) y los comentarios de Chomsky al
+respecto en este mismo volumen.
+
+™ Cf. Chomsky (1968: 162). :
+
+™ Chomsky critica tanto el dualismo sustancial cartcsiano (véase la nota 20) como
+formas mas recientes de dualismo, v.g., el que subyace a tcorias computacionales de la
+mente estrictas, no biologistas, como la de Block (19990). :
+
+co», no exige que las unidades y los principios de la teoria lingiiistica
+se tengan que definir en términos.de las unidades y los principios de
+la biologia o de-la fisica, ni mucho menos predice que vayan, sim-
+plemente, a desaparecer. Una de las razones por las que Chomsky re-
+chaza tanto el materialismo reduccionista” como el eliminacionista”
+es que ninguna de estas dos versiones del materialismo metafisico
+tendria sentido en principio, ya que, desde la revolucion newtoniana,
+no sabemos exactamente en qué consiste la materia. Para Descartes,
+un objeto materia! tiene longitud, anchura y altura y ocupa una posi-
+cion en el espacio, Sin embargo, desde el momento en que Newton
+demuestra la existencia de acciones a distancia, la mecanica de con-
+tacto cartesiana queda superada, y desde entonces nadie ha podido de-
+finir con precisién qué es la materia (se considera, por ejemplo, que
+los electrones son materia aunque no tengan dimensiones ni estén si-
+tuados en un punto del espacio). En consecuencia, el problema men-
+te-cuerpo, liega a afirmar Chomsky, no podria ni tan siquiera formu-
+larse hoy por hoy, y no porque desconozcamos como funciona la
+mente, sino, paraddjicamente, porque carecemos de un concepto -pre-
+ciso de «cuerpo» 78. :
+
+Con independencia de estas reflexiones sobre la ontologia de lo
+fisico y lo mental, Chomsky apela a la historia de la ciencia para mos~-
+trar que existen alternativas (también materialistas) al reduccionismo
+y al eliminacionismo. La historia de las ciencias naturales nos ensefia
+que el solapamiento entre dos ciencias no siempre se ha resuelto re-
+duciendo la ciencia de mas alto nivel a la de mas bajo nivel; ha habi-
+do también expansiones y reorganizaciones. En los afios treinta,.por
+ejemplo, se produjo ta unificacion de la quimica y de la fisica, y no la
+reduccion de la primera a la segunda, un proceso que solo fue posible
+gracias a que la fisica habia sido modificada previamente. Aunque
+
+7% Cf, v.g., Lewis (1994).
+7 Cf, v.g., Quine (1992).
+78 Cf. Chomsky (1988: 145-146; 1995b: 5). Véase también Uriagereka (1998:
+55 yss.).
+
+ib
+
+*
+“a
+
+62
+
+El 6rgano mental del lenguaje
+
+La evolucion de la lingtiistica chomskiana 63
+
+atin es demasiado pronto para hablar del asunto con un minimo de ri-
+gor, Chomsky cree que algo semejante podria ocurrir en el caso de las
+teorias sobre las capacidades cognitivas (incluido el lenguaje) y la
+genética o las ciencias del cerebro: quizds unas y otras se unifiquen
+algtin dia, aunque, para ello, la nocién de «cuerpo fisico» debera ser
+ampliada, como ha ocurrido en el pasado, con el fin de incorporar en-
+tidades y principios nuevos. E] materialismo chomskiano es, por tan-
+to, «unificacionista».
+
+A.las lecciones de la historia de la ciencia, y a la imposibilidad de
+formular el problema mente-cuerpo con precision, debe afiadirse, en
+palabras de Ernest Nagel”, que «no debe olvidarse la posibilidad de
+que pueda ganarse poco conocimiento..., y hasta que no pueda ganat-
+se nada, de la reduccién de una ciencia a otra en ciertos periodos de
+su desarrollo, por grandes que sean.Jas ventajas potenciales de tal re-
+duccién en un periodo posteriom». Chomsky comparte las reservas de
+Nagel con respecto al reduccionismo aprioristico entre dos ciencias y
+las extiende a las relaciones entre las teorias computacionales y las
+teorias neurolégicas del lenguaje. En su opinion, no parece ser este el
+mejor momento para reducir las nociones y los principios de la teoria
+del lenguaje a nociones y principios propios de la genética o de las
+ciencias de] cerebro, dado que tenemos buenas teorias computaciona-
+les mientras que las investigaciones en neurolingiiistica y en genética
+del lenguaje, ademas de estar guiadas por nociones lingilisticas, no
+nos ofrecen resultados tan sdlidos. Por lo tanto, como sucedid con la
+quimica antes de la aparicién de !a fisica de particulas, estudiar el
+lenguaje (y el resto de las capacidades cognitivas) de manera inde-
+pendiente resulta metodolégicamente util en cl estado actual de nues-
+tros conocimientos. Chomsky es, en definitiva, un claro defensor de
+la autonomia (estratégica) de la lingitistica.
+
+Cf, Nagel (1961: 332).
+
+13. LA BVOLUCION DE LA LINGUISTICA CHOMSKIANA
+
+En las paginas que preceden hemos revisado las ideas basicas, e
+invariables, de Chomsky con respecto a las cuestiones de las que se
+ocupa una teorja del lenguaje internista y naturalista. Como se deduce
+de lo alli expuesto, de entre estas cuestiones, este lingilista siempre ha
+dado preferencia al estudio de la competencia gramatical de los indi-
+viduos y de la facultad del lenguaje, hasta tal punto que la historia de
+la lingtistica chomskiana desde LSLT hasta el Programa Minimista
+es, en esencia, la cronica de las propuestas que se han ido formulando
+a lo largo de los afios con el fin de describir de manera explicita y
+adecuada las propiedades de la Gramatica Universal y de las gramati-
+cas mentales de los hablantes. Para muchos, se trata de una hisioria
+azarosa, sin norte, en la que hipdétesis y modelos cambian de un dia
+para otro®. Sin embargo, el panorama es bien distinto cuando se con-
+templa la evolucién de la lingiiistica chomskiana con la perspectiva
+privilegiada que nos ofrece el paso del tiempo. Salta entonces a la vis-
+ta que los modelos tedricos han sido muy pocos en realidad, y que ta-
+les modelos ni han sido elaborados, ni se han modificado, ni han sido,
+en su caso, reemplazados, caprichosamente®!
+
+®° Quizas porque no se distinguen la evolucion de la «lingitistica chomskiana» y la
+evolucién de la «Gramatica Generativa» en su conjunto. Recuérdese que en este libro
+nos ocupamos tan sdlo de la «lingitistica chomskiana» (véase la Presentacién). Con
+respecto a Ja historia de la Gramatica Generativa desde mediados de la década de {os
+50 hasta finales de la década de los 80, véase Newmeyer (1991) y la reciente réplica
+de McCawley (1999).
+
+8 Este esquema recoge las ideas expuestas por el propio Chomsky sobre la‘evolu-
+cién de fa lingiiistica chomskiana en Ef programa minimista (cf. Chomsky, !995a: 3-
+9). En el esquema se incluye una referencia a los libros de Chomsky mas representati-
+vos, a nuesiro entender, de cada una de las etapas de Ja historia de la lingiiistica
+chomskiana: Aspects of the Theory of Syntax (1965), Reflections on Language (1979),
+Knowledge of Language (1986) y The Minimalist Program (1995).
+
+TRE RER ARES TEER ERATE SERRE ZEEE ETERS
+
+Pe KO KOO SLES EORODE
+
+64 El organo mental del lenguaje
+
+La evolucion de la lingiiistica chomskiana 65
+
+————- |Teoria de los Principios y los Parametros|
+(cf. Chomsky, 1986)
+
+(8) {7
+
+Teoria Estandar
+Ampliada
+(cf. Chomsky, 1975)
+
+Programa Minimista
+(cf. Chomsky, 1995)
+
+REGLAS PRINCIPIOS Y PARAMETROS
+
+Como, queda reflejado en el esquema de (8), en la historia de la
+lingtiistica chomskiana pueden distinguirse cuatro etapas®™, pero tan
+solo dos unicos modelos tedricos claramente diferenciados en lo que
+atafie al formato con el que se caracterizan las propiedades de las
+gramaticas mentales y de la Gramatica Universal: el modelo «reglar»
+de la Teoria Estandar (o Teoria Cldsica), predominante desde LSLT
+(1955) hasta los tltimos afios de la década de los sese!a, y el modelo
+de los Principios y los Parametros (0 Teoria de la Reccién y el, Liga-
+miento)*, que.surge a finales de jos setenta y principios de los ochen-
+ta y que sigue vigente en la actualidad. Entre ambos modelos media
+una fase de transicién, la Ilamada Teoria Estandar Ampliada, en la
+que,, al tiempo que se manticne el formato reglar,de Aspectos, se
+apuntan ya algunas de las ideas sobre las que se sustentara el modelo
+de los principios y los parametros. El] Programa Minimista de los no-
+
+52 Un lugar comin en la interpretacién de la historia del pensamiento chomskiano
+consiste en afirmar que en el periodo que va desde Estructuras sintacticas (1957) hasta
+Aspectos de la teoria de la sintaxis (1965) tuvo lugar una «evolucion del empirismo al
+racionalismo» (cf. Lyons, 1970). El propio Chomsky se ha esforzado en aclarar en varias
+ocasiones que esta afirmacion no se ajusta a la realidad (cf. Chomsky, 1955/75: 35-36;
+1986a: 28 y nota 17).
+
+8 La expresion «Teoria de los Principios y los Parametros» identifica de manera
+transparente las bases sobre las que se sustenta Ja lingiiistica chomskiana de los afios
+80 (y Jos 90). El nombre de «Teoria de la Reccién y cl Ligamiento», con. el que tam-
+bién se conoce a este. modelo, reproduce, simplemente, el titulo del libro:de Chomsky
+de 1981, y ha resultado ser mucho menos afortunado. Utilizaremos, por tanto, siste-
+miaticamente en este libro la:primera de estas denominaciones.
+
+venta, por ultimo, es literalmente lo que su nombre indica: «un pro-
+grama», una extension de la Teoria de los Principios y los Parame-
+tros, y no un modelo alternativo nuevo. Como veremos brevemente a
+continuacién, y como trataremos de ilustrar con detalle en los dos res-
+tantes capitulos de este libro, el paso de un modelo a otro (0 de una
+etapa a otra) responde a una ldégica interna muy bien definida: los
+modelos y las etapas se suceden en un intento de llevar hasta sus ul-
+timas consecuencias los presupuestos internistas y.naturalistas del
+programa de investigacién chomskiano.
+
+El objetivo fundamental! del modelo reglar de la Teoria Estandar
+es disefiar gramaticas «descriptivamente adecuadas», es decir, gramA-
+ticas que den cuenta explicitamente de las propiedades de las -gra-
+maticas mentales de los hablantes, entre elias y de manera destacada,
+la infinitud discreta, la recursividad, la composicionalidad o fas sis-
+tematicas relaciones que existen entre oraciones, como las activas y
+las pasivas, cuyas estructuras argumentales son idénticas, aunque. sus
+representaciones fonéticas sean distintas. Con este fin, el conocimien-
+to gramatical de los individuos se caracteriza, basicamente, por medio
+de dos tipos de algoritmos: las reglas de estructura sintagmatica y las
+transformaciones*. Las reglas de estructura sintagmatica expanden
+una oracién o un sintagma (i.e., identifican sus componentes) y reco-
+gen asi el hecho crucial de que la combinatoria de las unidades [éxi-
+cas tenga como resultado la formacion de frases, y no solo la creacién
+de cadenas lineales. Las reglas transformacionales, por su parte,-con-
+vierten una descripcién estructural en otra. De esta manera, captan,
+entre otras cosas, la propiedad del desplazamiento, esto es, la propie-
+dad de que en todas las lenguas humanas exista un buen namero de
+construcciones en las cuales determinadas palabras 0 sintagmas se in-
+terpretan fonéticamente en una posicién distinta de aquella en lajque
+
+54 Recuérdese que no deben confundirse regias y normas. Las normas gramaticales
+son meras convenciones sociales de etiqueta lingilistica; las reglas de la gramatica, en
+cambio, son entidades constitutivas: al igual que el juego del ajedrez, por ejemplo, no
+es otra cosa que las reglas del juego del ajedrez, saber una lengua, para la Teoria Es-
+tandar, consiste, literamente, en conocer (de manera inconsciente) sistemas de reglas.
+
+
+66 ' El organo mental del lenguaje
+
+La evolucion de la lingilistica chomskiana 67
+
+son interpretadas semanticamente. En lo que respecta a Ja adquisicién
+del lenguaje, por ultimo, en la Teoria Estandar se piensa que adquirir
+una lengua materna consiste en «aprender» un conjunto de reglas (de
+estructura sintagmatica y transformacionales), un proceso que esta su-
+jeto, eso si, a ciertas limitaciones de caracter universal sobre los tipos
+de regtas posibles y, notacionalmente, mas simples. ;
+
+Sin embargo, caracterizar las propiedades de las gramaticas men-
+tales por medio de reglas, aunque nos permita obtener gramaticas des-
+criptivamente adecuadas, constituye en realidad un obstaculo para re-
+solver el problema idgico de la adquisicién del lenguaje. Dicho en
+otras palabras, las gramaticas que hacen uso de un formato reglar no
+serian «explicativamente adecuadas»®, y la razén es que la adquisi-
+cidn del Jenguaje, en las condiciones en las que se produce (i.e., en un
+periodo extremadamente corto de tiempo y a partir de datos limitados,
+un tanto cadticos e incluso inexistentes), dificilmente puede consistir
+en el aprendizaje de un conjunto de reglas, ya que estas, ademas de
+ser excesivamente numerosas, estan vinculadas a construcciones par-
+ticulares y pertenecen, por lo general, a jenguas concretas, a lo cual
+debe afiadirse que el contenido expresado en Jas reglas es, en buena
+medida, redundante con respecto a las propiedades que deben ser es-
+pecificadas independientemente en las entradas léxicas y que los re-
+quisitos para su aplicacién suelen coincidir con los de otras reglas en
+apariencia muy distintas. Con el propésito de corregir, al menos en
+parte, esta situacidn, a finales de los sesenta y en la década de los se-
+
+8 «Describir correctamente la competencia intrinseca del hablante nativo ideali-
+zado» y «construir una teoria de la adquisicién del lenguaje» (ef. Chomsky, 1965: 25-
+27), esto es, disefiar gramaticas que sean ala vez «descriptiva y explicativamente ade-
+cuadas», han sido siempre !os dos grandes objetivos de la lingilistica chomskiana,
+unos objetivos que, como exponemos en el texto, entran en conflicto a menudo. Note-
+Se, por otra parte, que el término «explicacién» se utiliza aqui con un sentido técnico
+que no coincide con el que habitualmente tiene en filosofia de la ciencia (cf, v.g., Bak-
+ker y Clark, 1988). Asi, una gramatica «explicativan (que capte generalizaciones entre
+los datos, por ejemplo) puede ser «explicativamente inadecuada», si su disefio no nos
+ayuda a resolver el problema légico de la adquisicién del lenguaje.
+
+tenta se estudian las propiedades de una serie de restricciones que
+afectan a las reglas en su conjunto, como los axiomas de Ja Teoria de
+la X con Barra para las reglas de estructura sintagmatica o las-condi-
+ciones de «localidad» para las reglas transformacionales de movi-
+miento, como la Condicion de Subyacencia. Estas restricciones no se
+formulan como condiciones de aplicacién en todas y cada una de las
+reglas, sino que se atribuyen a la-Gramatica Universal. Con ello, se da
+un primer paso en la busqueda de una solucién satisfactoria para la
+version lingilistica del «problema de Platon» y se ponen las bases pa-
+Ta que se puedan hacer propuestas atin mds radicales, como las que se
+plantearan en el modelo de Jos Principios y los Parametros.
+
+El modelo reglar de la Teorfa Estdndar, en contra de:lo pudiera
+pensarse, comparte muchos de los supuestos comtinmente aceptados a
+lo largo de la historia de la lingiiistica occidental. En comparacion
+con otras escuelas, se trata ciertamente de un modelo mentalista que
+emplea mecanismos mas ciaborados y rigurosos, pero sin embargo,
+buena parte de los fenémenos gramaticales de los que se trata de dar
+cuenta por medio de las reglas de estructura sintagmatica y de Jas re-
+glas transformacionales han sido estudiados también tanto por la
+gramatica tradicional como por el estructuralismo norteamericano por
+ejemplo; y ademas, ambos tipos de reglas caracterizan de manera ex-
+plicita las propiedades de construcciones sintacticas (pasivas, interro-
+gativas, oraciones de relativo, etc.), a las que se considera, como en
+toda la tradicién gramatical, unidades de andlisis con entidad propia:
+La siguiente ‘propuesta tedrica chomskiana, la Teoria de los Principios
+y los Parametros, rompe, en cambio, radicalmente con el pasado, ya
+que no solo se desmantelan las reglas, sino que se prescinde también
+de la nociédn misma de «construccién» en tanto que primitivo de la
+teorfa gramatical: las construcciones serian meros epifenémenos, y el
+(redundante) contenido expresado en las reglas se descompone, com-
+pletando asi la tarea que se habia iniciado en la etapa de la Teoria ‘Es-
+tandar Ampliada, y o bien se especifica como parte de las matrices de
+tasgos de las entradas léxicas, o bien se incluye en la formulacién de
+nuevas restricciones de naturaleza universal. Las reglas, por tanto,
+
+peeeooocosscovessees
+
+
+4
+
+POHSHSCHOHHHHOSHSCOHEHHEOCEHSOCE
+
+68 Ll 6rgano mental del lenguaje
+
+La evolucion de la lingtiistica chomskiana 69
+
+desaparecen, y el conocimiento gramatical de los individuos se carac-
+teriza ahora, basicamente, como la interaccién de las propiedades (ca-
+tegoriales, de subcategorizacién, de seleccion semAntica, etc.) que las
+unidades [éxicas proyectan en la sintaxis con principios de distinto ti-
+po que imponen restricciones de buena formacién sobre las represen-
+taciones lingiiisticas. Esta manera de concebir el conocimiento gra-
+matical de los individuos hace posible que se pueda vislumbrar una
+solucién plausible para el problema légico de la adquisicién del len-
+guaje por primera vez en la historia de la lingtiistica chomskiana: el
+nifio que. aprende su lengua materna conoceria de antemano, como
+parte de su dotacién genética, ciertos principios universales que regu-
+lan la combinatoria de las palabras; y el nifio se limitaria, por tanto, a
+aprender unidades léxicas y a elegir, a partir tan solo de un reducido
+numero de datos lingtiisticos, uno de los valores de cada uno de los
+parametros (u opciones abiertas) de la GU, con implicaciones en dis-
+tintas parcelas de la gramatica, un hecho este ultimo que explicaria,
+entre otros factores, que el proceso de adquisicién de una lengua ma-
+terna sea tan rapido. .
+En el Programa Minimista se mantienen las ideas de la Teoria d
+
+los Principios y los Parametros que acabamos de exponer sobre la ad-
+quisicién del lenguaje y sobre la manera de caracterizar el conoci-
+miento gramatical de los individuos, pero se formulan dos preguntas,
+la primera de ellas inédita, que obligan a repensar buena parte de las
+propuestas anteriores y que encauzan las investigaciones en una nue-
+va direccién: (a) zhasta qué punto esta bien disefiado el lenguaje en
+tanto que sistema computacional que entra en contacto con otros sis-
+temas de la mente? y (b) zhasta qué punto podemos dar cuenta de las
+propiedades de las gramaticas mentales y de la facultad del lenguaje
+utilizando el minimo aparato descriptivo y tedrico posible? Como ve-
+remos, para el Programa Minimista existen dos tipos de «condiciones
+de buen disefio»: las. condiciones de buen disefio interno que reducen
+la complejidad computacional del sistema y las condiciones de buen
+
+disefio externo o «condiciones de legibilidad», que son empiricamen-
+
+te ineludibles y que se derivan del hecho de que los sistemas de ac-
+
+tuacién (articulatorio-perceptivo e intencional-conceptual) tienen que
+poder «leer» (o interpretar) la informacién contenida en las represen-
+taciones generadas por el sistema cognitivo lingilistico. El objetivo
+ultimo del Programa Minimista sera, por tanto, reducir al maximo las
+unidades, los niveles, las operaciones y los principios de la teoria lin-
+glistica, esto es, postular la existencia, tan solo, de unidades, niveles,
+operaciones y principios que respondan a condiciones de buen diseiio
+(o sean conceptualmente. necesarios).
+
+Contada a grandes rasgos, esta es la historia de los cambios mas
+significativos que se han producido en la lingilistica chomskiana en lo
+que respecta a la caracterizacién del conocimiento gramatical de los
+individuos y de la facultad del lenguaje, una historia que, como ya
+adelantabamos en las primeras paginas de este capitulo, resulta ser
+extremadamente coherente si se tiene en cuenta cual es el «centro
+firme» sobre el que se asienta el programa de investigacién choms-
+kiano: la adopcién de un enfoque internista y naturalista en el estudio
+de las lenguas y del lenguaje. El paso del modelo de la Teoria Estan-
+dar al modelo de los Principios y los Parametros puede asi entenderse
+perfectamente como una consecuencia légica del internismo natura-
+lista chomskiano: en semejanza a lo que ocurre con el estudio de los
+Organos del cuerpo, si se concibe ef lenguaje como un érgano mental,
+nos debe interesar también cémo se desarrolla dicho érgano, ya que
+de ello depende que describamos adecuadamente sus propiedades.
+Buscar una solucion para el problema légico de la adquisicién del
+lenguaje es precisamente el objetivo ultimo de la Teoria de los Prin-
+cipios y los Parametros, y la solucién que se propone sigue una ldgica
+inequivocamente naturalista: eliminar redundancias y descubrir prin-
+cipios, simplificar, en definitiva, los primitivos y los mecanismos de
+la teoria lingiiistica. El Programa Minimista va aun mas alla enlesta
+misma direccién: se plantea una nueva pregunta de corte internista
+(4cdmo influye en el disefio del sistema cognitivo lingiiistico el hecho
+de que el érgano mental del lenguaje deba entrar en contacto con los
+sistemas de actuacién de la mente?), y aplica sistematicamente la na-
+vaja de Occam hasta sus iiltimas consecuencias. La historia de la lin-
+
+
+70 '
+
+El érgano mental del lenguaje
+
+gilistica chomskiana puede entenderse, en conclusién, como «una
+progresién hacia el hallazgo de la mejor teoria, la mas sencilla y ele-
+gante, y, sobre todo, la mas realistan **, como una sucesion de hipdte-
+sis y modelos en los que se ha ido profundizando en un enfoque in-
+ternista del lenguaje y se ha ido poniendo un énfasis cada vez mayor
+en Ja utilizacién del criterio de simplicidad, criterio que, a su vez, es
+inherente a una concepcién naturalista del lenguaje.
+
+8 Cf. Demonte (1999: xiii). Véase también Demonte (1995).
+
+CapiTULo 2
+
+DE LOS SISTEMAS DE REGLAS A LOS PRINCIPIOS
+Y LOS PARAMETROS
+
+2.1. LA TEORIA ESTANDAR
+
+Como deciamos en el capitulo anterior, los trabajos de la primera
+etapa de la lingiifstica chomskiana tienen como objetivo priotitario
+elaborar gramaticas que describan adecuadamente Ja competencia gra-
+matical de los hablantes, gramaticas que deben contar, en concreto,
+con mecanismos que nos permitan dar cuenta de la «propiedad de la
+infinitud discreta» (esto es, del hecho de que sé pueda crear un ntrme-
+ro potencialmente infinito de expresiones lingiiisticas inéditas a partir
+de un nimero finito de unidades). Deciamos entonces también que,
+en esta primera etapa, la propiedad de la infinitud discreta, y el resto
+de las propiedades combinatorias de las Jenguas humanas, se expre-
+san, basicamente, mediante sistemas de reglas. En este apartado, ex-
+pondremos con mas detalle las propuestas de la Teoria Estandar en lo
+qué respecta tanto al formato con el que se caracteriza el conocimien-
+to gramatical de los individuos, como al modelo de gramatica y a la
+teoria de la adquisicién del lenguaje. Con el fin de no desviar la aten-
+cin del lector, nos centraremos en las ideas que Chomsky desarrolla
+en la que es, sin lugar a dudas, la obra mas representativa de la Teoria
+
+©0000 OO08SO9H O88 EHHEOHHHOHOHOHO8HHE8
+
+

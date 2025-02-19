@@ -1,0 +1,789 @@
+05/068/024 - 31 cop.
+
+(Gramatica Textual)
+
+Coleccién Respuestas,
+dirigida por Marta Lescano y Silvina Lombardo
+
+Salvio Martin Menéndez
+
+(éQué es una
+
+gramatica textual?
+
+LiITTERA
+EDICIONES
+
+COLECCION RESPUESTAS
+
+8 {QUE ES UNA GRAMATICA TEXTUAL?
+formalmente (el lenquaje reconoce como marca especifica la relacin que se estable-
+ce entre e} significado y la forma que entra en relacién con él)
+
+La polémica teérica analizada vuelve al viejo enfrentamiento entre formalismo y
+funcionalismo, La discusién se agota una vez que se hacen explicitos sus prestypues-
+tos puesto que no se debate sobre unidades de analisis sino, y fundamentalmente, so-
+bre concepciones de lenquaje.
+
+Este es el punto de partida de este trabajo. En el primer capitulo, “La perspecti-
+va funcional”, hacemos explicitos los criterios que permiten fundamentar una grama-
+tica del texto. Interesa especialmente entender qué concepcidn de lenguaje estamos
+manejando, cuales son sus caracteristicas y sus alcances y por qué podemos inscribir
+al texto como la unidad adecuada para este enfoque.
+
+En el segundo capitulo, “La unidad de analisis: el texto”, definimos operativa-
+mente la unidad de anilisis a partir de ja propiedad que {a identifica {la coherencia) y
+de las caracteristicas que dan cuenta de ella (la cohesion, como propiedad gramati-
+cal; la consistencia en registro y género, como propiedades contextuales).
+
+En el tercero, “Coherencia gramatical: la cohesién”, sistematizamos el conjunto
+de recursos que permiten describir y explicar cémo funcionan las relaciones de co-
+hesion dentro del texto. Tomiamos dos criterios complementarios para agruparlos: el
+primero se inscribe en si los recursos son de naturaleza léxica {reiteracién y coloca-
+cin} o gramatical (referencia, sustitucidn, elipsis, conexién); el sequndo, en la iden-
+tidad referencia! de los elementos que entran en las relaciones cohesivas {la referen-
+cia, sustitucion, elipsis y reiteracién suponen identidad referencial; la conexién y la
+colocacién, no).
+
+En et cuarto capitulo, “Un andlisis textual”, se analiza en detalle un texto parti-
+cular a partir de la descripcion y explicacién de las relaciones cohesivas que en él se
+producen. Luego, se complementa con un anidlisis, general y orientativo {ya que no
+es el objetivo de! presente trabajo}, de la consistencia en registro y en género que per-
+miten una interpretacion de ese texto.
+
+Por ultimo, se presenta una guia de ejercicios que tienen como objetivo no me-
+ramente aplicar lo que en el trabajo se propone, sino hacer un trabajo de integracion
+efectiva, a partir de un corpus seleccionado a tal efecto, de lo que en él se postula.
+
+Una gramdtica textual aporta, basicamente, un punto de vista funcional para el
+analisis del lenguaje. Es decir, un lenguaje que se anailiza a partir de textos que los
+usuarios de la lengua, los hablantes, producen en situaciones comunicativas determi-
+nadas dentro de su comunidad. Explicar como funcionan los mutuos condicionamien-
+
+tos que existen entre gramiética y contexto es lo que una gramatica de estas caracte-
+risticas pretende fograr.
+
+Capitulo |
+La perspectiva funcional
+
+1. El lenguaje: estudio del significado
+
+Una gramdtica textual es una gramatica que se deline no solamente por el nom:
+bre de una unidad de analisis sino, y fundamentalmente, por la perspectiva que esa
+unidad de anialisis impone.
+
+Entender una gramatica textual supone adoptar una perspectiva funcional
+es decir, un punto de vista que entiende el lenguaje como un sistema de
+significados que se codifican formalmente.
+
+s © ay iby 55 tin-
+
+Dentro de los posibles modelos de gramatica textual, nos inscribimos en la i
+
+giiistica sistemico-funcional. M. A. K. Halliday, su iniciador, sinietiza con precision 1o
+que esta teoria sobre el estudio del lenguaje supone:
+
+El estudio-de fa lengua debe ser considerado como el estudio de! sig-
+nificado. Si bien para entender la gramalica y la fonologia es necesanio un
+estudio formal de Ja lengua, cree que el objetivo ultimo de todo estudio de
+fa lengua debe ser el reconocimiento de como la lengua crea significados y
+de qué manera permite intercambiarios.!
+
+Esta teoria piensa en términos de significado y no de forma; lo que no quiere de-
+cir que destierre la forma lingiiistica: la forma siernpre esta presente, y es imprescin-
+dible que esté. El problema es considerar la autonomia de la forma; lo que este en-
+foque focaliza es la forma en relacién con el significado.
+
+1. La cita esta tomada de la lrascripcion hecha por SIM Ediciones {Buenos Altes. rane ge ‘a
+clase que M.A.K. Halliday dicté en la catedra de Lingiiistica de la Facultad de Filosofia y Letras
+de la Universidad de Buenos Aires en septiembre de 2000.
+
+19]
+
+10 £QUE
+éQUE ES UNA GRAMATICA TEXTUAL?
+Aqui postulamos el len
+tema de significados que es
+Por Io tanto, el estudio
+decir que uno deje de lado
+
+te, tanto i Ati
+te major eens eee come on gramatica, para poder describir, explicar e interpre.
+ema de significades que es el fenouaj iempre :
+; siste guaje. Pero siempre esta ~
+dinados a explicaciones que dan cuenta de esta concepcién del lenguaje stan subor
+
+ta codificado o realizado formalmente.
+de la lengua eg el estudio del significado. Esto no quiere
+
+la . . ~ 7 ts
+La perspectiva funcional toma en consideracién cémo ta lengua crea signifi
+os y Como permite intercambiarlo: i :
+s por Medio de textos. t,
+aa D > . La lengua, en-
+ces, permite crear las representaciones que conforman una cultura Sus
+
+condiciones de interaccién los G: son los medios erm
+¥ los textas, que
+" q e que p iten
+
+Lo que | i
+ome egocea blantes de una determinada lengua intercambian son significados:
+, cuando se relacionan, son signifi
+u y : ignificados: lo que
+analizamos como unidades de significado, es decir, textos Ne Prodhcen son lo que
+Os signifi i .
+ignificados son de natbraleza sociocultural. E! significado esta restringido, |i-
+cado se conatane ents f or a comunidad en fa que se debe interactuar; el signifi-
+citura, onan eee form arte de una determinada sociedad y una determinada
+. es los hablantes inferactian de determi
+oe ; : le determinada manera,
+sde esta perspectiva cobran especial importancia dos elementos: 1}
+
+anto ac ; ¥ 2) el contexto a Pp que la:
+te, en tanto actor socia 2) el context + en tanto espacio en e} qu I
+
+el hablan-
+is interaccio-
+
+1.1. El hablante: rol comunicativo y actor social
+
+situacion en la que nos toca Participar.
+
+Definir, en términos Generales, la propuesta de una
+tir de la teoria sistémico-funcional supone caracter
+potencial de significado, (Halliday, 1979)
+
+gramatica textual a par-
+izar ef fenguaje coma un
+
+Este potencial es actualizado por el habl
+ciones disponibles
+da opta.
+
+Es decir, nos
+“nosotros, como hablantes, sabernos que podemos manejar, con restric:
+
+Ciones, distintos conjuntos d. i
+. S ae opciones. Activamos esta: i
+s; tls s ; sias Opciones en funcid
+Ccaracteristicas de las situaciones en que nos toca intervenir. once es
+Por ejemplo: las formu
+
+ante cuando, a partir del conjunto de o:
+S act ; 1 @ Di nyu D>
+que tie ie a a er i"
+jue tiene, justamente, por ser hablante de una lengua determine
+
+las de tratamiento. En espafiol tenemos distintas formu
+
+guaje no como un sistema de formas sino como un sis-
+
+LA PERSPECTIVA FUNCIONAL. 11
+
+las de tratamiento pronominal. Podemos dirigirnos al otro utilizando usted. vos 0 tu.
+Son las ives opciones que el sistema habilita. Ahora bien, la actualizacion de una u
+otra depende de una serie de factores y circunstancias. Tratar a alguien de “vos”, de
+“usted” o de “tu” dependeré de un rango importante de variables, que representan,
+entre otros elementos, los distintos roles que al hablante Je toca jugar en los diferen-
+tes lugares en los que se habla espafiol.
+
+Tomemos el ejemplo de una situacién comunicativa concreta: una clase univer-
+sitaria. Hay dos roles bien definidos: estudiantes v profesor. En general,’ cuando los
+estudiantes se tienen que dirigir al profesor suelen utilizar el recurso usted.
+
+Ahora bien, muchas veces la misma persona que en el aula utiliza este tratamien-
+to, el usted, cuando habla con el profesor en una conversacién cara a cara Jo trata
+
+utilizando el vos.
+{Qué significa esto? Simplemente, que los hablantes se adecuan a las diferentes
+
+situaciones en las que les toca interactuar, En el primer caso, el hablante entiende
+que la situacién de clase exige un grado de formalidad —que no tiene, en principio,
+una relacién directa ni con la confianza ni con el respeto- diferente del que presupo-
+ne Ja interaccién cara a cara. Es una opcidn del hablante y de la evaluacién que ha-
+ce en tanto miembro de una determinada comunidad de la que forma parte.*
+
+&l lenguaje se conforma a partir del uso que los hablantes hacen de su len-
+gua, en el momento en que interactGan con otros. Por eso la perspectiva
+funcional es interaccional. Et significado se constituye en {a interaccién, por-
+que ese significado tiene una dependencia sociocultural. El lenguaje no
+puede pensarse sino en contexto, Desde una perspectiva funcional, pensar
+el lenguaje es siempre pensarlo en situacién. Abstraer el lenguaje de fa si-
+tuacién es negarle al lenguaje lo que le es propio: ser un instrumento de in-
+teraccién.
+
+Conta la vision aut6noma, la del hablante-oyente ideal o la de fa comunidad-ha-
+biante abstracta e idealizada, aqui aparece la idea del Jenguaje como instrumento
+Un lenguaje que sirve a ciertas cuestiones que van mas alla del propio Jenguaje. Es
+decir, cumple finalidades de orden sociocultural. Crea significados en funcidn de las
+necesidades interaccionales; esos significados se codifican, se realizan en textos, que
+son las unidades del lenguaje en uso.
+
+Usar e! lenguaje es interactuar a partir del intercambio de textos que se produ-
+cen en determinadas situaciones enmarcadas dentro de una comunidad y, en conse-
+cuencia, una cultura.
+
+2. Esto no pretende Ser estricto. Hay diversos factores que permiten que esto sea absolutamen-
+te variable dentro de una gradacidn esperable. Tomamos aqui un criterio simplemente orienta-
+tivo en funcion del ejemplo que queremos dar.
+
+3. Los argentinos, que voseamos, también utilizamos fa tercera opcién, ef tu. dentro del para-
+digma. Suelo prequntar a fos estudiantes en todos los cursos que dicto si es asi. Las respuestas
+permiten reconstruit uses posibles del ti. Algunos dicen: cuando se escribe poesia; otros, cuan-
+do se reza. He notado recurreniemente que muchos argentinos, cuando hablan con alguien que
+usa el i, inmediatamente cambian del vos al fi
+
+12 EQUE ES UNA GRAMATICA TEXTUAL?
+
+| _ a
+Entender ef lenguaje como un fendmeno interaccional equivale, entonces, a
+adoptar un criterio funcional de la lengua.
+
+El funcionalismo piensa en un sujeto que interactia, y a partir de ahi deviene un
+actor social. El aspecto social de la lengua pasa a ser un punto de referencia para la
+descripcion, la explicacién y la interpretacién de todos los fendmerios lingiifsticos.
+
+La constitucién de los hablantes como actores sociales depende de la interac-
+cién, Nosotros, en tanto miembros de una comunidad y de acuerdo con las distin-
+tas actividades que desarrollamos, nos manejamos en diversas situaciones interac-
+cionales. Cada una de esas situaciones nos hace optar por determinados recursos
+lingilisticos; variamos nuestras opciones de acuerdo con la situacion en que nos to-
+ca interactuar, En tanto hablantes, manejamos un numero determinado de regis-
+tros, es decir, variaciones de acuerdo con el tipo de situacién.*
+
+EI funcionalismo se inscribe, por lo tanto, dentro de una teoria culturalista,
+donde se privilegian los procesos sociales que se dan dentro de una determinada
+cultura,
+
+La perspectiva funcional permite la interrelacién entre forma y significado: de
+aht surge el concepto de funcién. Cuando pensarnos el lenguaje funcionalmente lo
+que estamos haciendo es pensarlo a partir de como los significados, codificados for-
+malmente, operan dentro de una comunidad determinada.
+
+En la interaccién Jos hablantes dan cuenta de la construccién de un significado
+social. El significado no esta dado; se va construyendo. Esta conformado a partir de
+las distintas interacciones que tienen lugar en una determinada sociedad. Y, conse-
+
+cuentemente, el significado tampoco es uniforme sino que varia de sociedad en so-
+ciedad.
+
+La relacion lenguaje/contexto no puede pensarse, en términos funcionales,
+independientemente; se la debe pensar interdependientemente. Si se pien-
+sa el lenguaje, se fo piensa en contexto.
+
+1.2. El contexto
+
+EI contexto se define en forma doble y complementaria. En primer lugar, es
+entendido como Ia situacién interaccional inmediata en la que el lenguaje se
+inscribe a partir de su uso. En segundo lugar, como situacién mediata 0 con-
+
+junto de convenciones socioculturales en la que la situacién interaccional se
+inscribe.
+
+4, No utilizar el registro adecuado suele provacar, en algun grado, una sancidn social. No es
+que no se pueda decir; poder, se puede, pero no es esperable que se diga. Por ejemplo: en una
+on de examen final oral en la universidad uno puede decirle al profesor: ~A ver, gordito,
+pregunta rapido que estoy apurado”. Las opciones del sistema lo permiten: pero no es espe-
+rable ni tampoco aconsejable en esa situacién.
+
+Ls PERSPECTIVA FUNCIONAL 13
+
+La interaccién supone un contexto, por ejemplo: un contexto inmediato podria
+estar dado por una situacién de clase. En esa situacién existen una serie de conven
+ciones, que pueden o no respetarse, pero cuya existencia no puede negarse
+
+Las convenciones vinculadas con una situacion de clase pueden variar segtin el
+ambito. Sabernmos que tanto para los estudiantes como para los profesores no es lo
+mismo dar clase en una escuela primaria que en una secundaria O en una universi-
+dad.° Ese contexto mediato es la cultura caracterizada como un conjunto de situacio-
+nes posibles dentro de una comunidad; una situacién de clase es parte de la nuestra.
+
+Ademias, no en todas las culturas existe una situacion de clase tal como noso-
+tros la conocemos. La cultura no es un concepto absoluto sino relativo. Si bien no
+es el unico, el lenguaje es un elemento central en la conformacion de las diferentes
+culturas.
+
+En términos hipotéticos, una cultura podria ser caracterizada por el conjun-
+to de convenciones de uso que se representan en las diferentes interacciones
+de sus miembros y los textos que ellos producen,
+
+Esto lleva a otro concepto fundamental: qué tipo de roles pueden asumir los miem-
+bros de una cultura determinada y qué situaciones pueden ser representadas dentro de
+ella. No en todas fas culturas existe la misma cantidad de roles, tampoco existen las
+mismas clases de situaciones, ni las mismas convenciones que las determinan. Y si con-
+tinudramos este razonamiento en un plano de mayor abstraccién, podriamos decir que
+no en todas las culturas existen las mismas convenciones de uso, es decir, los mismos
+géneros discursivos disponibles (Bajtin, 1978). Las clases de convenciones determinan
+las particularidades de una determinada sociedad y, al mismo tiempo, cada una de esas
+particularidades esta representada por determinada variedad de lenguaje.
+
+La lengua es un producto historico. La lengua tiene una historia. Por ser histo-
+ria, es transmitida; y Ja historia es, en ltima instancia, el conjunto de textos que dan
+cuenta de los modos de interactuar que se han conformado en una lengua determi-
+nada. Si analizaramos la historia, tendriamos que dar cuenta de ella a partir de los
+distintos usos de la lengua que aparecen en los diferentes testiimonios que nos van a
+servir como documentos. Reconstruir ese relato que denominarnos historia supone
+siempre un enfoque textual. Asi, la historia se constituye a partir de relatos, de sus
+relaciones y de las convenciones sobre las que se fundan.
+
+Fl fenguaje se inscribe dentro de una semistica social. Esto implica localizar
+una graméatica del texto dentro del contexto de Ja semidtica entendida co-
+mo el estudio de los sistemas y procesos de significado.
+
+Se entiende semidtica social como e! conjunto de los procesos en los que inter~
+vienen todos los sistemas de significados que interactuan en una determinada socie-
+dad. Cuando se piensa una gramatica textual, se la debe entender en los términos de
+una semidtica social. Se privilegian, entonces, los sistemas de significados que ope-
+
+5. Hay otras variables que aqui no considerarnos por no ser el objetivo especilico de ia expli-
+cacion que estamos dando.
+
+14 éQUE ES UNA GRAMATICA TEXTUAL?
+
+ran dentro de una sociedad determinada y que se complementan entre si. El lengua-
+je es uno de esos sistemas. Y la gramatica es uno de sus componentes basicos.
+
+2. Teoria gramatical, gramatica particular y gramatica del texto
+
+Una lengua es un sistema de opciones que representa el potencial de significa-
+do que un hablante/escritor Posee por ser miembro de una determinada comunidad
+(Halliday, 1979; Halliday y Mathiessen, 2004).
+
+En este sentido, la gramatica es una virtualidad; conforma lo que podemos de-
+nominar una teoria de la gramatica. Es siempre una reconstruccién que se lleva a
+cabo a partir de los anilisis de textos particulares de una lengua determinada.
+
+La gramética de una lengua particular, entonces, esté constituida no por esa
+virtualidad sino por el conjunto de opciones utilizadas de manera efectiva. Esas op-
+ciones empleadas constituyen los recursos que los hablantes, en tanto usuarios de
+una lengua, tienen para conformar textos que serjan, desde esta perspectiva, las uni-
+dades gramaticales que permiten que los hablantes pongan en funcionamiento la len-
+gua al producir textos.
+
+Una graratica de una lengua particular es, desde la perspectiva sistemico-fun-
+cional, una gramatica del texto ya que el texto es la unidad de analisis que esta pers-
+pectiva considera. E] texto representa, por lo tanto, no sdlo una unidad de anilisis si-
+no una perspectiva que, a partir de ella, se adopta
+
+Por lo tanto, llamaremos teoria gramatical a la reconstruccion teérica que se ha-
+ce a partir de la gramatica de una lengua particular.
+
+La teoria gramatical es un conjunto de opciones disponibles y la gramética,
+un conjunto de opciones realizadas, es decir, de recursos que permiten con-
+formar textos.
+
+Las opciones suponen una virtualidad que, si bien es tedricamente precedente,
+es posterior en el analisis del funcionamiento concreto de la lengua. El conjunto de
+textos que, en definitiva, conforman una lengua provee los materiales para que se lle-
+ve a cabo la reconstruccién gramatical. Entre esos textos concretos y la reconstruc-
+cion gramatical se ubica la instancia de la gramiatica particular,
+
+Llamamos, entonces, opcién al elemento Puntual de un paradigma que
+forma parte del conjunto de paradigmas que conforma el sistema de una
+lengua.
+
+Llamamos recurso a la opcién realizada de manera efectiva cuando un ha-
+blante/escritor produce un texto en una situacién determinada.
+
+Por consiguiente, no todas las opciones son, necesariamente, recursos ya que
+debe poder probarse en el uso que un determinado hablante/escritor (mas alla del
+conocimiento que pueda tener de las opciones disponibles} la ponga efectivamente
+en uso, es decir, produzca un texto
+
+LA PERSPECTIVA FUNCIONAL 15
+
+Los recursos gramaticales, entonces, son opciones que el hablante/escritor lle-
+va a cabo cuando produce el texto.
+
+| Ff texto es una unidad seméntico-pragmadtica y estd determinado a partir del uso. ‘|
+
+2.1. El significado: continuidad gradual
+
+Para entender esta concepcién semantico-pragmatica del significado® se lo
+debe pensar como una continuidad que reconoce grados enmarcados entre “es
+extremos. Uno de los extrernos —-podemos postular~ tiene una caracteristica que lla-
+maremos [+estable]; el otro [-estable]. Los diferentes grados de significado se encuen-
+tran en esta escala. El [+estable] tiene un grado menor de dependencia contextual in-
+mediata; el [-estable], un grado mayor. ;
+
+Por consiguiente, llamaremos significados semanticos a los que tienen mayores
+grados de estabilidad en cuanto a sus significados y significados pragmaticos a los que
+tienen menores grados de estabilidad. _
+
+Los significados gramaticales se ubicaran dentro del extremo 0 polo semantico
+de la escala; los discursivos, dentro del extremo o polo pragmatico. ;
+
+Esta concepcion gradual no supone ni establece criterios discretos, es decir, opo-
+sitivos. Es muy importante, entonces, entender que el significado semantico no “
+opone al significado pragmatico como puede oponerse, en terminos lonologicos, €
+rasgo sordo al sonora, No hay oposicién; hay, simplemente, un criterio de estabili-
+dad a partir de la gradualidad que los significados presentan, . . ——
+
+Podemos decir que un significado gramatical como el de “numero es un signifi-
+cado semantico con un alto grado de estabilidad dentro de un sistema lingiiistico de
+una lengua X; en espanol, por ejemplo, remite a la opcién entre singular y plural (uno,
+mas de uno). Los significados léxicos comparten en un grado intermedio aspectos del
+significado tanto semantico como pragmiatico (los diferentes significados que ue pa-
+labra puede tener). Los significados discursivos son significados que dependen de! vse
+especifico en una situacion contextual determinada; ahi tenemos un grado de estabi-
+lidad mucho menor (los diferentes grados de implicitos que se manejan en una lengua
+dependen de las situaciones particulares para poder ser explicados e¢ interpretados).
+
+Los grados de estabilidad del significado estan en relacién directo con la depen-
+dencia contextual. Un significado mas estable es el menos dependiente con-
+textualmente. Ef menos estable es el mas dependiente contextualmente.
+
+6. Es importante precisar que, cuando se realiza una distincidn entre teorias semanticas y teo-
+rias pragmaticas, dos clases de significado suelen diferenciarse. El significado semantico est
+ligado a las condiciones de verdad o falsedad y puede asociarse con el significado de las pro-
+posiciones logicas: en cambio. el significado pragmdtico es un significado dado por el uso y
+vinculade con el discurso. Halliday (1979) no ve la necesidad de distinguir entre semantica y
+pragmatica. En este sentido, plantea su prapuesta como u teorla semdnitica entendida como
+una teoria del significado en términos socioculturales que incluve dimensiones logicas y prag-
+
+miéaticas y opta por el nombre de fexto para su unidad_
+
+EQUE ES UNA GRAMATICA TEXTUAL?
+. vee siempre debe tenerse en cuenta la gradualidad sobre la que esta distincion
+esta basada y es la que, en definitiva, caracteriza una perspectiva funcional.
+2.2. Gramatica textual y gramética oracional: una oposicion invdlida
+
+7 ‘Cuando se habla de la posible oposicion entre gramaticas oracionales y grama-
+ticas textuales esa oposicion no es valida.
+
+Cuando se postulan gramidticas oracionoles y gramaticas textuales se esta ha-
+blando de diferentes concepciones de lenguaje. No pueden oponerse ya
+
+que tos fundamentos que las sostienen son diferentes. Cada una piensa el
+L lenguaje de manera diferente.
+
+. cee no puede ser pensado sin el contexto, a diferencia de la oracion. El con-
+exto letermina y condiciona fa aparicién del texto, porque el texto es unidad del Jen-
+suse ee uso; por lo tanto, es una unidad semantico-pragmatica.
+del E comiexto, por to tanto, desde una perspectiva funcional, permite dar cuenta
+el signi icado en términos interaccionales dentro de procesos sociales que lo hacen
+posible y permiten explicarlo e interpretarlo.
+: 1
+‘ Q problema central, entonces, pasa por la perspectiva adoptada para flevar a ca-
+© el anal isis. Y esa perspectiva supone una determinada concepcién de lenguaje. La
+misma evidencia empirica puede ser enfocada de manera diferente.
+
+un texto tiene como propiedad definitoria su coherencia. La coherencia supo-
+ne propiedades de adecuacidn interna, pero también requiere adecuacion
+a un contexto determinado, Sia un texto no podemos asignarle un contex-
+to determinado, no podra decirnos nada. Es como un texto en una lengua
+
+que no conocemos; no significa nada para nosotros. En realidad, no es un
+texto para nosotros. ‘
+
+; Es fundamental que exista la posibilidad de interpretar: los textos son textos en
+la medida en que son interpretables. Y a su vez, la interpretacion esta limitada, por-
+que un texto siempre se inscribe en un determinado contexto. La interpretacion nun-
+
+ca es Hlimitada. En ese caso, se tratarfa de un texto sin contexto:; pero eso es una im-
+posibilidad tedrica y analitica.
+
+3. Opciones y recursos
+
+3.1. Sistema y estructura
+
+‘odor det que se organiza la ore mati
+
+2 OF alas témico-funcional
+waa en términos oe potencial de significado. Las op-
+ema de redes.
+
+LA PERSPECTIVA FUNCIONAL 17
+
+junto de opciones potenciales Este con-
+
+Henios dicho que el sistema es un co
+
+junto de opciones se organiza en subcorjuritos de relaciones paradigmaticas. El
+tema linguiislico es un sisterna de red en el que fa estructura es la realizacion en ter-
+ynines sintagmaticos de los elementos paradigmaticos. El hablanie opta centro det
+conjunto de pavadigmas disponibles y produce un texto
+
+El sistema es, por lo tanto, un corjunto de paradigmas; un paradigma es un con-
+junto de opciones disponibles.
+~— Toememos, por ejemplo, un recurso verbal: “carninaba”, Hay un conjunto de para-
+digas que presentan diferentes opciones disponibles que habilitan a un hablante a
+producir un texto con ese recurso. Elegimos la flexion verbal. Tenernos un conjunto de
+pavadignas disponibles sobre los que debemos opter: el de persona, el de ntimero, el
+de tiempo, ei de inodo, el de aspecto. Dentro de las opciones de persona tenemos: pri-
+mera —el que habla~, segqurida —a quien se le habla~ y tercera ~le quien se habla-. Lue-
+go tenemos dos opciones de niimerc: singular -unc- y plural mas de uno~ Las op-
+ciones de tiempo son presente, pasado y futuro. Las opciones dentro del mado: inci-
+cativo, subjuntive e imnperativo Las de aspecto: perfective e in yperfectivo. Un hablan-
+te del espafio! posee todo ese conjunto de paradigmas disponibles y, cuando relaciona
+una opcién dentro de cada uno de Jos paradigmnas disponibles, establece una estructu-
+ra de red. Esta estructura de red produce un tipo de realizacion sintagmatica particu
+lav. Por ejemplo, la primera persona plural del imperfecta del indicativo: “caminaba’
+
+En términos teéricos, puede afirmarse, precede el sistema; pero la posibilidad de
+su reconstruccién se lleva a cabo a partir de los textos particulares ya que los textos
+son e} conjunto de opciones efectivamente realizadas, Jos recursos a partir de Jos cua-
+les es posible reconstruir ese conjunto de opciones disponibles, Claramente, se ve a
+grado de complemento y dependencia mutua que existe entre sistema y estruckua
+
+iliddad
+
+En los sintagmas, o textos, est el sistema, y en ef sistema esta fa po
+
+de los textos. i
+
+No existe -esto es muy importante- una caracterizacion dicotémica u opositiva.
+sitio una mutua dependencia entre sistema y estructura. Gracias a la presericia de los
+textos puedo dar cuenta del sistema y, a su vez, el sistema habilita la posibilidad de
+que el hablante pueda producir textos.
+
+La relacion entre sistema y estructura es una relacion de mutua dependen- |
+cia. El mismo tipo de dependencia que se da entre texto y contexto. La re-
+lacién sistema-estructura y texto-contexto no es de oposicidn sino de com-
+plementariedad.
+
+El conjunto de paradigmas disponibles es la condicion de posibilidad para la pro-
+duccion de un texto determinado y, a su vez, los textos son los que me permiten re-
+construir el conjunto de paradigrnas disponibles. Son dos aspectos complementarios
+del misrne fendmeno.
+
+En resumen, un conjunto de paradigmas constituye un sistema, y un conjunto de
+sintagmas conforrna una estructura. El conjunto de paradigmas equivale a una gra-
+matica potencial. El conjunto de estructuras representa la gramatica efectivamente
+
+
+18 ZQUE ES UNA GRAMATICA TEXTUAL?
+
+realizada en forma de textos. Entre ambos se v
+
+erifica una relacion interactiva: no
+existe el uno sin el otro. En los textos esta el sistema y el sistema habilita la posibili-
+dad de que haya textos.
+
+3.2. Texto: proceso y producto
+
+En virtud de la centralidad que tiene la interaccidn para el funcionalismo, el len-
+
+guaje es un proceso: pero ese proceso se analiza a partir de sus productos concre-
+tos. es decir, los textos.
+
+El producto es el elemento que permite dar cuenta de! proceso. Por consi-
+guiente, el proceso y el producto no se oponen sino que, también, se com-
+plementan. & texto es, entonces, proceso y producto; Proceso en tanto uni-
+dad que se conforma a partir de las opciones y condicionamientos contex-
+tuales; producto en tanto unidad que puede ser descripta, explicada e in-
+terpretada a causa de esas opciones y condicionamientos contextuales,
+
+Lo que sucede es que e! resultado, lo que se produce, son los textos, y éste es el
+elemento con el que cuenta un analista. Para el analista, los textos como producto
+son la representacién de un proceso que él trata de reconstruir. En este sentido se
+entiende que proceso y producto sean dos instancias simultaneas y complementarias.
+
+Como hablante tengo un conjunto de opciones disponibles: puedo o no habilitar
+una serie de opciones determinadas. Pero para habilitar o no habilitar, debo estar en
+Posesién de esas opciones. Y lo que sucede es que no todos los hablantes tienen las
+™ismas opciones. Y esta diferencia no es, de ninguna manera, un detalle menor.
+
+El concepto de opcién supone que el lenguaje es inherentemente variable.
+Et registro es la variedad utilizada de acuerdo con la Situaci6n en fa que un ha-
+blante debe interoctuar. Un hablante puede manejar diferentes registros de
+acuerdo con su conjunto de opciones potenciales, Lo que determina la am-
+
+plitud de los registros es la posibilidad de interactuar en diferentes situacio-
+nes de manera adecuada.
+
+No existen, por Jo tanto, Personas que hablen “bien” y personas que hablen
+
+“mal”; hay personas que hablan de manera adecuada o no con la situacién en que
+les toca interactuar.’
+
+7. Sin embargo, esto no quiere decir que el proceso de escolaridad no aspire a una estandari-
+zacion. Lo que sucede es que esa estandarizacion no deberia Presuponer una estigmatizacion
+de las variedades no estandar Cuando un chico Mega a la escuela. fa maestra no deberia de-
+cirle que en su casa habla “mal”. El chico no habla “mal”. sino que en su casa se maneja con
+el tipo de registro que le es cfectito. En sti casa, ese chico se maneja en forma adecuada: si le
+pide algo a la madre y ella se lo da, Io que ese chico dice le resulta Util, La escuela sanciona
+que ciertos registros estan “mal”: Pero todo lo que sucede es que ciertos registros pueden no
+ser adecuados para otras situaciones Cuando ese chico tenga que ira pedir trabaje debera ser
+consciente de que va a tener que cambiar el registro en relacién con otra situacion: este es lo
+
+LA PERSPECTIVA FUNCIONAL 19
+
+Los hablantes no manejan siempre el mismo registro. sino que lo campian de
+
+do con la situacion. Y saben (o deberian saber} como hacer ese cambio le re
+oat que, en muchas ocasiones, puede ser muy sutil. Inmediatamente un cambio de
+i “ i ya situacion.
+Oe ee ion, hurclonal del lenguaje esta vinculada con la posibilidad que un ha-
+blante tone de optar por aquella variedad de lenguaje que considera mas adecuade
+en funcion del tipo de situacién en la que él se encuentra insenpto, En tanto “ nee
+blante ha aprendido una lengua en una determinada comunidad y la usa en es
+
+i ablante sabe manejar registros.
+munitad, es veomle para observar problemas de registro es el de una persona ave
+va a otro pais donde se habla una lengua que no es la propia. A pesar de qu esa
+
+ueda dominar “perfectamente”™ la gramatica y la fonética de esa otra len
+
+ae eo " implica que sepa como usarla. Puede hallarse en una situacion cotidiana
+ono saber como llevar a cabo las opciones esperadas. Cuando eso sucede, el hablar
+te demuestra no tener sensibilidad para el registro, es decir, no sabe como ee
+terminadas cosas® Y, por consiguiente, interactuar en determinadas en he
+
+Et hablante sabe sobre la lengua mucho mas que el lingiista, en e sen ido ‘ ane
+necesita hablar. El lingiiista analiza y suele olvidarse, muchas veces. de awe ac a
+bién es un hablante. Pero como hablantes siempre hablamos y uti jizamos la ng a
+en funcién de necesidades. Y esas necesidades son, en definitiva, interacciona *
+
+En ultima instancia, se esta pensando en una relacion de tipo diolectico: siste-
+ma-paradigma y estructura-sinfagma son mutuamente dependientes. n woul, “
+sentido también son interdependientes la opcién potencial y la opcidn realizada,
+recurso. Es una ldgica dle sintesis.
+
+Ef texto opera como una sintesis entre gramatica particular y contexto. sobre
+un texto determinado podemos dar cuenta de su organizacién gramatica
+y de cémo esta operando en relacion con su contexto.
+
+En un texto dado estan tanto la gramatica como el contexto. En un texto tene-
+mos tanto el conjunto de opciones disponibles como el conjunto de relaciones sociz
+les que permiten que ese texto se interprete en una direccién vy no en otra.
+
+| SISTEMA PARADIGMATICA REDES DE OPCIONES POTENCIALES
+
+OPCIONES REALIZADAS = RECURSOS
+
+SINTAGMATICA
+
+| ESTRUCTURA
+
+« f on con Ja lengua: la conciencia de
+que la escuela deberia ensesar fundamentalmente en relacion con la lengua: la concien
+la variacion de registros
+
+es
+
+8. Los profesores de Letras que ensefian espanol como lengua extranicra cuentan que ;
+anies suclen tener dificullades para entender de qué se rien los argentinos cuando ieer
+titulares de los diarios Pagina/l2 y Crénica
+
+20 EQUE ES UN
+
+4. Funciones del lenguaje
+
+ue va ad
+
+rollar la gramatica sistémico-funcional depen-
+
+1 neiones del lenguaje. El lenguaje es instrumental: permite
+
+Crapliy hnafidades. El lenguaje cumple una determinada funcién: obedece a determi-
+
+sito. El lenguaje no es un fendmeno auténomo ni es un sistema
+
+cerrado en si rnismo. Es un sistema que opera en una determinada direccién que su-
+¢ ‘esariamenie una interaccién en la que se lleva a cabo.
+
+neGL bee de proj
+
+vices tres funciones del lenguaje: la funcién ideativa -cémo construir signifi-
+cados~, la Rancién interpersonal —cémo intercambiarlos- y la funcién textual ~el mo-
+(ky Gr que ese intercambio se lleva a cabo—
+
+@l. Puncién ideativa
+
+La funcion ideativa da cuenta de cémo ef lenguaje organiza nuestra expe-
+riencia y da a conformar nuestra visién del mundo.
+
+También permite que las personas formulen operaciones ldgicas como las de re-
+lacionar un hecho con otro en términos de causa y efecto. El lenguaje no es un me-
+ro cédligo que relaciona automaticamente formas y significados. Es una manera de
+construir lo que habituahnente denominamos realidad; el lenguaje es el medio a tra-
+ves del cual nosotros pademos relacionarnos con eso que Harnamos realidad. La ma-
+nera de ver el mundo esta condicionada por la lengua. No todas las lenguas perciben
+de la venstia rnanera la realidad.” L enguas no son equivalentes porque construyen
+aanifeados en furcién de las necesidades propias de cada cultura. La funcién idea-
+tiva, enitonces, esta vinculada con el lipo de representacién que la lengua constraye
+del rian: siempre se la representa de un modo determinado.
+
+Funcién interpersonal
+
+onal se centra en aquellos aspectos del lenguaje que sir-
+ven para establecer y mantener relaciones sociales, es decir, para expresar tos
+roles saciafes que incluyen los roles comunicativos tales como los de quiénes
+son capaces de ordenur, preguntar, responder, afirmar, declarar, en deter-
+minadas situaciones,
+
+La funcidn interpers
+
+9. Para poder describir la reaticact recurrimos a las lenguas. y es claramente verificable que no.
+todas las kenguas describeri la reatidad de la mi ma forma. No todos los usuarios de las distin-
+tmismas relacicnes con la realidad. No voy a entrar en la larga discusién
+iste o no independientemente del suieto Las distintas lenguas fian deter-
+2 Viste en relacion con la realidad: las lenguas, en este sentido, construyen la
+
+as tiesen |
+
+LA PERSPECTIVA FUNCIONAL 21
+
+La fancién interpersonal hace hincapié en el papel que cmp renga: viel
+establecimicnite y el mantenimients de las relaciones sociales En definitive “ \ vs °
+je cuniple la funcién de construir las relaciones sociales que fos van a permite iivras
+iedad. La naturaleza de ese intercarnb
+
+o de una determinada
+ma en que sé intercanibian, el como de ese
+va a dar cuenta la funcion interpersonal. Un significado opera a partir de s
+dades de intercambio. La mecanica del intercanibio nos conduce bac jus te ess “
+les y los roles comunicativos. Esos roles tienen asignada una representaciGn sans i
+cal ‘En relacion con este punto, las viejas gramaticas escolares presses wale
+ban de las actitudes del hablante respecto de aquello que ese hablante este Hicies ‘
+La actitud del hablante determina en qué relacion interpersonal se enc vent jee if ws
+ese hablante.’” La idea de rol es muy importante. El rol irnplica la ps ves de uns
+tuacién que va cambiando de acuerdo con el uso que al hablante hace de Kensie vu
+hablante cumple distintos roles a lo largo de las distintas situacios ves en las cpue tne
+que interactuar. En tanto hablantes, todos cumplinos diferentes roles, que vari mare ari
+do la movilidad del conjunto de interacciones en las que nosotros participarmes
+
+tuar dentr
+
+intercambio, es aque
+
+4.3. Funcién textual
+
+La funcién textual se centra en los mecanismos que permiten a los usuarios
+del lenguaje utilizar los medios apropiados para creal mensajes en teatos Co
+herentes,
+
+saje es coherente si es consecuente consige misine y con eb cos
+ritores creer textos
+
+Un texto o men:
+texto de situacion. Esta furicion permite que los hablantes y @s¢ rs ores
+Ya hemios visto previamente la creacién de signilicadus y la interat citi ue tos ral “
+en que esa creacion de signilicados va a llevarse a cabo. La huncion textual se vp
+del medio adecuado para que ese significado se pueda intercanibiar: el texto. Vs
+ceritra eri su organizacion informativa.
+
+5. Clausulas, texto y contexto
+
+i a oyectar $ 2 el texto cue Ua dit vis
+La gramiatica sistémico-funcional se va a proyectar sobre el texto yy ent : ‘iit
+estructurales, su unidad de trabajo es la clausula.'' La proyeccion de las «le
+permite conformar el texto
+
+stile
+
+10. En este sentido, las viejas gramaticas distinguian entre modus y dictum. Et modus via ei!
+
+mode en que las cosas se decian y el dictun: eva Jo que se decia. La gianidlice forma treba’:
+fundamentalmente, sobre el dietuni. La funcién interpersonal tabaja sobre ta relacican ut 4
+modus y dictum. La funcion interpersonal se ocupa def modes que se adupta para deierinnce
+do tips de dictum. Le interesa trabajar sobre qué intercambio se va a th
+de la actitud que el hablante le imprime
+
+11. No es el objetivo del presente trabajo hacer una descripcida vahaustiva de ia claisuia L
+mos sus caracteristicas generales para ver como se inscribe deniro del t
+
+Pa cabe en hore
+

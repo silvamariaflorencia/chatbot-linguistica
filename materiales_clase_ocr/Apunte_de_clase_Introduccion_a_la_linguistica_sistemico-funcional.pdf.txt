@@ -1,0 +1,275 @@
+Apunte de clase “Introducci6n a la_ linguistica
+sistémico-funcional”
+
+Fuente: Mairal Uson, R. et al. (2018). Teorias lingtiisticas. Madrid: UNED Editorial. Capitulo 4 “La
+linguistica funcional |: objeto de estudio y presupuestos metodoldgicos”, §§ 2, 2.1, pags. 210-216.
+“La lingUistica funcional Il: la lingtistica sistémica-funcional de Halliday”, §§ 1, 2.1, 2.2, 3, pags.
+255-258; 272-284.
+
+Modelo funcionalista —- Estudio semidtico del lenguaje
+
+e El lenguaje es una herramienta que sirve para la comunicacién entre personas que
+interactuan. Es un recurso que utilizamos para transmitir significado en un contexto.
+
+- Existe una dependencia entre texto y contexto en la que estan involucrados
+elementos gramaticales y discursivos.
+
+e El lenguaje es un sistema semidtico que ofrece una serie de opciones. Esto es,
+reconocer que el lenguaje es un conjunto estructurado de opciones para la creacién
+de significado en un contexto social y cultural
+
+e El lenguaje es un proceso social donde el individuo se forja de manera intersubjetiva
+a través de su participacién en los actos sociales de la comunicaci6n.
+
+- Laaceptabilidad de una opcion lingUistica depende del contexto de uso.
+- Launidad de andlisis es la clausula.
+
+e La gramatica no es un conjunto de reglas normativas, sino un recurso para hacer
+elecciones en la comunicacién. Ejemplo:
+
+a. "¢Podrias cerrar la ventana?" (peticién indirecta con  cortesia, eleccién
+interpersonal).
+
+b. "Cierra la ventana." (orden directa, diferente eleccién interpersonal).
+
+1. Origenes de la Lingiiistica Sistémica Funcional
+
+La LSF tiene sus raices en la tradicién de la lingiiistica europea a partir de los trabajos de
+Ferdinand de Saussure.
+
+Se nutre de la lingtiistica antropolégica americana y de la lingiiistica tradicional y
+moderna china, debido a la especializacién de Halliday en estas lenguas.
+
+> J.R. Firth y la Escuela de Londres fueron una influencia primaria.
+
+> B.K. Malinowski aportd la idea de que el significado tiene su funcién en un
+contexto. Malinowski intent6 traducir textos polinesios y se percaté de que carecian
+de sentido sin el contexto. Su influencia en el funcionalismo impactdé a Firth y
+Halliday.
+
+Introduccién a la Lingiistica/Lingijistica
+
+UNPAZ/ISPEE
+
+Prof. Maria Florencia Silva
+
+> Firth enfatiz6 la visibn social y funcional del lenguaje y acufd el término
+"sistema".
+
+2. Conceptos Basicos
+
+La LSF se enfoca en el significado en los textos, considerando el impacto del contexto
+social y cultural.
+
+La lengua se concibe como un sistema de signos que se definen por oposicién, segun
+Saussure:
+
+- El signo lingijistico une un significante (imagen acustica) y un sig
+mental).
+
+icado (imagen
+
+Relaciones entre signos lingUisticos:
+- Paradigmaticas: signos que podrian aparecer en un contexto pero se oponen (e.g.,
+casa vs. palacio). Se aplican en el léxico.
+- Sintagmaticas: relaciones de un signo con otros en una estructura gramatical (e.g.
+La casa blanca tiene macetas de colores). Se aplican en la sintaxis.
+
+e En la gramatica sistémica, el sistema precede a la_ estructura, con
+representaciones abstractas en términos paradigmaticos.
+
+2.1. El Enfoque Semantico-Funcional
+
+El lenguaje permite la comunicacion y los usuarios interactuan para comunicarse y
+entender el mundo.
+La funcién general del lenguaje es semantica.
+e El lenguaje crea tres tipos de_ significados simultaneamente: experiencial,
+interpersonal y textual:
+
+> Significado Experiencial (Metafuncion Ideativa):
+Se refiere a la representacion de la realidad.
+Describe el mundo que nos rodea, incluyendo quién hace qué a quién, cuando,
+dénde, por qué y como.
+Refleja diferencias a través de la seleccion de la transitividad o elecciones
+léxicas.
+Se asocia con el campo del registro, que se relaciona con el foco de la actividad
+y la funcidn social del texto.
+Se materializa a través de patrones de transitividad en el lenguaje, como
+procesos (verbos), participantes (nombres) y circunstancias (sintagmas
+preposicionales).
+
+> Significado Interpersonal:
+Se relaciona con la interaccion con los demas.
+Refleja diferencias con el sistema de modo.
+
+Introduccién a la Lingiistica/Lingijistica
+
+UNPAZ/ISPEE
+
+Prof. Maria Florencia Silva
+
+Se asocia con el tenor del registro, que se refiere a las relaciones sociales entre
+
+los participantes.
+
+Se materializa mediante patrones de modo, como tipos de clausulas
+
+(interrogativas, etc.), el grado de obligacién o certeza (modalidad) y el uso de
+vocativos o marcadores de cortesia.
+
+Significado Textual:
+
+Tiene en cuenta el contexto en el que se desarrollan las otras dos
+metafunciones.
+
+Se manifiesta a través de la variable de registro.
+
+Se asocia con el modo del registro, que se refiere al canal de comunicacion.
+
+Se materializa por medio del tema, incluyendo patrones de énfasis y cohesién
+en la organizacion de la clausula.
+
+e El lenguaje es un sistema semidtico con opciones; cada eleccién adquiere
+
+significado en oposicién a otras. Un sistema semidtico es un conjunto finito de
+signos discretos.
+
+El uso del lenguaje esta motivado por un objetivo, ya sea pragmatico o interpersonal.
+El lenguaje es un proceso social donde el individuo se construye a través de la
+intersubjetividad (acuerdo en el significado).
+
+2.2. La Clausula como Unidad de Analisis
+
+La clausula es la unidad central de analisis en la LSF porque permite observar cémo se
+estructura el significado en el lenguaje.
+
+e Tres sistemas dentro de la clausula:
+
+1.
+
+Sistema de Transitividad (metafuncidn ideativa): analiza los procesos
+(verbos), participantes (sustantivos) y circunstancias (sintagmas
+preposicionales).
+
+Sistema de Modo (metafuncidn interpersonal): estudia los tipos de clausulas
+(declarativas, interrogativas, imperativas) y el uso de la modalidad.
+
+Sistema de Tema (metafuncidn textual): examina la organizacion de la
+informacion en la clausula (tema y rema).
+
+e "El presidente anuncié nuevas medidas en la conferencia de prensa."
+
+le)
+
+le)
+
+le)
+
+Ideativa: Proceso verbal (anuncid), actor (el presidente), destinatario (nuevas
+medidas), circunstancia (en la conferencia de prensa).
+
+Interpersonal: Modo declarativo, sin modalizacidn (certeza alta).
+
+Textual: Tema = "El presidente", rema = "anunciéd nuevas medidas...".
+
+3. Lenguaje y Contexto
+
+El texto refleja el contexto en el que se cred.
+
+Introduccién a la Lingiistica/Lingijistica
+
+UNPAZ/ISPEE
+
+Prof. Maria Florencia Silva
+
+La capacidad de deducir el contexto del texto demuestra la relaciédn entre lenguaje y
+contexto.
+
+e LaLSF estudia el uso del lenguaje en contexto.
+> Los contextos son manifestaciones del sistema cultural.
+
+> Divisién del contexto: contexto de la cultura (género) y contexto de la situacion
+(registro).
+
+Halliday correlaciona la organizacion del lenguaje con rasgos contextuales especificos.
+
+e Un texto es el resultado de elecciones que materializan dimensiones contextuales:
+campo, modo, tenor, género e ideologia.
+
+3.1. El Contexto de la Cultura: El Género
+
+El género es el uso del lenguaje con un proposito definido culturalmente.
+Componentes del género:
+
+> Estructura esquematica: Componentes formales (introduccién, desarrollo,
+conclusi6n).
+
+> Estructura realizacional (funcional): Funcién de cada fase (presentar, argumentar,
+cerrar).
+
+3.2. El Contexto de la Situacidén: El Registro
+
+El registro describe el impacto del contexto inmediato en el uso del lenguaje.
+El registro son los recursos semanticos asociados a una situaci6on.
+
+- Variables de registro:
+
+> Campo: Tema.
+
+> Tenor: Roles y relaciones.
+> Modo: Canal (oral/escrito).
+
+El lenguaje varia segun el usuario y el uso.
+
+e Una situacién social se configura mediante el texto/discurso, activado por el
+contexto relevante.
+
+3.2.1. Campo
+
+El campo es el foco de la actividad y refleja la funcién social del texto.
+
+Los registros restringidos tienen elementos formales predecibles. Por ejemplo, el
+protocolo de seguridad de los pasajeros de un avidn. El grado de restricci6n es un
+continuo.
+
+Diferencias entre situaciones técnicas y cotidianas «+ Diferencias entre lenguaje técnico y
+cotidiano.
+
+Introduccién a la Lingiistica/Lingijistica
+UNPAZ/ISPEE
+Prof. Maria Florencia Silva
+3.2.2. Tenor
+
+El tenor son las relaciones entre participantes y sus roles.
+
+Define el papel de las relaciones en la situaci6n.
+
+La relacién emisor-receptor en una escala de formalidad: muy formal — formal — bastante
+formal — neutro — bastante informal — informal — muy informal
+
+> Factores del tenor:
+- Poder (igual/desigual)
+- Implicacidn afectiva (alta/baja)
+- Contacto (frecuente/infrecuente)
+
+3.2.3. Modo
+El modo considera la distancia entre el lenguaje y la interaccién.
+
+> Factores: distancia espacial/interpersonal y distancia experiencial.
+- La distancia espacial considera las posibilidades de retroalimentacién
+(conversacién vs. libro).
+- La distancia experiencial considera la distancia entre el lenguaje y el proceso
+social.
+
+El modo es el medio de la actividad lingiistica.
+
+Distincién basica: lenguaje oral vs. lenguaje escrito. Casos complejos: texto escrito para
+ser leido en voz alta, texto oral para ser escrito.
+
+El canal es el vehiculo de transmisi6n.
+
+e Relacién canal y modo: las propiedades del modo derivan del canal.
+
+El lenguaje oral es espontaneo y se usa en interacciones; el lenguaje escrito permite mas
+elaboracion.
+

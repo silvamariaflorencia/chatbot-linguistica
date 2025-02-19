@@ -1,0 +1,1908 @@
+CAPITULO 3
+El medio del lenguaje
+
+Victoria Marrero Aguiar y Pilar Ruiz-Va Palacios
+
+16 de noviembre de 1974 — El radiotelescopio de Arecibo
+(Puerto Rico) envia el mensaje de radio mds potente jamds emitido.
+Se dirigié hacia el ctimulo de estrellas M13,
+al que llegard aproximadamente en el afio 27.000.
+Constituido por 1679 bits, contiene informacion sobre la tierra
+y la especie humana.
+
+Aunque es poco probable que el mensa-
+je de Arecibo sirva para conversar con otros
+habitantes de la galaxia (su respuesta tarda-
+ria 50 milenios), es una muestra no sélo de
+los logros tecnolégicos humanos, sino tam-
+bién de nuestra necesidad de comunicaci6n,
+y especialmente de los variadisimos medios
+a través de los cuales podemos intentar esta-
+blecerla.
+
+En este capitulo nos ocuparemos de los
+medios primarios del lenguaje: el oral y el
+signado. Y del principal entre los secunda-
+rios: la escritura.
+
+La consideraci6n de las lenguas de sig-
+nos como cédigos de comunicacién lin-
+giifstica en pie de igualdad con las orales ha
+arrojado nueva luz a los estudios sobre el
+
+El mensaje de Arecibo 1 : : aA
+hutp://www seti.org/Page.aspx?pid=688 enguaje, como veremos a continuacion.
+
+CAPITULO 3. EL MEDIO DELLENGUAJE 63
+
+ESQUEMA
+
+1.
+
+N
+
+Manifestaciones del lenguaje: oral, signado y escrito.
+1.1. Los medios del lenguaje.
+1.2. Medios secundarios: “los otros”.
+Las lenguas de signos.
+2.1. Las lenguas de signos... zlenguas para la Lingiifstica?
+2.2. Tan distintos, tan iguales.
+2.2.1. La doble articulaci6n.
+2.2.2. Riqueza léxica y complejidad gramatical.
+2.2.3. Evidencias psicolingiiisticas y neurolingiiisticas.
+2.3. Variacién y variedad en las lenguas de signos.
+2.4. Laescritura y las lenguas de signos.
+2.4.1. La dactilologfa, un cédigo secundario hibrido.
+La escritura.
+3.1. Los sistemas de escritura.
+3.1.1. Los sistemas logogréficos.
+3.1.1.1. Los pictogramas.
+3.1.1.2. Los ideogramas.
+3.1.1.3. Los logogramas.
+3.1.1.4. La escritura jeroglffica.
+3.1.2. La escritura fonografica.
+3.1.2.1. Los silabarios.
+3.1.2.2. Los alfabetos.
+3.2. Oralidad y escritura.
+3.2.1. Caracteristicas de la lengua escrita.
+
+RESULTADOS DE APRENDIZAJE
+
+Al concluir la asimilacién de este capitulo, usted habra conseguido: ~
+
+Discriminar las caracteristicas esenciales de cualquier sistema lingiifsti-
+co y las de su propia lengua.
+
+Argumentar a favor de la igualdad entre las lenguas de signos y las ora-
+les como sistemas complejos de comunicacién humana.
+
+Caracterizar los rasgos comunes y diferentes entre las lenguas de signos
+y las lenguas orales.
+
+Exponer, comentar y ejemplificar los rasgos basicos de la Lengua de
+Signos Espafiola (LSE).
+
+Diferenciar entre medios primarios del lenguaje y medios secundarios.
+Distinguir los rasgos caracterfsticos de la lengua oral y la lengua escrita.
+Valorar la significaci6n de la escritura en la historia de la Humanidad.
+Reconocer los diferentes sistemas de escritura.
+
+64 VICTORIA MARRERO AGUIAR Y PILAR RUIZ-VA PALACIOS
+
+1. MANIFESTACIONES DEL LENGUAJE: ORAL,
+SIGNADO Y ESCRITO
+
+Intente encontrar un contraejemplo para cada una de las siguientes afir-
+maciones:
+
+CJ Una caracteristica esencial del lenguaje es que se escribe por medio de
+letras y signos de entonacién y puntuacion.
+
+(J El lenguaje es un instrumento de comunicacién.
+
+(J Ellenguaje se articula en los organos fonadores, es transmitido en forma
+de onda acistica y se percibe a través del oido.
+
+CD Ellenguaje se compone de un niimero limitado de elementos que se pue-
+den combinar jerarquicamente en un numero infinito de mensajes nuevos.
+
+Como habra detectado, el ejercicio anterior es de complejidad creciente.
+Posiblemente un lector reflexivo, aun sin formaci6n lingiiistica previa, men-
+cionaria como contraejemplo a la primera afirmaci6n las miles de lenguas sin
+escritura que existen en el mundo (la mayor parte, de hecho), e incluso a otras
+como el chino, la mas hablada, cuyo sistema de escritura que no se basa en las
+letras, correlatos de sonidos, sino en conceptos, como vera en préximos apar-
+tados de este mismo capitulo.
+
+Contradecir la segunda afirmaci6n, sin embargo, requiere un conocimien-
+to especifico recogido en el tiltimo apartado del capitulo 1: aunque la intersec-
+cién entre comunicacién y lenguaje es muy amplia, no toda la comunicacidn es
+lingiifstica y no siempre el lenguaje se utiliza para comunicar.
+
+LY la tercera afirmaci6n? Es la que concierne muy
+especialmente a los contenidos de este capitulo. Emi-
+nentes lingiiistas, précticamente todos, hasta épocas
+muy recientes, habrian sostenido que esa definicién
+no tiene contraejemplos. Efectivamente, la gran mayo-
+ria de los homo loquens cabria en ella, pero unos
+sesenta millones de personas en todo el mundo resul-
+tarian excluidas: las personas sordas que se comunican
+mediante lenguas de signos.
+
+hutp:/firkedmagazine.com
+
+En la base de esa exclusidn esta una confusién muy arraigada entre el con-
+cepto de gesto, compafiero expresivo de las emisiones orales de caracter indivi-
+dual y asistematico, y el de signo o sefia, con el que la comunidad sorda signante
+se comunica, codificando sus mensaje a través de los movimientos de las manos
+en relacion con la cara y el cuerpo, y que son recibidos mediante la vista.
+
+En el medio oral y el medio signado, el procesamiento de la sefial en el
+cerebro activa las mismas 4reas del lenguaje, que se describiran mas adelante.
+En ambos casos (cf. cap. 1) nos encontramos ante unos sistemas de signos com-
+
+CAPITULO 3. EL MEDIO DEL LENGUAJE 65
+
+puestos por un ntéimero finito de elementos discretos, los cuales, mediante com-
+binaci6n y recurrencia, estableciendo unas relaciones de dependencia y jerar-
+quia, pueden dar lugar a un nimero infinito de combinaciones nuevas, inde-
+pendientes de la situacidn de habla, que todos los usuarios del sistema podran
+reconocer, aunque las reciban por primera vez. Esto ha implicado, a su vez,
+una modificacién en el concepto mismo de lengua, por lo que se refiere al
+caracter audio-oral o auditivo-vocal, que, aun conservando su preponderancia
+cuantitativa, no es ya el Gnico medio del lenguaje humano.
+
+Por tiltimo, si es usted capaz de encontrar contraejemplos a la ultima afir-
+maci6n, o bien ha descubierto una lengua nueva que cambiara los cimientos de
+la ciencia lingiifstica, o bien esta en un error.
+
+En este capitulo se establecera la diferencia entre los medios primarios y los
+secundarios del lenguaje. Le presentaremos las caracteristicas esenciales de la
+lengua de signos, como medio primario igual que la lengua hablada. Y termi-
+naremos con las particularidades de registro del principal medio secundario: la
+escritura.
+
+1.1. Los medios del lenguaje
+
+El lenguaje necesita un medio para su transmisi6n, tanto como un emisor,
+un receptor, un cddigo, y los demas elementos del sistema de la comunicaci6n.
+
+Solemos distinguir, como vimos en el capitulo 1, entre medios del lengua-
+je primarios y medios secundarios, supeditados a los anteriores.
+
+EI medio primario mas comin es el habla, que se
+caracteriza por su cardcter auditivo-vocal: se genera
+por medio de una onda sonora que modifica el aire
+espiratorio en su paso, primero, por las cuerdas voca-
+les, y luego por las cavidades de resonancia supragl6-
+ticas (boca y nariz). Tras expandirse en las moléculas
+de aire que rodean a los interlocutores (transmision
+irradiada), \a onda sonora del lenguaje llega al ofdo
+del receptor, donde comienza el proceso de descodifi-
+caci6n, en el cual se incluye la identificacion de la
+situacién espacial de la fuente sonora (recepcidn direccional; cf. cap 1, § 2).
+
+www.interculturaldialogue2008.eu
+
+Esta afirmaci6n, que tuvo el mérito de situar la lengua hablada en el centro
+del interés lingiiistico, desplazando Ja atencién que tradicionalmente se habia
+prestado a los estudios basados en textos escritos, result6 sin embargo dema-
+siado restrictiva para dar cuenta de todas las manifestaciones naturales del len-
+guaje, entendiendo por tales las que se adquieren de modo espontdneo y sin
+aprendizaje formal por los nifios de una comunidad: no inclufa las lenguas de
+
+66 VICTORIA MARRERO AGUIAR
+
+signos de] mundo. En ellas, el medio del lenguaje tiene cardcter manual-visual:
+el emisor construye su mensaje mediante la posicién y el movimiento de las
+manos, en relacién con la cara (cuya expresion se codifica lingiiisticamente) y
+el resto del cuerpo (propio y del interlocutor). El receptor, a su vez, utiliza el
+sistema sensorial visual para comenzar la descodificacién del mensaje.
+
+66 — SOCRATES: [...] Respondeme: si nosotros no tuviésemos ni voz ni
+lengua, y quisiéramos, sin embargo, designarnos los unos a los otros las
+cosas, {no recurririamos, como los mudos, a los signos de las manos, de la
+cabeza y de todo el cuerpo?
+
+— HERMOGENES: Claro que lo harfamos asf, Sdcrates. 9 9
+
+Platén. Cratilo o de la exactitud de los nombres. Edicién electrénica de www.philosophia.cl
+
+En cuanto a los medios secundarios, dependientes de los dos primarios,
+algunas sociedades han desarrollado un método para fijar los mensajes lin-
+giifsticos de manera que puedan perdurar en el tiempo. La escritura es el mas
+relevante de todos ellos:
+
+° Desde un punto de vista social y cultural, el conocimiento del cédigo
+escrito ha dotado a sus poseedores, desde su invencién, de una posicién
+dominante_sobre el resto de la sociedad, por su acceso a las bases del
+saber; a mas amplia escala, las sociedades alfabetizadas han dominado a
+las que no posefan cédigo escrito.
+
+¢ Desde un punto de vista cognitivo, mientras el lenguaje se adquiere
+esponténeamente, la lectoescritura requiere un aprendizaje formal, que a
+su vez posiblemente acttie como desencadenador de un desarrollo espe-
+cifico de ciertas conexiones neuronales —cf. cap. 4 § 2.3.1-.
+
+e Desde un punto de vista lingiiistico, como veremos mas adelante (§ 3), la
+escritura presenta diferencias de registro respecto a la oralidad 0 la comu-
+nicaci6n signada, y se caracteriza por una estructura textual determinada.
+
+Pero sera la escritura el tinico medio secundario del lenguaje?
+
+1.2. Medios secundarios: “los otros”
+
+éCree que la escritura es el Unico medio secundario del lenguaje?
+Intente pensar en algtin otro, teniendo en cuenta que:
+
+(J Depende del habla, no la sustituye.
+
+LJ Es subsidiario de un cédigo previo, y mantiene las reglas formales y fun-
+cionales de éste.
+
+CAPITULO 3. EL MEDIO DEL LENGUAJE 67
+
+Posiblemente en su respuesta a la pregunta ante-
+rior habré pensado en un sistema como el alfabeto
+braille, que traslada cada una de nuestras grafias
+(letras y signos de puntuacién) a una combinaci6én de
+puntos (hasta un maximo de seis, dos filas de tres), los
+a cuales, una vez perforados, permiten a los invidentes
+‘ detectar las grafias correspondientes, y por tanto leer
+textos sin mediacién del sistema visual, sino median-
+te el tactil (por lo cual, los sistemas de escritura tam-
+bién inclufan esta modalidad sensorial).
+
+www.soc.hawaii.edu
+
+. oe + 3.45 A M]- |¥| — |
+Otra situacién similar es la del cédigo morse, que fs NIL. zZ1_—_|
+traslada las grafias occidentales a conjuntos de pulsa-_ {€ Oh
+ciones breves y largas susceptibles de ser transmitidas [z Q Uv
+R Z Fl. [R ~. ch
+a través del telégrafo. ee 7
+oe z "I Ho T Al
+Estos dos tiltimos ejemplos representan medios [f v 2
+doblemente secundarios (terciarios, si se quiere), pues- |2}—4* ;
+to que recodifican la escritura, que a su vez implica LT ty =e Es
+una transcripcién previa del habla. htip//niahd.wm.edu
+
+Sin embargo, hay otros medios secundarios para el lenguaje, y no todos
+implican variar el medio de transmisi6n de la sefial. Entre los mas exdticos, y
+sin embargo préximos, se encuentran las lenguas silbadas. Existen ejemplos en
+los cinco continentes, en lenguas tipol6gicamente tan distantes como el maza-
+teco mejicano 0 el turco. Gracias al sustrato lingiiistico, al ingenio de sus habi-
+tantes, y a la complicada orografia de La Gomera, también contamos con una
+codificacidn silbada del espafiol de Canarias: el silbo gomero.
+
+En cualquiera de estos casos, los mensajes silbados reducen la lengua habla-
+da, limitan su inventario de vocales y consonantes a una sucesién de soplos
+agudos, cuya frecuencia y duracidn varia para intentar ajustarse en todo lo posi-
+ble a las caracteristicas de ese mismo mensaje hablado en Ia lengua a la que per-
+tenecen los silbantes. 7
+
+EI silbo
+
+No todas las lenguas silbadas utilizan las mismas claves para conseguir esas seme-
+janzas: si en el habla se utilizan diferencias de tono para distinguir palabras (lo que cono-
+cemos como “lenguas tonales’), el silbo reproducira ese patron melédico; si no es asi,
+como ocurre en espafiol, el silbo se aproximara a los valores de frecuencia sonora de
+las vocales (/i, e/ son agudas, frente a /u, o/ que son graves).
+
+En el caso mas cercano a nosotros, el silbo gomero parece tener su origen en las len-
+guas bereberes prehispanicas; a medida que el guanche desaparecia, en La Gomera el
+silbo se iba adaptando a la nueva lengua, el espafiol.
+
+El primer estudio fonético sobre este codigo secundario se debe a Ramon Trujillo, en
+1978: El silbo gomero: andlisis lingiistico. En él se establecia la existencia de dos voca-
+
+68 VICTORIA MARRERO AGUIAR
+
+les y cuatro consonantes. Otros estudios posteriores (como los
+de Classe, o Meyer) defienden la existencia de cuatro vocales,
+todas las del espafiol hablado, excepto /u/.
+
+La reducci6n fonolégica conileva un alto grado de ambigtie-
+dad léxica (palabras como “cada”, “cala”, “cafa”, “cana”, “calla”
+y “cara” se silban de la misma manera). Para resolverla los sil-
+badores recurren al contexto -normalmente muy reducido en
+cuanto a temas de intercambio- y a la reiteracion de turnos con-
+versacionales (pregunta-respuesta) hasta que quedan claros el
+mensaje y la intencién comunicativa.
+
+Una de las noticias cientificamente mas relevantes sobre el
+silbo gomero fue la publicacién en 2005, en la revista Nature,
+del articulo titulado “Linguistic perception: Neural processing of
+a whistled language” (Manuel Carreiras, Jorge Lopez, Francis-
+co Rivero y David Corina): las areas del cerebro normalmente www.silbogomero.es/arte.php
+asociadas al lenguaje hablado se activan al escuchar el silbo
+pero solo en silbadores expertos, no en los sujetos de control. “Our findings demonstrate
+that the language-processing regions of the human brain can adapt to a surprisingly wide
+range of signalling forms” [Nuestros resultados demuestran que las regiones para el pro-
+cesamiento del lenguaje en el cerebro humano se pueden adaptar a un rango sorpren-
+dentemente amplio de formas de sefial]. .
+
+Ver (y oir) para creer...
+
+http:/Avww.lenguajessilbados.com/ Pagina del Gobierno de Canarias sobre len-
+
+guajes silbados en el mundo.
+
+@ http://www.silbogomero.es/ Pagina de Silboarte sobre el silbo gomero con mues-
+tras en audio.
+
+= http://www.youtube.com/watch?v=MCID1pe6zhg Video sobre el silbo gomero.
+
+2. LAS LENGUAS DE SIGNOS
+
+66 Aunque yo no sabfa nada del lenguaje de las manos, no tenfa dificultad
+
+alguna en seguir el movimiento elegante y complicado de sus dedos. Es tan
+maravillosa su forma de moverlos, que quizd haya acabado compren-
+diendo lo que me quieren decir sdlo de mirarlos fijamente. De la misma
+manera que conmueve una obra de teatro representada en un idioma
+desconocido. Sin embargo, es probable que aunque siga con los ojos los
+movimientos de sus dedos apenas vea sus gestos. El movimiento de sus
+dedos es como la fachada decorativa de un edificio, y, en realidad, tal vez
+esté mirando sin darme cuenta algo distinto que hay detras. 9 9
+
+Haruki Murakami. Cronica del pdjaro que da cuerda al mundo, Maxi Tusquets 2008,
+pp. 652-653. Traduccién de Lourdes Porta y Junichi Matsuura
+
+CAPITULO 3. EL MEDIO DEL LENGUAJE 69
+
+Los inicios de las lenguas de signos se remontan, posiblemente, al princi-
+pio de la comunicacién lingiiistica entre los seres humanos. No tenemos evi-
+dencias, naturalmente, pero ya Platén hace referencia a este modo de comuni-
+caci6n entre personas sordas, como hemos visto en la cita anterior del Cratilo.
+
+Sin embargo, salvo honrosas pero aisladas excepciones que veremos ense-
+guida, la historia de la Lingiifstica ha considerado hasta tiempos muy recientes
+que las lenguas de signos no eran verdaderos medios primarios de comunica-
+cién, en pie de igualdad con las lenguas orales, sino sistemas secundarios, desa-
+rrollados a partir de la gestualidad que acompafia a cualquier mensaje, y depen-
+dientes de la lengua oral.
+
+2.1. Las lenguas de signos... ¢lenguas para la Linglistica?
+
+Leonard Bloomfield, uno de los padres de la Lingtiistica moderna, escribid
+lo siguiente a propésito de las lenguas de signos:
+
+“Algunas comunidades tienen un lenguaje de gestos, que en ocasiones uti-
+lizan en lugar del habla. [...] Parece que estos lenguajes de gestos son sim-
+ples desarrollos de gestos ordinarios, y que cualquier
+
+gesto, y todos los que son complicados o no inme-
+
+Pa
+diatamente inteligibles, se basan en las convencio- WA
+fy
+rd
+
+nes del habla ordinaria” (Language, Chicago Univer-
+sity Press, 1933, edicién de 1984, p. 39).
+
+Considere ahora el gesto correpondiente a HAMBRE
+en la Lengua de Signos Catalana (LSC): Perellé y
+Frigola: Lenguaje de signos manuales. Barcelona,
+Ed. Cientifico Médica, 1987: 286.
+
+4Puede encontrar argumentos a favor o en contra de la afirmacién de
+Bloomfield a partir de ese dato?
+
+hambre
+fam
+
+La afirmacién de Bloomfield —que no resta nada a sus
+aportaciones al estudio cientifico del lenguaje (cf. cap. 6)—
+era fruto del espiritu de la época, en cuya base estaba una
+confusién de base importante, entre gesto y signo. No fue
+hasta 1960 cuando William C. Stokoe, desde el Laboratorio
+de Investigacion Lingiifstica de Washington publicé el pri-
+mer estudio que marcaria el giro que ha Ilevado a reconsi-
+derar el cardcter de las lenguas de signos. En ella se demos-
+
+William C. Stokoe, J. tr el cardcter discreto y descomponible de los signos, cuya
+fo eeade gone,  unidad minima son los gueremas o configuraciones distin-
+de las lenguas de signos. tivas de la mano, y se definié la guerologéa, similar a la
+
+Imagen: Z.
+Gallaudet University Press fOnologfa de las lenguas orales.
+
+70 VICTORIA MARRERO AGUIAR
+
+El siguiente gran hito en los estudios lingiifsticos de las
+lenguas de signos fue The Signs of Language, publicado en a Ee
+1979 por Edward Klima y Ursula Bellugi. En él, se plantea 7
+la evolucién histéricas de las lenguas de signos desde lo GIES
+mimico a lo arbitrario, analiza cuestiones muy novedosas, 4
+como los slips of the hands, errores de la mano, paralelos a
+los slips of the tongue o errores de produccién del habla, 0 la THE SIGNS
+tasa de habla / tasa de signos, la velocidad de produccién de OF LANGUAGE
+unidades lingiiisticas por unidad de tiempo. Uno de los capi- evs sestsanc
+tulos se dedica a cuestiones formales de gramatica (creacién
+léxica por composicién, morfologia, etc.) y el tiltimo a jue-
+gos de palabras, poesia y canciones “en un lenguaje sin sonidos”.
+
+»
+
+Las décadas siguientes fueron testigo de la aparicién de varios andlisis sobre
+la Lengua de Signos Americana desde el punto de vista psicolingiiistico! y neu-
+rolingiifstico’.
+
+El estudio de las lenguas de signos
+
+La obra mas popular de divulgacién cientifica (romantic science, segtin su propio
+creador) sobre las lenguas de signos es obra del neurédlogo Oliver Sacks, en su libro
+Veo una voz (Seeing Voices: A Journey into the Land of the Deaf 1989). En él se relata
+la situacion de los habitantes de Martha’s Vineyard, en Massachusetts, donde una sor-
+dera hereditaria dio lugar a un amplio bilingitismo entre sordos prelocutivos y oyentes.
+
+En Espana el interés por el modo de comunicacién de los sor-
+dos comenz6, con fines educativos, en el siglo xvi, cuando Fray
+Pedro Ponce de Leon desarrollé un método de comunicaci6n con
+los nifios sordos que estaban a su cargo tomando como referencia
+los signos de los monjes que habian hecho votos de silencio en
+los monasterios. Le siguieron otros educadores, oralistas* como
+correspondia a la época: Manuel Ramirez de Carrion (siglo xvi),
+Lorenzo Hervas y Panduro (siglo xvii), con su Escuela espafiola de
+sordomudos, o el arte de ensefiarles a escribir y hablar el idioma
+espanol. Hervas y Panduro (1735-1809), jesuita espafiol, ha sido
+teivindicado como el primer estudioso de las lenguas de signos
+
+desde un punto de vista cientifico y lingUistico. Defendié la igualdad A eee een
+
+entre las lenguas de signos y las orales, y establecio algunas de
+sus Caracteristicas gramaticales, como el orden de palabras para indicar papeles tema-
+ticos. Sus ideas habrian llegado hasta Stokoe por medio del francés Auguste Beébian®.
+
+' Pettito (1983, 1987 y 1988) sobre la adquisicién de la LSA en el nifio sordo mostré las mis-
+mas etapas de los nifios oyentes.
+
+* Consecuencias de las afasias en la lengua de signos de los pacientes sordos: Poizner, Klima y
+Bellugi (1987).
+
+* Se llama asf a las personas que perdieron la audicién antes de adquirir el lenguaje (0 a quie-
+nes nacieron sordos), a diferencia de los postlocutivos, que adquirieron la lengua oral antes de que-
+darse sordos.
+
+* Se entiende por tales a los defensores de ensefiar la comunicacién oral a los sordos.
+
+* Alonso Cortés: “Lorenzo Hervds y el lenguaje de los sordos”. http://www.ucm.es/info/
+circulo/no4/alonsocortes.htm
+
+CAPITULO 3. EL MEDIO DEL LENGUAJE 71
+
+—a ~~ Un siglo mas tarde, Francisco Fernandez Villabrille recogiod en su
+Diccionario de mimica y dactilologia 1500 signos de la LSE.
+
+La lingiistica moderna de la LSE fue mucho mas tardia: la pri-
+mera tesis doctoral realizada en Espafa en esta area fue presen-
+tada por M? Angeles Rodriguez Gonzalez en 1990 en la Universi-
+dad de Valladolid ®. En este momento, sin embargo, parece que
+vamos recuperando algo del tiempo perdido. Investigadores de
+diversas universidades (Alicante, Valencia, La Corufia, Santiago...)
+se han unido a organizaciones de sordos, como la CNSE (Confe-
+deracion Nacional de Sordos de Espana) para dar a conocer
+
+Pagina del Diccionario i=
+de mimica yy dactilologia, | aSpectos cada vez mas detallados de la LSE. Se han celebrado ya
+
+de Femandez Villabrille dos Congresos Nacionales de Lengua de Signos Espanola, y el
+(www.cervantesvirual.com) — tercero se ha celebrado en la UNED en septiembre de 2009.
+
+En los tltimos tiempos parece que, superada la fase de reivindicar el cardc-
+ter de lenguas naturales para las lenguas de signos, es el momento de retomar
+sus diferencias con la lengua oral, y reconsiderar las profundas implicaciones
+del canal visual, en relacidn con la iconicidad.
+
+66 Hahabido una primera etapa en la que ha sido necesario demostrar lingiifs-
+ticamente que las lenguas de signos eran sistemas completos de
+comunicacién equiparables a las lenguas orales. Esto ha provocado, como
+contrapartida, el intento de los lingiiistas por descubrir paralelismos en las
+lenguas de signos para los principales fendmenos de las lenguas orales,
+con la finalidad también de encontrar validez empirica en estas lenguas
+para las principales teorfas e hipstesis lingtifsticas del momento.
+
+Sin embargo, en la década de los noventa, estamos asistiendo a una nueva
+etapa en la que ciertos autores abogan por resaltar los aspectos mds pecu-
+liares de las lenguas de signos; aspectos que son_una consecuencia de las
+caracteristicas propias del canal viso-gestual. 9
+
+Esperanza Morales. “Lingiifstica de las Lenguas de Signos: Perspectiva histérica”.
+En Carlos Hernandez Sacristan, Montserrat Veyrat (eds.). Lenguaje, cuerpo y cultura, |
+
+¢Lengua de senas o lengua de signos?
+
+Existe en Espafia una cierta polémica (y una polémica cierta) respecto a esta doble
+denominacién. Desde un punto de vista histérico, sefia fue la denominacion tradicional,
+que paso a Ser sustituida por el cultismo signo a partir del siglo xix (Gascon Ricao, 2003).
+
+Entre los defensores de las sefias se esgrime como anglicismo innecesario la tra-
+duccién de Sign Language como Lengua de Signos (Storch de Gracia y Asensio 1998).
+Por su parte, el colectivo sordo, en su mayoria, defiende el sustantivo signo, como forma
+de homogeneizar su situacién en el contexto internacional.
+
+© http://signapuntes.googlepages.com/LSE-MAngelesRodriguez.pdf
+
+72 VICTORIA MARRERO AGUIAR
+
+El resultado es que, al margen del intercambio de argumentos en un sentido y otro,
+se dan situaciones paraddjicas, como que los materiales didacticos de la Asociacion de
+Sordos de Madrid lleven en su titulo la denominacion lengua de signos, y los de Fesor-
+cam (Federaci6n de Sordos de la Comunidad de Madrid) opten por /engua de sefias.
+
+Oficialmente, la Ley 27/2007, por la que se reconocen las lenguas de signos espa-
+fiolas en todo momento se utiliza el termino signos.
+
+2.2. Tan distintos, tan iguales
+
+El medio de transmisi6n no es la tinica diferencia entre la lengua oral y la
+signada. En esta tltima el ntimero de elementos minimos es mds elevado que
+cualquier sistema de fonemas.
+
+Por otra parte, la proporcidn de iconicidad es mucho més alta que la de las
+lenguas orales; en los cursos de iniciacién de la Asociaci6n de Sordos de
+Madrid se clasifican los signos en icénicos, abstractos y transiticidos, una meta-
+fora visual para denominar un punto intermedio entre la transparencia de los
+icénicos y la opacidad de los abstractos. Retomaremos esta cuestién en el cua-
+dro Amistades peligrosas: gestos y signos.
+
+Otra particularidad de las Lenguas de Signos es la simultaneidad, la capa-
+cidad para articular al mismo tiempo distintos elementos minimos: los signos no
+estan sujetos a la linealidad del habla’, codifican simulta-
+neamente todos sus rasgos (forma de la mano, orientaci6n,
+tipo de movimiento, expresi6n facial, etc.)
+
+Este unico signo, por ejemplo, corresponde a toda una
+oraci6n interrogativa pronominal: ;QUE HORA ES°? El
+componente entonativo reside en la expresi6n de la cara,
+mientras que el sustantivo se codifica mediante el movi-
+miento del indice derecho hacia la mufieca izquierda’.
+
+Siguiendo con las especificidades, la funcidn del espa-
+cio que rodea a los sujetos que hablan, denominado espa-
+
+Todos los dibujos de este
+apartado forman parte del
+cio de signacion, es otra de ellas. Abarca el area que los Material didacica del Centro
+brazos del signante pueden alcanzar sin esfuerzo. En 1 no ciacign de Sordos de Madrid.
+
+7 Como veremos en el capitulo de Fonética, el habla tampoco es tan lineal como pensaba Saus-
+sure, también en ella existe la coarticulacién de sonidos.
+
+* Seguimos la convencién internacional que transcribe en mayusculas los términos en lengua de
+signos.
+
+° En las personas diestras; las zurdas efectuarian el movimiento inverso: indice izquierdo hacia
+la mufieca derecha.
+
+CAPITULO 3. ELMEDIO DEL LENGUAJE 73
+
+solo se sittian fisicamente los elementos del mensaje, sino que ademas permite
+aportar informacién gramatical (los morfemas de ntimero y persona del verbo
+HABLAR dependen del lugar del espacio en el que se articule el signo), y esta-
+blecer relaciones de correferencialidad (en comparaciones, los términos se sitti-
+an a derecha e izquierda del signante, por ejemplo). Pero ademas tiene una fun-
+cin discursiva, dando cohesion al texto en funcidn de la estabilidad en las
+localizaciones espaciales de los papeles tematicos. Algunos autores sugieren que
+el espacio ocupa en las lenguas de signos el papel que el tiempo (y su conse-
+cuencia, la linealidad, las relaciones sintagmaticas de contigtiidad) desempefia en
+las orales.
+
+Pero si son importantes las divergencias, mucho mas lo son las semejanzas:
+
+2.2.1. La doble articulacién
+
+Tanto las modalidades orales como las signadas se caracterizan por estar
+compuestos de unidades discretas y doblemente articuladas (cfr. cap. 1).
+
+Aunque los primeros estudios de las lenguas de signos no detectaban su
+caracter descomponible, Stokoe identificé tres rasgos minimos en el signo que
+constituirian sus rasgos fonoldgicos distintivos: forma o configuracién, lugar de
+articulaci6n y movimiento. A ellos se han sumado la orientacién y la expresi6n
+facial. Por lo tanto, los cinco elementos formacionales 0 pardmetros basicos de
+cualquier lengua de signos son:
+
+* Forma o configuracién de la mano (también se denominan pardmetros
+formativos figuras quinésicas 0 queiremas). M* Angeles Rodriguez dis-
+tingue 29 en LSE. Entre las mds frecuentes estan el dedo indice extendi-
+do y los demas flexionados, o la mano extendida en forma de estrella.
+
+e Su orientacién: arriba/abajo, al frente /
+al cuerpo; derecha / izquierda...
+
+En LSE el signo de ALUMNO y el de
+PROFESOR son idénticos, pero el pri-
+mero esta orientado hacia el signante (al
+cuerpo), y el segundo hacia el receptor
+(al frente). ALUMNO PROFESOR
+
+* Movimiento que se realiza (kinema). Puede ser un movimiento recto, en
+arco, circular, giratorio, en espiral... Y asi hasta 18 en LSE (Rodriguez
+Gonzalez). Vea un ejemplo: los pronombres personales ténicos se signan
+todos con la misma configuracién (indice de la mano dominante apun-
+tando y los demas dedos recogidos), pero varian su orientaci6n (para las
+tres personas del singular) y el movimiento (para la del plural: circular,
+y no lineal).
+
+74 VICTORIA MARRERO AGUIAR
+
+EL-ELLA NOSOTROS
+
+¢ Lugar de articulacién (zona del cuerpo en la que se colocan las manos, 0
+toponema). Hay cuatro zonas basicas, que se subdividen en puntos mas
+concretos: cuerpo, cabeza, brazo izquierdo (o no dominante) y mano
+izquierda (0 no dominante).
+
+Siguiendo con nuestro ejemplo, la configuracién de los pro-
+nombres vista anteriormente, en
+la zona de la sien corresponde al
+verbo SABER.
+
+Entre el signo de MOTO y el de
+
+PRACTICAR la diferencia mds
+importante radica en el lugar de articula-
+ci6n: a la altura de la cintura para el prime-
+ro y de las orejas en el segundo.
+
+PRACTICAR
+
+Todos los estudios actuales coinciden en sefialar también un quinto ele-
+mento esencial: los componentes no manuales: cuerpo, boca, hombros,
+pero especialmente la expresiOn de la cara.
+
+¢ Expresién facial. Se trata de un componente no manual, pero con carac-
+ter distintivo como los anteriores. En LSE permite codificar los elemen-
+tos suprasegmentales 0 prosédicos (entonacién). El primer signo que apa-
+rece en la proxima vifieta, con expresi6n facial afirmativa significa, como
+vemos, AYER, EN EL PASADO, ANTERIORMENTE; sin embargo, con
+expresion facial interrogativa (cejas elevadas, movimiento de la cabeza
+hacia delante, contacto Y visual directo con el interlocutor) significaria
+z~CUANDO? si nos referimos a algo que pertenece al pasado. Pero no
+todas las lenguas del signos codifican la expresién de la cara de la misma
+manera: la americana dedica este recurso a los adverbios.
+
+Ademéas de los anteriores, otras taxonomias mds detalladas (Mujfioz Baell,
+1999) afiaden rasgos como los planos en que se articula el signo (horizontal,
+vertical, frontal) y los puntos de contacto entre los articuladores (dedos, manos,
+cuerpo). O la bimanualidad (Herrero, 2005).
+
+CAPITULO 3. EL MEDIO DEL LENGUAJE 75
+
+2.2.2. Riqueza léxica y complejidad gramatical
+
+Al igual que las lenguas orales, las de signos se caracterizan por su abun-
+dante vocabulario y una gramatica elaborada, que naturalmente no tiene por
+qué coincidir con la lengua oral de la comunidad en la que viva el sordo.
+
+La frase espafiola “Qué hiciste el lunes pasado?” se construye en LSE de
+la siguiente manera:
+
+AYER-ANTERIOR LUNES TU jHACER?
+
+El orden de palabras es muy distinto en una y otra. En LSE predomina OSV
+(objeto-sujeto-verbo), mientras que en espafiol es SVO; en la lengua de signos
+americana (ASL) predomina, como en inglés, SVO.
+
+Otro ejemplo: la manera de codificar gramaticalmente la intensificacién. En
+espafiol utilizamos preferentemente adverbios 0 locuciones adverbiales; en LSE
+se puede emplear la duplicacién (cuyo valor habitual es enfatico expresivo):
+
+“Hace media hora llovia mucho” >
+[HORA] [HACE MEDIA] [LLOVER] [LLOVER]
+
+Como hemos visto en los ejemplos anteriores, la flexién morfoldégica en
+las lenguas signadas se codifica mediante la repeticién, el cambio de direccién
+o el cambio de velocidad. En el plano sintactico, ademas del orden de palabras
+y el uso del espacio sintdctico, intervienen componentes no manuales, como la
+expresion facial, los giros corporales, etc.
+
+En cuanto a la riqueza léxica, diversos estudios han puesto de manifiesto
+que los nifios signantes desarrollan su lexicén de modo muy similar a los nifios
+hablantes, y que el tamafio del vocabulario en adultos signantes se correspon-
+de con el de los hablantes de su nivel sociocultural. Cuestién aparte es el modo
+en el que las lenguas de signos enriquecen su vocabulario, que, de nuevo, no
+tiene por qué coincidir con la lengua oral de su entorno. La proporcién de com-
+puestos léxicos es mucho mayor en las lenguas de signos que en lenguas ora-
+les como el espaiiol o el inglés. “Mar” se signa como AGUAACAMPO; “pija-
+ma” es ROPAADORMIR...
+
+76 VICTORIA MARRERO AGUIAR
+
+Ya observ6 Villabrille que algunos signos se comportaban como “radica-
+les”, a cuya sombra se agrupaban otros cercanos: PERA*ARBOL indicaba
+“peral”, ROSASARBOL indicaba “rosal”. Continuando con la tendencia,
+HOMBRE “CARTAS significa “cartero”; HOMBRE“ENVIDIA, “envidioso”:
+estamos pasando de un proceso de creacién léxica a un cambio en las clases de
+palabras: es lo que se conoce como configuraciones clasificatorias, los nom-
+bres 0 verbos que acttian en otros contextos como tales, se convierten en estos
+casos en morfemas ligados.
+
+Para saber mas...
+
+Angel Herrero: “Una aproximacion morfoldgica a las construcciones clasificatorias en
+
+la lengua de signos espafola’”.
+http://rua.ua.es/dspace/bitstream/10045/6135/1/ELUA_18_08.pdf
+
+2.2.3. Evidencias psicolingtiisticas y neurolinguisticas
+
+Las lenguas de signos han Ilevado a la palestra cuestiones esenciales no sdlo
+para la Lingiifstica, sino también para la Psicolingiifstica y la Neurolingiifstica.
+
+La adquisici6n de la lengua de signos presenta las mismas etapas que la de
+la lengua oral (balbuceo, frases de una sola palabra, etapa telegrafica, y por fin
+combinaciones de signos). El nifio signante, como cualquier otro, conversa con
+sus mufiecos, pero mediante signos manuales, y su uso del lenguaje se desa-
+rrolla, en definitiva, sin grandes diferencias respecto a los nifios oyentes.
+
+En cuanto al procesamiento del lenguaje, los experimentos tradicionales en
+psicolingiiistica, al aplicarse a las lenguas de signos, han mostrado paralelismos
+en todos los estadios. El lexicén mental presenta las mismas caracteristicas,
+aunque haya diferencias en detalles de almacenamiento (la sucesién temporal,
+tan importante en la lengua hablada, es sustituida por el ordenamiento espacial
+en los signantes). Los patrones de actividad cerebral de hablantes y signantes
+ante la presentacién de palabras y pseudopalabras (verbales / signadas) son
+similares, en ambos grupos se activan las mismas zonas del cerebro, indepen-
+dientemente de la modalidad oral o visual del estimulo (Pettito et al. 2000').
+Todo ello nos lleva a pensar que las regiones tipicamente asociadas al sistema
+auditivo en realidad pueden estar dedicadas al procesamiento fonoldgico, sea
+cual sea su medio de transmisi6n (auditivo o visual)!'.
+
+'© “Speech-like cerebral activity in profoundly deaf people while processing signed languages:
+implications for the neural basis of all human language”. Proceedings of the National Academy of
+Sciences, 97 (25), pp. 13961-6. http://www.pnas.org/content/97/25/ 13961 full.pdf+html
+
+" San José-Robertson L, Corina DP, Ackerman D, Guillemin A, Braun AR.(2004) “Neural
+systems for sign language production: mechanisms supporting lexical selection, phonological
+encoding, and articulation.” Hum Brain Mapp. 2004 Nov;23(3): 156-67.
+
+CAPITULO 3. EL MEDIO DEL LENGUAJE 77
+
+También las manos cometen errores involuntarios de producci6n, paralelos
+a los lapsus linguae de los que hablabamos en el capitulo 1.
+
+Por tltimo, desde el campo de las patologias, las lesiones cerebrales en
+signantes demuestran sintomas muy similares ante dafios parecidos: existe la
+afasia signante, como sabemos desde los afios 80 por los trabajos de Klima y
+Belugi.
+
+Amistades peligrosas: gestos y signos
+
+El menosprecio’ de la LingUistica tradicional hacia las lenguas de signos, que tan gra-
+ves consecuencias ha tenido para la comunidad sorda, posiblemente tiene su origen en
+un malentendido historico: no es lo mismo gesto o gesticulacion que sefia o signo.
+
+Grosso modo y como forma de empezar, gestos son todas las expresiones corpora-
+les, manuales o faciales —no lingiisticas— con la que acompafiamos el habla para apo-
+yar o delimitar lo dicho.
+
+En este sentido, los gestos, aunque en cierta medida puedan ser convencionales, no
+constituyen un codigo completo, y no pueden descomponerse en unidades mas peque-
+fias que, combinadas, dieran lugar a otras nuevas y mas complejas. Por el contrario, se
+encuentran siempre sujetos al aqui y ahora, carecen de libertad situacional (cfr. cap.1).
+
+Sin embargo, las relaciones entre gesto y lenguaje son algo muy complejo. El profe-
+sor Adam Kendon, uno de sus principales estudiosos, establecié este continuum cre-
+ciente en propiedades lingUisticas del componente no verbal:
+
+Gesticulacisn  emblema > pantomima > lengua de signos
+
+La gesticulacién requiere necesariamente un mensaje verbal, al que acompana para
+transmitir matices o especificar significados; no esta codificado y su componente de ico-
+nicidad es muy alto. No presenta propiedades lingiisticas. A ella corresponde nuestra
+pre-definicidn anterior: un apoyo para el habla. En el otro extremo del continuum esta-
+tia la lengua de signos, que no va acompafada de habla, y si que presenta todas las
+caracteristicas del lenguaje.
+
+Entre ambos, emblemas y pantomimas, sobre los que no vamos a extendernos por-
+que no tienen relacion con este capitulo. Un ejemplo de emblema seria este gesto
+para indicar “victoria”; puede ir o no acompanado de mensaje verbal (“jcampeones!”).
+Tienen significado constante y pueden ser entendidos en ausencia de habla. La panto-
+mima es, como indica su definicion académica, una representaciOn (una historia) expre-
+sada mediante gestos o mimica, sin que intervengan palabras.
+
+A medida que el continuo se desplaza de izquierda a derecha disminuye la necesi-
+dad de apoyo hablado y aumenta el caracter lingiistico del gesto > signo.
+
+Pero una vez establecida la diferencia entre gestualidad y lengua de signos, podemos
+plantearnos una nueva vuelta de tuerca: ges que las lenguas de signos no tienen ges-
+tualidad? La respuesta es si. Y como muy bien senala Alejandro Oviedo, “En las lenguas
+
+” Que ha merecido calificativos mucho mis duros: “porque es una perversién creer que nues-
+tra lengua oral es superior a la de sefias por el mero hecho de que hayamos nacido oyentes” (Reyes
+Tejedor 2007: 16).
+
+78 VICTORIA MARRERO AGUIAR
+
+de sefias la distinciOn entre los lingilistico y lo gestual no se puede trazar tan claramen-
+te como en las lenguas habladas, debido a que ambas modalidades se manifiestan, en
+las lenguas de los sordos, por el mismo canal articulatorio [...]. Sin embargo, se ha com-
+probado que existe un componente gestual en el discurso de las lenguas de sefias que
+coexiste con el lingiiistico.” (Oviedo, 2007: 116)
+
+Replicando el continuum de Kendon, Oviedo propone otro especifico para los signos
+de de las lenguas signadas:
+
+estable no estable
+lingistico no lingjiistico
+sefnales léxicas senas demostrativas sefias con clasificador gestos
+
+Una parte de todos los signos que constituyen las lenguas signadas, las sefas léxi-
+cas (o signos léxicos) responderian a las caracteristicas de los signos lingUisticos; los
+demas (signos demostrativos, signos con clasificador y gestos) supondrian aproxima-
+ciones variables al gesto no lingUistico (entre el que también se encuentra la pantomi-
+ma, como el gesto para “corbata”, que reproduce el conjunto de movimientos necesa-
+trios para hacerle el nudo).
+
+Sobre la psicolingtiistica evolutiva entre gesto y signo (es decir, la adquisicion y el
+desarrollo de ambos en los bebés sordos) se ha escrito también mucho (cfr. Para per-
+sonalizar su aprendizaje): “a medida que los nifos adquieren el lenguaje construyen
+también un sistema de habla-gestos. Gestos y habla crecen juntos” (McNeill, 1992: 295).
+
+2.3. Variacién y variedad en las lenguas de signos
+
+Como ocurre con la mayoria de los cddigos sin escritura, las lenguas de
+signos varian muy répidamente en el tiempo. Por otra parte, sus origenes, como
+los de las orales, son complejos, porque no sdlo dependen de un desarrollo
+espontaneo entre la comunidad de signantes, sino también de avatares histéri-
+cos, en nuestro caso relacionados, a menudo, con la educacién formal de las
+personas sordas.
+
+Ocurre, por ejemplo, que la Lengua de Signos Americana presenta grandes
+coincidencias con la Lengua de Signos Francesa, mas que con la Lengua de
+Signos Britanica, como usted seguramente esperarfa. La raz6n esta en el viaje
+de Laurent Clerc, un profesor sordo francés, que llegé a Estados Unidos en
+1817, de la mano del pastor americano Thomas Hopkins Gallaudet, para crear
+el Connecticut Asylum for the Education and Instruction of Deaf and Dumb
+Persons, la primera escuela de sordos del pais.
+
+Otro ejemplo de como Ia historia y la Historia han marcado el devenir de las
+lenguas de signos es el caso del Idioma de Sefias de Nicaragua, un “big-bang lin-
+giifstico”, como lo ha denominado el New York Times (http://www.nytimes.com/
+library/magazine/home/19991024mag-sign-language html). Cuando el movi-
+
+CAPITULO 3. EL MEDIO DEL LENGUAJE 79
+
+miento sandinista Ilegé al poder, a comienzos de los 80, se puso como uno de
+sus objetivos acabar con el analfabetismo en Nicaragua mediante la escolariza-
+cién obligatoria. Por primera vez en la historia de ese pais, los nifios sordos dis-
+pusieron de una escuela especial. En ella se encontraron de pronto 50 alumnos
+de distintas procedencias, cuyos sistemas de comunicaci6n se circunscribian al
+Ambito familiar 0 el entorno mds cercano. Aunque el método de la escuela era
+oralista (favoreciendo la comunicacién mediante lengua hablada), espontanea-
+mente los nifios empezaron a desarrollar un cédigo signado compartido, que
+empez6 siendo rudimentario, pero pronto desarrollé un sistema de reglas mas y
+mas complejo, con concordancia gramatical y demas mecanismos lingiiisticos.
+Hasta el punto de que los profesores no podfan participar en la comunicacién
+entre alumnos.
+
+En 1986 el Ministerio de Educacién nicaragiiense pidié el
+asesoramiento de Judy Keg], una lingiiista del MIT (Massa-
+chusetts Institute of Technology), que, con sus colegas, ha
+documentado no sdlo las caracteristicas de esa lengua, sino
+también su proceso de criollizaci6n': los alumnos recién Ile-
+gados eran instruidos en el nuevo cédigo, que cada vez se
+volvia mas estable y abstracto.
+
+Las circunstancias también han determinado la difusién
+de las lenguas signadas en comunidades con un alto nivel de
+ee eae, consanguinidad, cuya consecuencia ha sido una proporcién
+
+yexpertaenlenguas de sordera més alta de lo habitual. Asi paso en Martha’s Vine-
+
+fiber nebere uy yard, una isla en la costa de Massachusetts, o en la isla colom-
+
+biana de Providencia. En ambos casos, tanto los oyentes
+
+como los sordos aprendfan de forma natural la lengua de signos, y se comuni-
+can con ella tanto entre sf como con sus familiares sordos.
+
+Mas alld de las anécdotas, segtin la enciclopedia Ethnologue. Languages of
+the World, en el mundo existen al menos 121 lenguas de signos diferentes
+(http://www.ethnologue.com/show_family.asp?subid=90008), repartidas por
+todos los continentes, de Mali a Tailandia, de Islandia a Madagascar. Su nime-
+ro de hablantes es mas dificil de calcular, porque muchas de ellas no estan nor-
+malizadas ni descritas. Una forma “‘a trazo grueso” de calcularlo es basarnos en
+la estadistica de personas que nacen sordas: una de cada mil. Sobre el total de la
+poblacién mundial, estarfamos hablando de 6,7 millones de posibles signantes.
+
+De vuelta a nuestro pais, al menos existen dos lenguas de signos bien esta-
+blecidas: la LSE y la LSC, lengua de signos catalana. En un estudio sobre varia-
+cion léxica, Parkhurst y Parkhurst sefialan esa diferencia, seguida por la situa-
+
+3 Se denomina asi el proceso mediante el cual una lengua recién creada mediante mezcla de
+otras previas (pidgin) va adquiriendo complejidad y se estabiliza como cédigo propio. Volveremos
+sobre este concepto en el capitulo 9.
+
+80 VICTORIA MARRERO AGUIAR
+
+cién de la Lengua de Signos Valencia-
+na como dialecto diferenciado. La
+norma madrilefia se encontraria exten-
+dida por el resto de Espaiia, incluida
+Galicia, Pais Vasco, Andalucia, y Cana-
+rias. Asi lo representan graficamente
+(Parkhurst y Parkhurst 2007: 22).
+
+2.4, La escritura y las lenguas de signos
+
+Ha habido varias propuestas para trasladar al papel las lenguas de signos,
+pero de momento ninguna de ellas ha alcanzado suficiente consenso y extension.
+
+Del espacio al papel
+
+Stokoe fue el primero en proponer un cédigo escrito, en el cual se combinaban letras
+mayusculas (para la configuracion de las manos) y minusculas (localizacion y movi-
+miento) con signos diacriticos (relacion espacial, orientaciOn...).
+
+Desde Hamburgo llega el HamNoSys
+
+(Hamburg Notational System), que a dife-
+
+rencia del anterior tiene cierto caracter ico- ~( fs :
+
+nico, porque en cierta medida reproduce a ~
+
+con circulos y rayas elementos como la \ ¥
+oO Q d 4
+
+configuraci6n manual. Los movimientos se
+indican con formas geométricas y flechas.
+
+Seguramente uno de los sistemas
+mas populares es Signwriting: las Sign Waiting __Stokoo HamNoSys
+manos se codifican mediante cuadra-
+dos, su orientacién mediante trapecios,
+sus puntos de contacto con asteriscos,
+y la cabeza y la expresion facial en cir-
+culos parecidos a emoticonos. Tiene
+una adaptacion a la LSE (http://www.
+SignWriting.org/spain/lecciones/ ANE - Breyeltao!
+SignoEscritura/signo002.html).
+
+Representacién de la secuencia
+“¢Qué? “Tres osos” en ASL, Signwri-
+ting, en la notacién de Stokoe y con
+HamNo§ys. (Imagen de:
+www.signwriting.org).
+
+En Espaha, Angel Herrero (2004),
+desde la Universidad de Alicante, nos
+propone un método de escritura alfa-
+bética (no iconica) de las lenguas de
+signos. Cada signo se codifica median-
+te siete parametros, denominados “S LCQODF’”, que corresponden a la bimanualidad
+(S), lugar (I), contacto (C), configuracion (Q), orientacién (O), direccion (D) y forma (F).
+El orden es siempre éste. Ademas se establecen simbolos de oracion y gramaticales.
+
+4 &
+
+~ eX g IEA
+
+CAPITULO 3. EL MEDIO DEL LENGUAJE 81
+
+Sin embargo, la difusion de este método de escritura en el
+colectivo sordo no parece haber sido muy amplia, al menos de
+momento. Por lo tanto, en textos escritos sobre lengua de sig-
+nos, como el Diccionario de Lengua de Signos Espafiola o el
+Diccionario Normativo de la Lengua de Signos Espafiola y
+otros muchos materiales didacticos sobre LSE se presentan
+los signos mediante imagenes impresas 0 videos.
+
+IMPROVISAR:
+
+eon Imagen del Diccionario de Lengua de Signos Espajiola.
+
+2.4.1. La dactilologia, un cédigo secundario hibrido
+
+Mucho mis antiguos que los primeros intentos de escritura fueron los alfa-
+betos manuales o dactilolégicos, que representan las letras o grafias de la
+escritura mediante posiciones de la mano’. Su origen en Espafia parece remon-
+tarse al siglo xvi entre los judfos conversos de Toledo , que tenfan que guardarse
+de la Inquisicién mediante un cédigo secreto (Gascén Ricao, 2006). Su difusion
+y uso entre los sordos se disputa entre Fray Pedro Ponce de Leén y Juan de
+Pablo Bonet, a fines de ese siglo.
+
+Lo relevante de
+A q 7 este cédigo para un
+_-S> __ ALFABETO DACTILOLOGICO ESPANOL tinetlleta oa que se
+trata de un sistema
+doblemente secun-
+dario: re-codifica
+las letras, que ya
+son una traslacién
+de los sonidos. Por
+lo tanto, depende de
+la lengua oral, y no
+de la signada.
+
+Los sordos utili-
+zan la dactilologia
+para deletrear nom-
+bres propios o tér-
+
+i i aduc-
+‘Cos Femi agenda igen apc Mamesinmas | rewasn § ININOS SIN tr
+iia i ” cidn a las lenguas
+www.fesorcam.org/ Isignos.html de signos.
+
+'S Una sola, la dominante, en el alfabeto manual espaiiol, que es el internacional, y las dos en
+el britanico-irlandés.
+
+82 VICTORIA MARRERO AGUIAR
+
+3. LA ESCRITURA
+
+66 A writing system is a set of visible or tactile signs used to represent units of
+language in a systematic way, with the purpose of recording messages which
+can be retrieved by everyone who knows the language in question and the
+rules by virtue of which its units are encoded in the writing system. 9 9
+
+The Blackwell Encyclopedia of Writings Systems
+
+La aparicion de la escritura marcé una ruptura con respecto a las formas de
+concebir la palabra puesto que permitia simbolizar sobre un soporte material,
+de forma perdurable, tanto las ideas como las palabras 0 los sonidos. Aunque
+su origen esta relacionado con necesidades practicas derivadas bdsicamente de
+anotar la contabilidad con algtin tipo de simbolos, sus funciones se fueron
+extendiendo hasta ganar un estatus mucho mas importante (Ong, 1982). De
+manera generalizada, se considera la escritura como el paso evolutivo que ha
+llevado al desarrollo socio-econémico y politico a muchas civilizaciones, y, en
+consecuencia, parecen “inferiores” tanto sus etapas anteriores como las socie-
+dades que, en el mundo de hoy, todavia la desconocen.
+
+La escritura manuscrita sobre piedra, jg"
+tablilla, cuero, papiro, pergamino, papel, o |
+cualesquiera otros materiales, constituye sdlo
+un comienzo. La invencidn de la imprenta
+democratiz6 la alfabetizaci6n, al poder editar
+libros mas pequefios y econdmicos. En nues-
+tro tiempo, la television, el teléfono, la radio,
+el ordenador son también manifestaciones de
+la tecnologia de if palais, pais al Ee hipshnawtaeala ef asp teerences727S8iges
+arrollo de la electrénica. El] imperio de estas
+
+nuevas tecnologias le ha dado un nuevo impulso a la oralidad y ha producido
+un impacto irreversible en el siglo xx, generando una nueva oralidad —la “ora-
+lidad secundaria” de Ong-, que se diferencia de la primaria en que presupone
+la escritura y sus destinatarios son un grupo humano infinitamente mayor.
+
+3.1. Los sistemas de escritura
+
+Los sistemas de escritura que perviven en nuestros dias se pueden clasifi-
+car, esquematicamente, en dos categorfas: los no fonolégicos 0 logograficos
+
+'S “La escritura es un conjunto de signos visibles 0 tactiles que se usan para representar uni-
+dades de lenguaje de manera sistematica, con el propdsito de registrar mensajes que pueden ser
+recuperados por cualquiera que conozca la lengua en cuestién y las reglas en virtud de las cuales se
+codifican sus unidades en el sistema escrito”.
+
+CAPITULO 3. EL MEDIO DELLENGUAJE 83
+
+—pictogramas, ideogramas, logogramas-, en los que cada signo representa una
+idea o una palabra (por ejemplo, la escritura china), y los fonolégicos o fono-
+graficos, en los cuales los signos representan sonidos: son sistemas que inten-
+tan reproducir el discurso oral propiamente dicho y pueden ser silabicos —cada
+signo representa una sflaba (por ejemplo, la escritura japonesa)— 0 bien alfa-
+béticos: cada signo representa un fonema, como el drabe, el hebreo, el cirilico,
+el griego y todas las lenguas occidentales.
+
+3.1.1. Los sistemas logogrdficos
+
+3.1.1.1, Los pictogramas
+
+Los pictogramas son signos consistentes en figuras que representan enti-
+dades u objetos visibles. Los grafemas de la escritura pictografica guardan una
+cierta semejanza con lo representado: la relaci6n entre significante y significa-
+do es motivada e icénica. Al parecer, los primeros pictogramas fueron medios
+mnemotécnicos, su objetivo era ayudar a recordar hechos importantes. Se suele
+
+afirmar que esas muestras de anotacién,
+”- oR OR dibujo y rituales estan en el remoto ori-
+gen de la escritura.
+
+m
+Y #&
+wR
+~
+
+Z
+A MS ee Los pictogramas no son exclusivos de
+“Ss db _ lasescrituras primitivas. Nos rodean coti-
+dianamente hoy en dia. Estos son los de
+K 4 °F Ios Juegos Olimpicos de Beijing-2008.
+
+K & &® iLe parecen de validez universal, con
+independencia de las lenguas?
+
+Ret MY SH
+Ww pk ot &
+
+y
+(
+
+3.1.1.2, Los ideogramas -
+
+Los ideogramas son signos que repre-
+sentan conceptos, tanto concretos como abs-
+tractos. No ofrecen ya una relacién icénica
+
+de semejanza entre la forma escrita y el sig-
+nificado. En el origen de los ideogramas GB, GB
+posiblemente estén pictogramas que se han
+
+Pets
+
+Crisis’ se compone de dos ideogramas: |
+Escritura simplificoda Eseriture tradicional
+
+ido volviendo cada vez mas abstractos a lo ae
+largo del tiempo. El chino o el japonés tie-
+
+nen sistemas de escritura basados en ideo- wwew.cienciasysalud.com.ar/carreras.htm!
+gramas'®,
+
+'¢ El kanji japonés incorporé los ideogramas chinos a la escritura en japonés.
+
+84 PILAR RUIZ-VA PALACIOS
+
+Fijese en cémo se escribe en chino la palabra crisis: con los grafemas de dos
+ideogramas contiguos, cuyos conceptos se suman y dan lugar a un tercero.
+
+3.1.1.3. Los logogramas
+
+Los logogramas son signos arbitrarios, no
+ic6nicos, que representan palabras.
+
+EI sistema de escritura logografica mds anti-
+guo es el cuneiforme, origen de la escritura
+occidental actual.
+
+Su invencién se atribuye a los sumerios de
+Mesopotamia, al sur de Babilonia (siglo Iv a. C).
+Los escribas hacfan incisiones con cufias —de ahi ;
+el calificativo: cuneiforme, con forma de cufia— emeuncariibscest sTosodeibondliomelin
+sobre tablillas, habitualmente de arcilla. Las mas
+antiguas donde figuran tales marcas surgieron como un sistema de pictogra-
+mas. Las representaciones pictdricas se simplifican con el tiempo y se vuelven
+mas abstractas. Aparecen los logogramas, que designaban tanto objetos visua-
+les como entidades conceptuales; la relacién grafemas-significados devino arbi-
+traria y se redujo su ntimero. Estaba entonces ya presente el principio de trans-
+ferencia fonética, es decir, algunos signos representaban sonidos.
+
+Podemos descifrar la escritura cuneiforme gracias al descubrimiento de la
+Inscripcién de Behistiin (Persia) por Henry Rawlison en 1835.
+
+3.1.1.4. La escritura jeroglifica
+
+La escritura jeroglifica es un sistema muy complejo gréficamente, puesto
+que consta de varias clases de grafemas: figurativos (pictograma), simb6licos
+(ideograma y logograma), fénicos (fonograma; signos consondnticos) y los sig-
+nos determinantes (simbolos con funcién de orientar al lector). En un mismo
+texto, en un mismo enunciado, casi en una misma palabra, pueden coexistir
+jeroglificos de todas clases.
+
+Los jeroglificos, en sus inicios, eran una escritura de uso restringido, cir-
+cunscrita a la clase sacerdotal, con caraécter ceremonial y magico (su nombre
+viene del griego glifo, ‘escritura grabada’ y hieros, ‘sagrada’); al irse transfor-
+mando los templos en centros de negocios, surgid una casta de personas dedi-
+cadas exclusivamente a escribir: los escribas. La escritura jeroglifica comenz6
+a resultar poco practica. Entre 2700 y 2200 a.C., los signos jeroglificos deri-
+varon a grafias mas faciles de escribir con calamo (el instrumento de escritura
+por excelencia de la época) sobre papel de papiro. Asf surgié primero la escri-
+tura hierdtica (sacerdotal) y mas tarde la demética, mas popular y accesible.
+
+CAPITULO 3. EL MEDIO DEL LENGUAJE 85
+
+La piedra de Rossetta
+
+Jean-Frangois Champollion (1790-1832) es considerado el padre
+de la egiptologia tras haber conseguido descifrar los jeroglificos de la
+Piedra de Rossetta en 1824. Esta
+contiene una sentencia de Ptolo-
+meo V: “Este decreto ha de ser
+escrito sobre piedra con los sim-
+bolos de la escritura sagrada jero-
+glifica, popular demotica y griega”.
+
+Precisamente fue el cotejo a partir del griego lo
+que le permitio dar con las claves para tan extraordi-
+nario hallazgo, al advertir que la escritura era fono-
+grafica y poder descifrar dos nombres: Ptolomeo y
+Cleopatra.
+
+http://members.tripod.com/mundo_egipcio.mx/jeroglificos.htm
+
+http://1.bp.blogspot.com/_s8_IfbdhCAg/R49BF7Bupql/AAAAAAAAAcg/_a2x50a4R70/
+s400/PIEDRA_ROSETA.jpg
+
+3.1.2. La escritura fonografica
+
+En la evoluci6n de la escritura el signo (grafema) se independiza del obje-
+to referente y llega un momento en que se asocia al sonido de la palabra con que
+aquel es designado. Los caracteres pictograficos-ideogrdaficos avanzan hacia la
+escritura fonografica a través de la silaba. En las escrituras sildbicas se ha sis-
+tematizado la relacidn entre grafema y sonido. Los silabarios avanzan a su vez
+hacia los alfabetos, segtin se van simplificando los silabogramas. E] punto inter-
+medio entre la escritura silabica y la alfabética corresponde a las escrituras
+semitas, cada uno de cuyos grafemas representa una consonante, acompafiada
+por diacriticos que simbolizan cualquier vocal. Al final se llega a la escritura
+alfabética cuando los signos consonanticos son fonemiaticos y no silabicos, y
+se inventan signos especificos para las vocales. La representacién escrita de
+las vocales es invencién de los griegos.
+
+3.1.2.1. Los silabarios
+
+Los sistemas de escritura silabograficos 0 silabarios usan un conjunto de
+simbolos grdaficos para representar las sflabas. E] silabario es una opcién que
+s6lo se da en idiomas que tienen estructuras silabicas sencillas, de tipo CV
+(consonante + vocal) o sus variantes.
+
+El sistema de escritura egipcio lleg6 a emplear simbolos para representar
+silabas. Los fenicios que, inicialmente usaban una escritura logografica, hacia el
+
+86 PILAR RUIZ-VA PALACIOS
+
+afio 1000 a. C. la habian abandonado y disponian de un sistema de escritura sild-
+bica. Las escrituras mesoamericanas, por ejemplo, el maya, también hicieron en
+sus glifos una fusién compleja entre silabario y elementos logograficos.
+
+La escritura maya
+
+El involuntario transmisor de la clave para
+entender la escritura maya fue el obispo Diego de
+
+Landa. Este destruyé todos los libros mayas que | BR FOE ® i) ®™ §
+SoA A DD CO OT OE a
+
+encontré a su paso, pero en su obra Relacién de
+las cosas de Yucatan, incluye un sucinto y hasta @E ?) ®OAase 8
+TcAk - bo oM N 6 O
+
+Eqeivalencia Cenetiva de let lifer @
+
+erroneo sumario de jeroglificos mayas. El pensd
+que los mayas escribian con un alfabeto y pre- |, ey} 7
+gunto a su interlocutor nativo como se escribia @ ® san aa € ec) Gl
+‘a’, “b’, “c’, etc.; éste le dio los glifos (signos gra- Imagen, cfr.
+
+bados) para esos valores fonéticos y asi llego www.proel.org/index.php ?pagina=alfabetos/maya
+hasta nosotros la clave para descifrar tantas ins-
+
+cripciones mayas.
+
+Actualmente no existen sistemas silabicos puros. Por ejemplo, el japonés
+utiliza conjuntamente dos sistemas: sildbico (kana, abreviacion de karina,
+palabra prestada) e ideografico (kanji), basado en los caracteres chinos. El silé-
+bico se subdivide en dos: hiragana y katakana. El primero sirve para los afi-
+jos, la declinacion y la conjugaci6n; el segundo, para transcribir nombres pro-
+pios occidentales y préstamos. También existe un modo de escribir japonés con
+caracteres latinos: el romaji.
+
+El sistema de escritura coreano, el hangul, tiene la singularidad de que cada
+letra (tiene 28) se dibuja con trazos que representan los érganos que intervienen
+en la articulacién de los fonemas (dientes, lengua, labios, mejillas y garganta).
+Su inventor, el rey Seychong (1419-1450 d. C.) demostré tener profundos cono-
+cimientos lingiifsticos. Cada letra
+representa un fonema y las letras se = e ZEN <o> £é\
+agrupan formando silabas. Su senti- ea i foal t \K LY NE
+do actual es de arriba hacia abajo, vas 4s "aca dent As taskia Om gent 0 7
+
+comenzando por la derecha. Imagenes: www.proel.org/index.php?pagina=alfabetos/coreano
+
+La escritura del cheroqui
+
+EI sistema del cheroqui (lengua amerindia) es silabico (85
+silabogramas inspirados en las escrituras romana, griega y ciri-
+lica). Su creador, Sequoyah (1765-1843), es la Unica persona
+
+analfabeta —y monolingtie— que haya inventado un sistema de
+escritura adoptado por una comunidad de hablantes. Creia que
+el poder del hombre blanco radicaba en tener lengua escrita.
+
+www.proel.org/index.php?
+pagina=alfabelos/cheroqui Secuoya, creador del cheroqui.
+
+CAPITULO 3. EL MEDIO DELLENGUAJE 87
+
+3.1.2.2. Los alfabetos
+
+En el afio 2000 a. C., la escritura estaba ya extendida por el Oriente préxi-
+mo. Un milenio mas tarde apareci6 el alfabeto, un sistema de escritura cuyos
+grafemas tienen valor fonoldgico y no ideografico. Segtin Florian Coulmas
+(1999), la escritura jeroglifica esta en el remoto origen del alfabeto fenicio
+(1000 a. C.) del que derivaron el alfabeto hebreo, el drabe y el griego, del cual
+provienen a su vez los alfabetos latino y cirilico'’.
+
+EI alefato (primera letra: alef) 0
+alfabeto hebreo consta de veintidés
+grafemas consondnticos (desde el
+siglo ud. C. en la forma actual), que
+tienen también valor numérico, pues,
+como los romanos, los hebreos no
+=, utilizan simbolos especificos para los
+inilico : "
+guarismos. Ademas de las letras,
+cuenta con unos signos diacriticos
+que simbolizan las vocales, que se sittian debajo de los caracteres consonanti-
+
+cos, y con otros signos que, colocados bien sea encima, bien debajo de aque-
+llos, aportan informacion acentual.
+
+El alifato (primera letra: alif) o alfabeto arabe (s. tv d. C.) consta de vein-
+tiocho grafemas consondnticos; comenzé a denominarse ‘arabe clasico’ entre
+los siglos vim y xt, adquiri6 su prestigio por ser la utilizada en el Cordan. Es
+todavia hoy la forma culta ensefiada en la escuela, y se practica en las letras y
+en la administracién, por lo que funciona como elemento socialmente agluti-
+nante en la comunicacién del mundo isl4mico internacional. El arabe moder-
+no es una variante que en el presente siglo se est4 imponiendo velozmente como
+lengua de la comunicaci6n en competencia con el arabe clasico. Tanto el arabe
+como el hebreo se escriben de derecha a izquierda, por herencia del fenicio; y
+los libros se leen de la pagina de abajo a la de encima. No diferencian maytis-
+culas de mintsculas.
+
+E] primitivo alfabeto griego (750 a. C.) deja atras el alfabeto consondnti-
+co fenicio, y crea simbolos para representar también las vocales como sonidos
+independientes de los consondnticos. Por primera vez, cada sonido se repre-
+sentaba con una tinica grafia. La ortograffa griega no se ha modificado desde
+el siglo v a. C aunque posteriormente haya variado el valor fénico de algunos
+signos. El griego acabé fijando la escritura de izquierda a derecha. A partir del
+siglo 1x d. C. se incorporan las mintisculas.
+
+7 Por contacto entre pueblos vecinos a los fenicios, surgié un patrén comin de alfabeto semi-
+tico del que derivaron los de las lenguas iranias (persa, kurdo) e india hacia el Este y los alfabetos
+arabe, hebreo y griego hacia el Oeste. Las lenguas etiopes también son semiticas.
+
+88 PILAR RUIZ-VA PALACIOS
+
+Bustré6fedon
+
+Por todo el Mediterraneo griego se han hallado vasijas de ceramica con inscripcio-
+nes grabadas con una sistema de escritura conocida como bustréfedon, que, etimolé-
+gicamente significa “como ara el buey” y se caracteriza por combinar el sentido de escri-
+tura de las lineas alternativamente (en zigzag, de izquierda a derecha; derecha a
+izquierda...) invirtiendo el sentido de Ia linea anterior.
+
+Ejemplo contemporaneo de bustrofedén, en espafiol:
+
+Escribir de tal forma que el primer rengion se lee de izquierda a derecha,
+etnemavisecus isa y adreiuqzi a ahcered ed odnuges le
+es lo que se conoce con el nombre de escritura en bustrofedon o
+aifargotro elbod atpeca arbalap al euq ay nodefortsub
+
+Cfr. http://odisea.blogalia.com/historias/13703
+
+Alfabetos fenicio, arabe, hebreo y griego
+
+La comparaci6n entre los caracteres fenicios, arabes, hebreos y griegos, y también
+entre el nombre de las letras (aleph — alif — alef — alfa; beth — ba — bet — beta, etc.), resul-
+ta extraordinariamente significativa.
+
+Alfabeto fenicio Alifato o Alfabeto arabe
+
+SIANIALY
+
+Bein misao be [wow
+Elf
+
+44
+
+— Se as oe
+
+Keb orebeLenmErt
+
+w
+a
+CI
+E
+2
+FY
+va
+P)
+=
+-
+cs od
+
+Imagen alfabeto fenicio: www.midisegni.it Imagen alfabeto arabe: www.universia.es
+
+Alefato o Alfabeto hebreo Alfabeto griego
+9g A qa alfa Novo
+re av He mel Bel 7
+OM ch @ Me O GH BY ble roy gamma © 0 6micron
+A 6 delta 11 oa pi
+E c é€psilon P p= fo
+y fa) j 3 B Q J 3 Z C dseta =o sigma
+Ayin Samech Nun Nun Mem Mem Lamed Khaf Kal H n aa T 2 fag
+tae 1) OO OD Bo © KM Kay 9 6 zela Y vu __ psilon
+Iu iota o> © fi
+WISP SB) [ks tame x rs
+j A i lambda YY wy psi
+Tay Shin Resh Qof Tradeh Tsadth Feb  Peh Mu mi Q ww omega
+mT mo ® @ dy dy MH OH
+
+Imagen alfabeto griego: htlp:/laescueladeateanas.wordpress.com/
+
+Imagen alfabeto hebreo: ww.taringa.net 2007/10/03/el-alfabeto-griego-i
+
+CAPITULO 3. EL MEDIO DEL LENGUAJE 89
+
+cage = E] alfabeto cirilico (Bul-
+ABBYTQZEE K)3|H\H garia, primera mitad el siglo
+ABVGD EEZZI J x d. C.) debe su nombre al
+monje Cirilo, misionero
+
+KUMHO Dd ePcCcryYe enviado por Bizancio para
+KLMNO PRSTU F escribir los textos sagrados
+en lenguas eslavas, hasta
+
+XE OW mW Be B32 a JA entonces dgrafas. Aunque
+xccsscscyYYeE proviene del alfabeto griego,
+
+tiene también semejanza con
+el latino. Se utiliza para el
+ruso, otras lenguas eslavas (ucraniano, bielorruso, serbio, bulgaro, y macedo-
+nio) y de las reptiblicas ex-soviéticas (turkmeno, azerbaiyano, checheno, kir-
+guis, yakuto...).
+
+Imagen tomada de: hitp:/www.proel.ora/index.php?pagina=allabetos/cirilico
+
+Pese a que no se descarta la hipétesis de la procedencia directa del griego
+del alfabeto latino, parece bastante atestiguado que el alfabeto Ileg6 a Roma
+a través de los etruscos. En todo caso, segtin Tacito (Anales xi: 14), “la forma
+de las letras latinas es la de las originales griegas”, tal es la similitud formal
+entre las maytisculas griegas y latinas. Los romanos suprimieron algunas de
+las 24 letras del alfabeto griego. El uso de las mintsculas latinas no se genera-
+liza hasta el siglo vi d. C. El alfabeto romano 0 latino, con ‘sus 29 letras, esel
+mas usado en el mundo: Europa, América, Africa Subsahariana, Asia...
+
+3.2. Oralidad y escritura
+
+Existe la extendida creencia de que pensamos con ayuda de la escritura,
+pero se ha detenido usted a reflexionar sobre estas dos cuestiones?
+
++ 4Acaso no piensan los hablantes de lenguas que carecen de escritura?
++ ~Qué ha supuesto la escritura en la Historia de la Humanidad?
+Proponga dos consecuencias sociales de la aparicion de la escritura.
+
+Los miembros de las sociedades letradas tenemos dificultades para conce-
+bir nuestra vida sin la escritura, la herramienta que usamos cotidianamente. Asi
+que nos cuesta imaginar que los integrantes de las sociedades sin escritura le
+asignasen a la palabra la funcién de otorgadora de poder: no cualquiera podia
+hablar, no cualquiera podia escuchar; cada individuo sabfa unicamente lo que
+era capaz de recordar. La memoria era entonces la protagonista principal en las
+relaciones sociales 0, con exactitud, lo eran quienes la posefan. Las demandas
+de las sociedades orales primarias se satisfacian suficientemente con la palabra
+hablada, ya que explotaban una serie de estrategias especificas denominadas
+“psicodindmicas”.
+
+90 PILAR RUIZ-VA PALACIOS
+
+Las relaciones entre la oralidad y la escritura se abordan basicamente desde
+dos perspectivas:
+
+1. La lengua oral es prioritaria sobre la escrita porque es previa, tanto en
+la historia de la humanidad como en la vida de cada individuo. La argu-
+mentaci6n se organiza en torno al origen. El propio Saussure afirma que
+la escritura es un complemento de la lengua oral.
+
+N
+
+. La escritura es superior a la oralidad porque caracteriza las sociedades
+civilizadas, mas evolucionadas, y de individuos cultos.
+
+La propuesta de Ong concilia ambas posturas a partir de dos premisas basi-
+cas. Por un lado, en las sociedades que conocen la escritura, las funciones que
+adquieren la oralidad y la escritura son complementarias y no se puede hablar
+de que una sea superior a la otra. Y por otro, la oralidad de las sociedades sin
+escritura es diferente de la oralidad de las sociedades con escritura.
+
+En un mundo en el que existen lenguas sin escritura y sectores de la pobla-
+cién mundial que todavia no han tenido acceso a ella 0 no Ja dominan, siguen
+afianzados paraddjicamente ciertos prejuicios acerca de las lenguas que care-
+
+cen de sistema escrito, cuyo funcionamiento es idéntico al de las lenguas que
+si lo poseen.
+
+66 Las lenguas que se escriben funcionan exactamente
+igual que las lenguas que no se escriben; la escritura no
+induce funcién codificadora o fijadora decisiva en la
+lengua. [...]
+
+Las lenguas que se han escrito durante largos periodos de
+tiempo [...] han experimentado los mismos tipos de
+cambio que aquellas que nunca se han puesto por escrito.
+[...] El griego se ha escrito también durante milenios: a
+
+pesar de ello, el micénico (la forma de griego mds antigua shit eee
+conocida) es muy diferente del griego moderno. 9 9 Carlos_Moreno_Cabrera
+
+aS Ba
+
+Moreno Cabrera (2005: 9)
+Juan Carlos Moreno Cabrera (1956) es catedratico de Lingiifstica General
+en la Universidad Auténoma de Madrid
+
+Entre los prejuicios més arraigados del mundo occidental acerca de su supe-
+rioridad cientifica, tecnolégica y cultural con respecto a otras sociedades mds
+desfavorecidas (sobre todo econdémicamente), destaca el de que el sistema de
+escritura occidental, el alfabético, es superior a los demas sistemas de escritu-
+ra de cualquier época. Moreno Cabrera (2005: 29-31) rebate, por un lado, los
+fundamentos cientificos del grafocentrismo, “la idea de que la cultura escrita
+es superior cualitativamente a la cultura oral”, la cual revela una concepcidn
+paternalista y etnocentrista bastante extendida en el mundo occidental, que con-
+sidera como el mas perfecto el modelo lingiifstico que cuenta con tradicién
+
+CAPITULO 3. EL MEDIO DEL LENGUAJE 91
+
+escrita, y, por lo tanto, que las lenguas de tradicién oral, las lenguas sin escri-
+tura, son inferiores o subdesarrolladas y precisan de la tutela y la guia de las cul-
+turas “superiores”. Y por otro lado, rebate el alfabetocentrismo (prejuicio
+mayor, si cabe, que el anterior, la creencia de que en las sociedades que usan
+el alfabeto y disponen de escritura son culturalmente superiores —o estan cul-
+turalmente més desarrolladas...— que las que no la tienen), con el argumento de
+que “esa afirmacién no surge del conocimiento profundo de la inmensa mayo-
+ria de las sociedades de tradicién oral, sino de ideas preconcebidas sobre las
+bondades ilimitadas de nuestra sociedad” (ibid. 10).
+
+Para concluir, la lengua hablada y la signada son la manifestacion basica °
+primaria del lenguaje, mientras que la lengua escrita, desde el punto de vista del
+medio del lenguaje, es secundaria. Lo oral y lo escrito son medios de comuni-
+cacién independiente, con funciones diferentes, que en nuestros dias presentan
+registros, usos y hasta convenciones discursivas diferentes.
+
+3.2.1. Caracteristicas de la lengua escrita
+
+1. La elaboracién de un texto escrito implica disponer de tiempo para pla-
+nificarlo con esmero y también para revisarlo antes de que llegue al
+receptor. A su vez, el lector del discurso escrito goza de autonomia en
+relacion con el emisor (el autor): un texto puede ser escrito y leido con
+gran intervalo temporal entre ambas actividades lingiiisticas.
+
+2. Las estructuras textuales con que se organizan los escritos convencio-
+nalmente se ajustan por lo general a formatos can6nicos: exposicion,
+argumentaci6n, descripcién, narracién. Un discurso o una conferencia,
+textos que se desarrollan en lengua oral, suelen planificarse también,
+bdsicamente con las técnicas de la lengua escrita, aunque entren en juego
+peculiaridades de la interaccién oral.
+
+3. La lengua escrita opuestamente a la oral requiere mas correccion for-
+mal normativa, es decir, sistematizacién; exige mayor precision léxica
+y conceptual; utiliza vocablos en su acepcién semantica mas formal te) de
+nivel culto, y representa gran parte de los elementos de cohesion del dis-
+curso oral pertenecientes a cddigos no verbales (la entonaci6n, la velo-
+cidad del habla, las pausas, los gestos, etc.) con elementos de cohesion
+lingiifsticos (defcticos, marcadores, estructuracién sintactica) y graficos
+(signos de puntuacién). El discurso escrito cuenta estrictamente con
+medios lingiifsticos: no es posible recurrir a subsanar las.carencias expre-
+sivas con medios “paralingiifsticos”.
+
+4. El discurso escrito criba y organiza la informacién; se selecciona sélo
+
+aquella que se considera relevante, se evitan las digresiones y redun-
+dancias. Elimina los elementos lingiifsticos sin contenido semantico
+
+92. PILAR RUIZ-VA PALACIOS
+
+wn
+
+especifico, como son los clichés, las muletillas y repeticiones, 0 los sus-
+tituye mediante el uso de sin6énimos mas apropiados. Es reflexivo y suele
+manifestar un minimo prurito de originalidad por parte del autor.
+
+E] autor de un texto escrito tiende a eliminar las variantes lingiifsticas
+dialectales y a utilizar el registro estandar de la lengua, inscrito en el
+cual se estima que un escrito presenta mayor adecuacién tanto a los fines
+como a los lectores a los que se destina el texto. La expresién de varie-
+dades personales (edad, sexo, ideologias, sentimientos, cardcter) del
+hablante exige una elaboracién minuciosa y costosa si se pretende repre-
+sentarlos en el discurso escrito.
+
+. Los textos escritos gozan de prestigio social y se les atribuye credibili-
+
+dad. El soporte material de la escritura anterior a la era de la informati-
+ca les conferfa una inalterabilidad que hacia atribuir a los escritos valor
+testimonial y criterio de autoridad. La norma escrita —asimilada a la del
+lenguaje literario— suele influir en el habla de la poblacién escolarizada.
+En situaciones de comunicaci6n formales, los hablantes intentan imitar
+la norma escrita e incluso evitan el empleo de sus usos orales dialecta-
+les, los cuales se relegan para las situaciones mas familiares 0 colo-
+quiales. En los paises arabes, por ejemplo, las personas cultas emplean
+el arabe clasico tanto en el discurso oral en situaciones formales como
+en la escritura, mientras que las personas menos instruidas s6lo emple-
+an su variedad dialectal del arabe coloquial.
+
+Se proyecta también en la escritura el dinamismo de la lengua oral, la
+cual cambia continuamente por influencia de los grupos sociales y de la
+evolucion de la realidad social, intelectual, espiritual e histérica, para
+adaptarse a las necesidades de los hablantes. El cédigo de los mensajes
+de texto de los méviles y el de los correos electrénicos es un buen ejem-
+plo del dinamismo que interrelaciona la lengua oral y la lengua escrita.
+
+. La lengua escrita mantiene su supremacia de canon con respecto a la
+
+lengua oral porque representa patrones sociales y culturales que se sir-
+ven de la escuela como uno de sus instrumentos de mantenimiento, y de
+transmisi6n y reproducci6n. Son dos los factores que determinan la valo-
+racion de superioridad de la escritura: el efecto del sistema educativo y
+el efecto reforzador del sistema social. El primero consiste en que la
+escuela refuerza la creencia de la superioridad de la escritura sobre el
+habla. El segundo efecto, reforzador del sistema social, se observa en
+que cualquier individuo que desea identificarse con un grupo social de
+prestigio y que, ademas, aspira a ser aceptado, intenta adaptar sus habi-
+tos lingiiisticos a los de dicho grupo. En las sociedades en donde subsiste
+el analfabetismo, quienes poseen el cédigo de la escritura tienen mds
+poder que quienes no lo conocen, entre otras cosas porque los tiltimos
+no tienen acceso a la informacién que se transmite por via escrita.
+
+CAPITULO 3. EL MEDIO DELLENGUAJE 93
+
+Resumen
+
+En este tema le hemos presentado, en primer lugar, las diferencias entre los
+medios primarios del lenguaje (oral y signado) y los secundarios (principal-
+mente la escritura, pero no s6lo: también el silbo gomero, por ejemplo, es un
+medio secundario para el lenguaje.
+
+La mayor parte del tema se ha dividido entre las lenguas signadas, por un
+lado, y los cédigos escritos, por otro.
+
+Respecto a las lenguas de signos, hemos argumentado su esencial similitud
+con las lenguas orales, con quienes se debe considerar en pie dei gualdad, tanto
+en cuanto a su complejidad léxica y gramatical como en sus caracteristicas
+intrinsecas. Sin embargo, también se han sefialado sus diferencias: ademas del
+canal visual-manual, frente al auditivo-oral de las lenguas habladas, las len-
+guas de signos son ms ic6nicas, son espaciales y no lineales, etc.
+
+El segundo apartado del tema concluye con una brevisima vision de las len-
+guas de signos desde un punto de vista psico y neurolingiiistico, y una panora-
+mica general de su variacién geografica y dialectal.
+
+La tercera parte del tema presenta la escritura como medio secundario del
+lenguaje. Por una parte, hemos tratado de desmitificar los prejuicios del grafo-
+centrismo y del alfabetocentrismo, desde la premisa de la igualdad de las len-
+guas del mundo, en la creencia de que no es admisible atribuir superioridad a
+ningiin sistema de escritura. Hemos presentado las dos clases de sistemas de
+escritura los logograficos o no fonolégicos (pictogramas, logogramas, ideo-
+gramas) y los fonograficos 0 fonolégicos (alfabetos y silabarios). Hemos sefia-
+lado la trascendencia de la aparicién de la escritura en la Historia de la huma-
+nidad y el alcance de las tecnologfas de la palabra. Y por ultimo, hemos
+abordado una caracterizacién de la lengua escrita frente a la lengua oral.
+
+PARA PERSONALIZAR SU APRENDIZAJE
+
+1. Bibliografia
+
+Coulmas, F. (1999), The Blackwell Encyclopedia of Writing Systems, Wiley-Blackwell.
+
+Hoiting N. y D. Slobin (2007): “From gestures to sign in the acquisition of sing lan-
+guages”. En Duncan, Cassell y Levy: Gesture and the Dynamic Dimension of
+Language, John Benjamins.
+
+Meyer, J. (2005) “Whistled speech: a natural phonetic description of languages adapt-
+ed to human perception and to the natural environment”, Interspeech’ 2005, Lis-
+boa Portugal, 2005. http://www.lab.upe.es/~julien/Interspeech WhistledJulienMeyer.pdf
+
+Moreno Cabrera, J.C. (2005): Las Lenguas y sus Escrituras. Tipologta, evolucién e
+ideologia, Madrid, Sintesis.
+
+Nakanishi, A. (1980), Writing Systems of the World: alphabets, syllabaries, pictograms,
+Rutland, Tuttle.
+
+Ong, W.J. (1982): Orality and Literacy: The Technologizing of the Word. New York,
+New Accents. Ed. Terence Hawkes. En esp., Oralidad y escritura. Tecnologias
+de la palabra. México, Fondo de Cultura Econémica, 1987.
+
+Trujillo Carrefio, R. (2006) El Silbo gomero. Nuevo estudio fonolégico (edicién
+bilingiie: espafiol-inglés). Cuadernos de dialectologia de la Academia Canaria
+de La Lengua. Tenerife.
+
+La polémica
+
+Lengua de signos, lengua de sefias:
+Gascén Ricao, A. (1998-2003) “;Sefias 0 signos?: evolucién histérica”. En:
+http://www.ucm es/info/civil/bardecom/docs/signos.pdf
+
+Oviedo, A. (1997-2006) “Lengua de sefias, lengua de signos? Razones para una
+denominacién”. En:
+http://www.cultura-sorda.eu/resources/Oviedo_+Lengua_de_senas_lengua_de_signos.pdf
+
+2. Enlaces
+
+http://www.cervantesvirtual.com/seccion/signos/
+
+La secci6n sobre signo en Cervantes Virtual.
+http://www.sematos.eu/Ise-I.html (LSE/LSF/LSIntnal/LSC).
+http://www.fesoca.org/ Lengua de Signos Catalana.
+http://www.fundacioncnse.org/tesorolse El Tesoro de la Lengua de Signos Espa-
+
+fiola.
+
+A guide to the languages, alphabets, syllabaries and others writing Systems:
+http://www.omniglot.com/
+
+http://www.proel.org/index php?pagina=alfabetos
+
+= www.youtube.com/watch?v=t9t6bm0P9GI Historia de la Escritura
+
+94 PILAR RUIZ-VA PALACIOS
+
+CAPITULO 3. EL MEDIO DEL LENGUAJE 95
+
+Ejercicios de autocomprobacién
+
+1. Clasifique como medios primarios, secundarios 0 doblemente secundarios las
+siguientes modalidades de expresi6n lingiifstica:
+
+. Los mensajes sms.
+
+. Los cédices medievales escritos a mano.
+
+. El alfabeto braille.
+
+. El hangul coreano.
+
+El espafiol silbado en la Sierra Madre Oriental mejicana por los huastecos.
+
+E] alfabeto dactilolégico.
+
+Los jeroglificos egipcios.
+
+DMF WN
+
+N
+
+- Relacione cada una de las siguientes caracterfsticas del lenguaje con la modalidad
+correspondiente (oral-auditiva, gestual-visual o ambas).
+
+1. Arbitrariedad. 2. Cardcter espacial.
+3. Iconicidad. 4. Linealidad en la emisién.
+5. Simultaneidad en la emisi6n. 6. Desplazamiento.
+
+3. Seria capaz de traducir al espaiiol los siguientes signos de la LSE?
+
+{Qué indica este ejercicio sobre la relacién entre gesto y signo?
+
+4. Intente clasificar los signos anteriores en la siguiente tabla de pardmetros.
+Configuracién Orientacién Movimiento Lugar ae
+de articulacién
+
+Al Recto En arco Cuerpo
+
+96 VICTORIA MARRERO AGUIAR Y PILAR RUIZ-VA PALACIOS
+
+. ~Podria identificar a qué sistema de escritura de lenguas de signos corresponden
+
+estas imagenes?
+
+SBS 22M sO ant *,
+BOrarergot,
+®) nvetvey' xx F Br YY
+
+a © . LOur
+% @ 2 = o gees
+—J#+# ne
+
+. Existe la extendida creencia de que pensamos con ayuda de la escritura, pero ise ha
+
+detenido usted a reflexionar sobre estas dos cuestiones?
+
+¢ ,Acaso no piensan los hablantes de lenguas que carecen de escritura?
+* {Qué ha supuesto la escritura en la Historia de la Humanidad?
+* Proponga dos consecuencias sociales de la aparicién de la escritura.
+
+. Qué concepcién de la escritura y la oralidad puede usted deducir que se manifies-
+
+ta en estos refranes y frases hechas?
+
+e La letra con sangre entra.
+
+Una imagen vale mas que mil palabras.
+Las palabras se las Ileva el viento.
+Hechos son amores y no buenas razones.
+A buen entendedor, pocas palabras bastan.
+
+. (Podria establecer una correlacién entre las caracteristicas de la lengua hablada que
+
+aparecen en la tabla y las de la lengua escrita que aparecen relacionadas en la lista
+que figura debajo? Anote la letra correspondiente en la columna de la derecha.
+
+Tee
+Coincidencia espacial y temporal de hablante y oyente | sd
+
+Marco de relaciones compartido en la situaci6n de comunicacion]|
+Temporalidad
+
+tate
+
+aa ce
+de preguntas
+
+Abundancia de muletillas fs
+Repeticiones y redundancias fs
+
+Abundancia de detalles
+Oraciones incompletas
+
+CAPITULO 3. EL MEDIO DEL LENGUAJE 97
+
+Separacién temporal y espacial de emisor y receptor.
+
+Permanencia.
+
+Escasez de muletillas.
+
+Precision y concisién.
+
+Marco de relaciones creado en el texto.
+
+Imposibilidad -inmediata, al menos— de controlar la comprensién del mensaje
+con preguntas.
+
+Oraciones completas.
+
+Ausencia de gestos y mimica.
+
+. Repeticiones escasas 0 inexistentes.
+
+DWE WI
+
+mm
+
+9. Enel teclado del ordenador o del mévil la mayoria de los simbolos son alfabéticos
+o numéricos. Pero, junto a ellos, usted esté habituado a emplear otros como:
+
+{},@,€,*,#,",3
+* {Son alfabéticos, pictograficos, logograficos o ideograficos?
+* Y estos otros simbolos, {de qué tipo son?:
+
+©,9,@,>,n
+
+10. Por una parte, el mapa de Espaiia, el plano del metro de Nueva York , y, por otra
+parte, las sefiales que indican —-en los aeropuertos, por ejemplo— los aseos, los
+ascensores, “prohibido fumar”, json pictogramas, ideogramas o logogramas?
+
+98 VICTORIA MARRERO AGUIAR Y PILAR RUIZ-VA PALACIOS
+
+CAPITULO 4
+Los sonidos en las lenguas
+
+Victoria Marrero Aguiar
+
+Yo las ot. Sonaban como las demas. Daban el mismo sonido.
+Las decian los mismos labios, que hacian el mismo movimiento.
+Pero no se las podia oir igual. Porque significan: las palabras
+significan. Ay, si las palabras fuesen sélo un suave sonido,
+
+y cerrando los ojos se las pudiese escuchar en el suejfio...
+
+Yo las oi. Y su sonido final fue como el de una
+llave que se cierra.
+
+Como un portazo.
+
+Las oi, y quedé mudo.
+
+Y of los pasos que se alejaron.
+
+Vicente Aleixandre: Historia del corazén.
+Madrid, Espasa Calpe, 1954.
+
+Los sonidos constituyen la primera y mas evidente manifestacién del len-
+guaje. Nos acompaiian a lo largo de toda nuestra vida como hablantes, y pode-
+mos utilizarlos para funciones tan elementales como las asociadas a las excla-
+maciones de la imagen anterior, o para otras tan elaboradas como el poema de
+Aleixandre, cuya alusién a los diferentes procesos implicados en la codificacién
+y descodificacién del habla se acompaifia de un uso de los sonidos con toda su
+potencia fonoestilistica “fuesen solo un suave sonido”).
+
+Comenzamos con este capitulo, dedicado a la Fonética y la Fonologia, la
+descripcién de los niveles de andlisis del lenguaje. A la estructura del nivel
+fénico le seguiran la de la palabra (Morfologia) y la oracién (Sintaxis), segui-
+das por el estudio del significado léxicos u oracional (Semdntica) y su uso
+(Pragmatica).
+
+CAPITULO 4. LOS SONIDOS EN LASLENGUAS 99
+
